@@ -1,0 +1,31 @@
+{
+  "id": 3500,
+  "name": "Paribu Net Testnet",
+  "shortName": "prbtestnet",
+  "networkId": 3500,
+  "network": "paribu-net testnet",
+  "chain": "PRB",
+  "infoUrl": "https://net.paribu.com",
+  "nativeCurrency": {
+    "name": "PRB",
+    "symbol": "PRB",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "paribuscan": "https://rpc.testnet.paribuscan.com",
+    "public": "https://rpc.testnet.paribuscan.com",
+    "default": "https://rpc.testnet.paribuscan.com"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Paribu Net Testnet Explorer",
+      "url": "https://testnet.paribuscan.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Paribu Net Testnet Explorer",
+      "url": "https://testnet.paribuscan.com",
+      "standard": "EIP3091"
+    }
+  }
+}

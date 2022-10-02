@@ -1,0 +1,31 @@
+{
+  "id": 12052,
+  "name": "Singularity ZERO Mainnet",
+  "shortName": "ZERO",
+  "networkId": 12052,
+  "network": "singularity-zero mainnet",
+  "chain": "ZERO",
+  "infoUrl": "https://www.singularity.gold",
+  "nativeCurrency": {
+    "name": "ZERO",
+    "symbol": "ZERO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "singularity": "https://zerorpc.singularity.gold",
+    "public": "https://zerorpc.singularity.gold",
+    "default": "https://zerorpc.singularity.gold"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Zeroscan",
+      "url": "https://zeroscan.singularity.gold",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Zeroscan",
+      "url": "https://zeroscan.singularity.gold",
+      "standard": "EIP3091"
+    }
+  }
+}

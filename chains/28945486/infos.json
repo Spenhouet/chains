@@ -1,0 +1,20 @@
+{
+  "id": 28945486,
+  "name": "Auxilium Network Mainnet",
+  "shortName": "auxi",
+  "networkId": 28945486,
+  "network": "auxilium-network mainnet",
+  "chain": "AUX",
+  "infoUrl": "https://auxilium.global",
+  "nativeCurrency": {
+    "name": "Auxilium coin",
+    "symbol": "AUX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "auxilium": "https://rpc.auxilium.global",
+    "public": "https://rpc.auxilium.global",
+    "default": "https://rpc.auxilium.global"
+  },
+  "blockExplorers": {}
+}

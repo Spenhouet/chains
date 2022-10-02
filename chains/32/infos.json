@@ -1,0 +1,20 @@
+{
+  "id": 32,
+  "name": "GoodData Testnet",
+  "shortName": "GooDT",
+  "networkId": 32,
+  "network": "gooddata-testnet",
+  "chain": "GooD",
+  "infoUrl": "https://www.goodata.org",
+  "nativeCurrency": {
+    "name": "GoodData Testnet Ether",
+    "symbol": "GooD",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "goodata": "https://test2.goodata.io",
+    "public": "https://test2.goodata.io",
+    "default": "https://test2.goodata.io"
+  },
+  "blockExplorers": {}
+}

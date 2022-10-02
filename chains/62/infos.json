@@ -1,0 +1,16 @@
+{
+  "id": 62,
+  "name": "Ethereum Classic Testnet Morden",
+  "shortName": "tetc",
+  "networkId": 2,
+  "network": "ethereum-classic testnet morden",
+  "chain": "ETC",
+  "infoUrl": "https://ethereumclassic.org",
+  "nativeCurrency": {
+    "name": "Ethereum Classic Testnet Ether",
+    "symbol": "TETC",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {}
+}

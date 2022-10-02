@@ -1,0 +1,20 @@
+{
+  "id": 10101,
+  "name": "Blockchain Genesis Mainnet",
+  "shortName": "GEN",
+  "networkId": 10101,
+  "network": "blockchain-genesis mainnet",
+  "chain": "GEN",
+  "infoUrl": "https://www.xixoio.com/",
+  "nativeCurrency": {
+    "name": "GEN",
+    "symbol": "GEN",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "xixoio": "https://asia.mainnet.xixoio.com",
+    "public": "https://asia.mainnet.xixoio.com",
+    "default": "https://asia.mainnet.xixoio.com"
+  },
+  "blockExplorers": {}
+}

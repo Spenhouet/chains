@@ -1,0 +1,28 @@
+id: 71402
+name: Godwoken Mainnet
+shortName: gw-mainnet-v1
+networkId: 71402
+network: godwoken-mainnet
+chain: GWT
+infoUrl: https://www.nervos.org
+nativeCurrency:
+  name: pCKB
+  symbol: pCKB
+  decimals: 18
+rpcUrls:
+  godwoken: https://v1.mainnet.godwoken.io/rpc
+  public: https://v1.mainnet.godwoken.io/rpc
+  default: https://v1.mainnet.godwoken.io/rpc
+blockExplorers:
+  blockscout:
+    name: GWScout Explorer
+    url: https://gw-mainnet-explorer.nervosdao.community
+    standard: none
+  etherscan:
+    name: GWScan Block Explorer
+    url: https://v1.gwscan.com
+    standard: none
+  default:
+    name: GWScout Explorer
+    url: https://gw-mainnet-explorer.nervosdao.community
+    standard: none

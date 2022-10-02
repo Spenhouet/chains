@@ -1,0 +1,31 @@
+{
+  "id": 18,
+  "name": "ThunderCore Testnet",
+  "shortName": "TST",
+  "networkId": 18,
+  "network": "thundercore-testnet",
+  "chain": "TST",
+  "infoUrl": "https://thundercore.com",
+  "nativeCurrency": {
+    "name": "ThunderCore Testnet Token",
+    "symbol": "TST",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "thundercore": "https://testnet-rpc.thundercore.com",
+    "public": "https://testnet-rpc.thundercore.com",
+    "default": "https://testnet-rpc.thundercore.com"
+  },
+  "blockExplorers": {
+    "thundercore-blockscout-testnet": {
+      "name": "Thundercore-blockscout-testnet",
+      "url": "https://explorer-testnet.thundercore.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Thundercore-blockscout-testnet",
+      "url": "https://explorer-testnet.thundercore.com",
+      "standard": "EIP3091"
+    }
+  }
+}

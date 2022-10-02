@@ -1,0 +1,24 @@
+id: 69420
+name: Condrieu
+shortName: cndr
+networkId: 69420
+network: condrieu
+chain: ETH
+infoUrl: https://condrieu.ethdevops.io
+nativeCurrency:
+  name: Condrieu Testnet Ether
+  symbol: CTE
+  decimals: 18
+rpcUrls:
+  ethdevops: https://rpc.condrieu.ethdevops.io:8545
+  public: https://rpc.condrieu.ethdevops.io:8545
+  default: https://rpc.condrieu.ethdevops.io:8545
+blockExplorers:
+  blockscout:
+    name: Condrieu explorer
+    url: https://explorer.condrieu.ethdevops.io
+    standard: none
+  default:
+    name: Condrieu explorer
+    url: https://explorer.condrieu.ethdevops.io
+    standard: none

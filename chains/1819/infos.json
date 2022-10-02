@@ -1,0 +1,31 @@
+{
+  "id": 1819,
+  "name": "Cube Chain Testnet",
+  "shortName": "cubet",
+  "networkId": 1819,
+  "network": "cube-chain testnet",
+  "chain": "Cube",
+  "infoUrl": "https://www.cube.network",
+  "nativeCurrency": {
+    "name": "Cube Chain Test Native Token",
+    "symbol": "CUBET",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "cube": "https://http-testnet-us.cube.network",
+    "public": "https://http-testnet-us.cube.network",
+    "default": "https://http-testnet-us.cube.network"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Cubetest-scan",
+      "url": "https://testnet.cubescan.network",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Cubetest-scan",
+      "url": "https://testnet.cubescan.network",
+      "standard": "EIP3091"
+    }
+  }
+}

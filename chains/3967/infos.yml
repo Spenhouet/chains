@@ -1,0 +1,24 @@
+id: 3967
+name: DYNO Testnet
+shortName: tdyno
+networkId: 3967
+network: dyno-testnet
+chain: DYNO
+infoUrl: https://dynoprotocol.com
+nativeCurrency:
+  name: DYNO Token
+  symbol: tDYNO
+  decimals: 18
+rpcUrls:
+  dynoprotocol: https://tapi.dynoprotocol.com
+  public: https://tapi.dynoprotocol.com
+  default: https://tapi.dynoprotocol.com
+blockExplorers:
+  etherscan:
+    name: DYNO Explorer
+    url: https://testnet.dynoscan.io
+    standard: EIP3091
+  default:
+    name: DYNO Explorer
+    url: https://testnet.dynoscan.io
+    standard: EIP3091

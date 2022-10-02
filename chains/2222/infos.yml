@@ -1,0 +1,24 @@
+id: 2222
+name: Kava EVM
+shortName: kava
+networkId: 2222
+network: kava-evm
+chain: KAVA
+infoUrl: https://www.kava.io
+nativeCurrency:
+  name: Kava
+  symbol: KAVA
+  decimals: 18
+rpcUrls:
+  kava: https://evm2.kava.io
+  public: https://evm2.kava.io
+  default: https://evm2.kava.io
+blockExplorers:
+  blockscout:
+    name: Kava EVM Explorer
+    url: https://explorer.kava.io
+    standard: EIP3091
+  default:
+    name: Kava EVM Explorer
+    url: https://explorer.kava.io
+    standard: EIP3091

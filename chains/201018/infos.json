@@ -1,0 +1,31 @@
+{
+  "id": 201018,
+  "name": "Alaya Mainnet",
+  "shortName": "alaya",
+  "networkId": 1,
+  "network": "alaya-mainnet",
+  "chain": "Alaya",
+  "infoUrl": "https://www.alaya.network/",
+  "nativeCurrency": {
+    "name": "ATP",
+    "symbol": "atp",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "alaya": "https://openapi.alaya.network/rpc",
+    "public": "https://openapi.alaya.network/rpc",
+    "default": "https://openapi.alaya.network/rpc"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Alaya explorer",
+      "url": "https://scan.alaya.network",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Alaya explorer",
+      "url": "https://scan.alaya.network",
+      "standard": "none"
+    }
+  }
+}

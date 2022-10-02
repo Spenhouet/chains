@@ -1,0 +1,31 @@
+{
+  "id": 1313114,
+  "name": "Etho Protocol",
+  "shortName": "etho",
+  "networkId": 1313114,
+  "network": "etho-protocol",
+  "chain": "ETHO",
+  "infoUrl": "https://ethoprotocol.com",
+  "nativeCurrency": {
+    "name": "Etho Protocol",
+    "symbol": "ETHO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ethoprotocol": "https://rpc.ethoprotocol.com",
+    "public": "https://rpc.ethoprotocol.com",
+    "default": "https://rpc.ethoprotocol.com"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Blockscout",
+      "url": "https://explorer.ethoprotocol.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://explorer.ethoprotocol.com",
+      "standard": "none"
+    }
+  }
+}

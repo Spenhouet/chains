@@ -1,0 +1,16 @@
+id: 1620
+name: Atheios
+shortName: ath
+networkId: 11235813
+network: atheios
+chain: ATH
+infoUrl: https://atheios.com
+nativeCurrency:
+  name: Atheios Ether
+  symbol: ATH
+  decimals: 18
+rpcUrls:
+  atheios: https://wallet.atheios.com:8797
+  public: https://wallet.atheios.com:8797
+  default: https://wallet.atheios.com:8797
+blockExplorers: {}

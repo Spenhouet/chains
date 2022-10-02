@@ -1,0 +1,24 @@
+id: 7027
+name: Ella the heart
+shortName: ELLA
+networkId: 7027
+network: ella-the heart
+chain: ella
+infoUrl: https://ella.network
+nativeCurrency:
+  name: Ella
+  symbol: ELLA
+  decimals: 18
+rpcUrls:
+  ella: https://rpc.ella.network
+  public: https://rpc.ella.network
+  default: https://rpc.ella.network
+blockExplorers:
+  ella:
+    name: Ella
+    url: https://ella.network
+    standard: EIP3091
+  default:
+    name: Ella
+    url: https://ella.network
+    standard: EIP3091

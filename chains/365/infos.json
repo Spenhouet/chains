@@ -1,0 +1,31 @@
+{
+  "id": 365,
+  "name": "Theta Testnet",
+  "shortName": "theta-testnet",
+  "networkId": 365,
+  "network": "theta-testnet",
+  "chain": "Theta",
+  "infoUrl": "https://www.thetatoken.org/",
+  "nativeCurrency": {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "thetatoken": "https://eth-rpc-api-testnet.thetatoken.org/rpc",
+    "public": "https://eth-rpc-api-testnet.thetatoken.org/rpc",
+    "default": "https://eth-rpc-api-testnet.thetatoken.org/rpc"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Theta Testnet Explorer",
+      "url": "https://testnet-explorer.thetatoken.org",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Theta Testnet Explorer",
+      "url": "https://testnet-explorer.thetatoken.org",
+      "standard": "EIP3091"
+    }
+  }
+}

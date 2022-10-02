@@ -1,0 +1,20 @@
+{
+  "id": 35855456,
+  "name": "Joys Digital Mainnet",
+  "shortName": "JOYS",
+  "networkId": 35855456,
+  "network": "joys-digital mainnet",
+  "chain": "JOYS",
+  "infoUrl": "https://joys.digital",
+  "nativeCurrency": {
+    "name": "JOYS",
+    "symbol": "JOYS",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "joys": "https://node.joys.digital",
+    "public": "https://node.joys.digital",
+    "default": "https://node.joys.digital"
+  },
+  "blockExplorers": {}
+}

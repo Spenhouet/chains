@@ -1,0 +1,31 @@
+{
+  "id": 2612,
+  "name": "EZChain C-Chain Mainnet",
+  "shortName": "EZChain",
+  "networkId": 2612,
+  "network": "ezchain-c-chain mainnet",
+  "chain": "EZC",
+  "infoUrl": "https://ezchain.com",
+  "nativeCurrency": {
+    "name": "EZChain",
+    "symbol": "EZC",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ezchain": "https://api.ezchain.com/ext/bc/C/rpc",
+    "public": "https://api.ezchain.com/ext/bc/C/rpc",
+    "default": "https://api.ezchain.com/ext/bc/C/rpc"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Ezchain",
+      "url": "https://cchain-explorer.ezchain.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Ezchain",
+      "url": "https://cchain-explorer.ezchain.com",
+      "standard": "EIP3091"
+    }
+  }
+}

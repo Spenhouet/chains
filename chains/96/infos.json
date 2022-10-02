@@ -1,0 +1,31 @@
+{
+  "id": 96,
+  "name": "NEXT Smart Chain",
+  "shortName": "nsc",
+  "networkId": 96,
+  "network": "next-smart chain",
+  "chain": "NSC",
+  "infoUrl": "https://www.nextsmartchain.com/",
+  "nativeCurrency": {
+    "name": "NEXT",
+    "symbol": "NEXT",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "nextsmartchain": "https://rpc.nextsmartchain.com",
+    "public": "https://rpc.nextsmartchain.com",
+    "default": "https://rpc.nextsmartchain.com"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Next Smart Chain Explorer",
+      "url": "https://explorer.nextsmartchain.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Next Smart Chain Explorer",
+      "url": "https://explorer.nextsmartchain.com",
+      "standard": "none"
+    }
+  }
+}

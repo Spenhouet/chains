@@ -1,0 +1,31 @@
+{
+  "id": 1319,
+  "name": "Aitd Mainnet",
+  "shortName": "aitd",
+  "networkId": 1319,
+  "network": "aitd-mainnet",
+  "chain": "AITD",
+  "infoUrl": "https://www.aitd.io/",
+  "nativeCurrency": {
+    "name": "AITD Mainnet",
+    "symbol": "AITD",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "aitd": "https://node.aitd.io",
+    "public": "https://node.aitd.io",
+    "default": "https://node.aitd.io"
+  },
+  "blockExplorers": {
+    "aitd-chain explorer mainnet": {
+      "name": "AITD Chain Explorer Mainnet",
+      "url": "https://aitd-explorer-new.aitd.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "AITD Chain Explorer Mainnet",
+      "url": "https://aitd-explorer-new.aitd.io",
+      "standard": "EIP3091"
+    }
+  }
+}

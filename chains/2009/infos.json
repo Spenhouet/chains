@@ -1,0 +1,27 @@
+{
+  "id": 2009,
+  "name": "CloudWalk Mainnet",
+  "shortName": "cloudwalk_mainnet",
+  "networkId": 2009,
+  "network": "cloudwalk-mainnet",
+  "chain": "CloudWalk Mainnet",
+  "infoUrl": "https://cloudwalk.io",
+  "nativeCurrency": {
+    "name": "CloudWalk Native Token",
+    "symbol": "CWN",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {
+    "blockscout": {
+      "name": "CloudWalk Mainnet Explorer",
+      "url": "https://explorer.mainnet.cloudwalk.io",
+      "standard": "none"
+    },
+    "default": {
+      "name": "CloudWalk Mainnet Explorer",
+      "url": "https://explorer.mainnet.cloudwalk.io",
+      "standard": "none"
+    }
+  }
+}

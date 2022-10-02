@@ -1,0 +1,24 @@
+id: 144
+name: PHI Network v2
+shortName: PHI
+networkId: 144
+network: phi-network v2
+chain: PHI
+infoUrl: https://phi.network
+nativeCurrency:
+  name: PHI
+  symbol: Φ
+  decimals: 18
+rpcUrls:
+  phi: https://connect.phi.network
+  public: https://connect.phi.network
+  default: https://connect.phi.network
+blockExplorers:
+  etherscan:
+    name: Phiscan
+    url: https://phiscan.com
+    standard: none
+  default:
+    name: Phiscan
+    url: https://phiscan.com
+    standard: none

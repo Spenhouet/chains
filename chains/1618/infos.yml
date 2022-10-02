@@ -1,0 +1,16 @@
+id: 1618
+name: Catecoin Chain Mainnet
+shortName: cate
+networkId: 1618
+network: catecoin-chain mainnet
+chain: Catechain
+infoUrl: https://catechain.com
+nativeCurrency:
+  name: Catecoin
+  symbol: CATE
+  decimals: 18
+rpcUrls:
+  catechain: https://send.catechain.com
+  public: https://send.catechain.com
+  default: https://send.catechain.com
+blockExplorers: {}

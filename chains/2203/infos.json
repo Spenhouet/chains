@@ -1,0 +1,31 @@
+{
+  "id": 2203,
+  "name": "Bitcoin EVM",
+  "shortName": "eBTC",
+  "networkId": 2203,
+  "network": "bitcoin-evm",
+  "chain": "Bitcoin EVM",
+  "infoUrl": "https://bitcoinevm.com",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "eBTC",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "bitcoinevm": "https://connect.bitcoinevm.com",
+    "public": "https://connect.bitcoinevm.com",
+    "default": "https://connect.bitcoinevm.com"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Explorer",
+      "url": "https://explorer.bitcoinevm.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Explorer",
+      "url": "https://explorer.bitcoinevm.com",
+      "standard": "none"
+    }
+  }
+}

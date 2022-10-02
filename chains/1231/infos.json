@@ -1,0 +1,31 @@
+{
+  "id": 1231,
+  "name": "Ultron Mainnet",
+  "shortName": "UtronMainnet",
+  "networkId": 1231,
+  "network": "ultron-mainnet",
+  "chain": "Ultron",
+  "infoUrl": "https://ultron.foundation",
+  "nativeCurrency": {
+    "name": "Ultron",
+    "symbol": "ULX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ultron-rpc": "https://ultron-rpc.net",
+    "public": "https://ultron-rpc.net",
+    "default": "https://ultron-rpc.net"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Ultron Explorer",
+      "url": "https://ulxscan.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Ultron Explorer",
+      "url": "https://ulxscan.com",
+      "standard": "none"
+    }
+  }
+}

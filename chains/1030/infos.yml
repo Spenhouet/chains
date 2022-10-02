@@ -1,0 +1,24 @@
+id: 1030
+name: Conflux eSpace
+shortName: cfx
+networkId: 1030
+network: conflux-espace
+chain: Conflux
+infoUrl: https://confluxnetwork.org
+nativeCurrency:
+  name: CFX
+  symbol: CFX
+  decimals: 18
+rpcUrls:
+  confluxrpc: https://evm.confluxrpc.com
+  public: https://evm.confluxrpc.com
+  default: https://evm.confluxrpc.com
+blockExplorers:
+  etherscan:
+    name: Conflux Scan
+    url: https://evm.confluxscan.net
+    standard: none
+  default:
+    name: Conflux Scan
+    url: https://evm.confluxscan.net
+    standard: none

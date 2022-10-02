@@ -1,0 +1,24 @@
+id: 1297
+name: Boba Network Bobabase Testnet
+shortName: Bobabase
+networkId: 1297
+network: boba-network bobabase testnet
+chain: Bobabase Testnet
+infoUrl: https://boba.network
+nativeCurrency:
+  name: Boba Token
+  symbol: BOBA
+  decimals: 18
+rpcUrls:
+  boba: https://replica.bobabase.boba.network
+  public: https://replica.bobabase.boba.network
+  default: https://replica.bobabase.boba.network
+blockExplorers:
+  blockscout:
+    name: Bobabase block explorer
+    url: https://blockexplorer.bobabase.boba.network
+    standard: none
+  default:
+    name: Bobabase block explorer
+    url: https://blockexplorer.bobabase.boba.network
+    standard: none

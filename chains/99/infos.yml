@@ -1,0 +1,25 @@
+id: 99
+name: POA Network Core
+shortName: poa
+networkId: 99
+network: poa-network core
+chain: POA
+infoUrl: https://poa.network
+nativeCurrency:
+  name: POA Network Core Ether
+  symbol: POA
+  decimals: 18
+rpcUrls:
+  poanetwork: https://core.poanetwork.dev
+  poa: https://core.poa.network
+  public: https://core.poanetwork.dev
+  default: https://core.poanetwork.dev
+blockExplorers:
+  blockscout:
+    name: Blockscout
+    url: https://blockscout.com/poa/core
+    standard: none
+  default:
+    name: Blockscout
+    url: https://blockscout.com/poa/core
+    standard: none

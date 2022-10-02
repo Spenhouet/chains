@@ -1,0 +1,24 @@
+id: 70001
+name: Thinkium Mainnet Chain 1
+shortName: TKM1
+networkId: 70001
+network: thinkium-mainnet chain 1
+chain: Thinkium
+infoUrl: https://thinkium.net/
+nativeCurrency:
+  name: TKM
+  symbol: TKM
+  decimals: 18
+rpcUrls:
+  thinkiumrpc: https://proxy1.thinkiumrpc.net/
+  public: https://proxy1.thinkiumrpc.net/
+  default: https://proxy1.thinkiumrpc.net/
+blockExplorers:
+  etherscan:
+    name: Thinkiumscan
+    url: https://chain1.thinkiumscan.net
+    standard: EIP3091
+  default:
+    name: Thinkiumscan
+    url: https://chain1.thinkiumscan.net
+    standard: EIP3091

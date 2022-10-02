@@ -1,0 +1,31 @@
+{
+  "id": 25,
+  "name": "Cronos Mainnet Beta",
+  "shortName": "cro",
+  "networkId": 25,
+  "network": "cronos-mainnet beta",
+  "chain": "CRO",
+  "infoUrl": "https://cronos.org/",
+  "nativeCurrency": {
+    "name": "Cronos",
+    "symbol": "CRO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "cronos": "https://evm.cronos.org",
+    "public": "https://evm.cronos.org",
+    "default": "https://evm.cronos.org"
+  },
+  "blockExplorers": {
+    "cronos-explorer": {
+      "name": "Cronos Explorer",
+      "url": "https://cronos.org/explorer",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Cronos Explorer",
+      "url": "https://cronos.org/explorer",
+      "standard": "none"
+    }
+  }
+}

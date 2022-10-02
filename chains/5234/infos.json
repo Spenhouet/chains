@@ -1,0 +1,18 @@
+{
+  "id": 5234,
+  "name": "Humanode Mainnet",
+  "shortName": "hmnd",
+  "networkId": 5234,
+  "network": "humanode-mainnet",
+  "chain": "HMND",
+  "infoUrl": "https://humanode.io",
+  "nativeCurrency": {
+    "name": "HMND",
+    "symbol": "HMND",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {
+    "default": {}
+  }
+}

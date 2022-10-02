@@ -1,0 +1,24 @@
+id: 530
+name: F(x)Core Mainnet Network
+shortName: FxCore
+networkId: 530
+network: f(x)core-mainnet network
+chain: Fxcore
+infoUrl: https://functionx.io/
+nativeCurrency:
+  name: Function X
+  symbol: FX
+  decimals: 18
+rpcUrls:
+  functionx: https://fx-json-web3.functionx.io:8545
+  public: https://fx-json-web3.functionx.io:8545
+  default: https://fx-json-web3.functionx.io:8545
+blockExplorers:
+  functionx-explorer:
+    name: FunctionX Explorer
+    url: https://fx-evm.functionx.io
+    standard: EIP3091
+  default:
+    name: FunctionX Explorer
+    url: https://fx-evm.functionx.io
+    standard: EIP3091

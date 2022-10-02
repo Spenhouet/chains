@@ -1,0 +1,24 @@
+id: 1313161554
+name: Aurora Mainnet
+shortName: aurora
+networkId: 1313161554
+network: aurora-mainnet
+chain: NEAR
+infoUrl: https://aurora.dev
+nativeCurrency:
+  name: Ether
+  symbol: ETH
+  decimals: 18
+rpcUrls:
+  aurora: https://mainnet.aurora.dev
+  public: https://mainnet.aurora.dev
+  default: https://mainnet.aurora.dev
+blockExplorers:
+  etherscan:
+    name: Aurorascan.dev
+    url: https://aurorascan.dev
+    standard: EIP3091
+  default:
+    name: Aurorascan.dev
+    url: https://aurorascan.dev
+    standard: EIP3091

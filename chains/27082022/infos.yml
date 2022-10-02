@@ -1,0 +1,24 @@
+id: 27082022
+name: Excoincial Chain Mainnet
+shortName: exl
+networkId: 27082022
+network: excoincial-chain mainnet
+chain: EXL
+infoUrl: ""
+nativeCurrency:
+  name: Exlcoin
+  symbol: EXL
+  decimals: 18
+rpcUrls:
+  exlscan: https://rpc.exlscan.com
+  public: https://rpc.exlscan.com
+  default: https://rpc.exlscan.com
+blockExplorers:
+  etherscan:
+    name: Exlscan
+    url: https://exlscan.com
+    standard: EIP3091
+  default:
+    name: Exlscan
+    url: https://exlscan.com
+    standard: EIP3091

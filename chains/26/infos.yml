@@ -1,0 +1,24 @@
+id: 26
+name: Genesis L1 testnet
+shortName: L1test
+networkId: 26
+network: genesis-l1 testnet
+chain: genesis
+infoUrl: https://www.genesisl1.com
+nativeCurrency:
+  name: L1 testcoin
+  symbol: L1test
+  decimals: 18
+rpcUrls:
+  genesisl1: https://testrpc.genesisl1.org
+  public: https://testrpc.genesisl1.org
+  default: https://testrpc.genesisl1.org
+blockExplorers:
+  genesis-l1 testnet explorer:
+    name: Genesis L1 testnet explorer
+    url: https://testnet.genesisl1.org
+    standard: none
+  default:
+    name: Genesis L1 testnet explorer
+    url: https://testnet.genesisl1.org
+    standard: none

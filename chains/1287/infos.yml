@@ -1,0 +1,24 @@
+id: 1287
+name: Moonbase Alpha
+shortName: mbase
+networkId: 1287
+network: moonbase-alpha
+chain: MOON
+infoUrl: https://docs.moonbeam.network/networks/testnet/
+nativeCurrency:
+  name: Dev
+  symbol: DEV
+  decimals: 18
+rpcUrls:
+  moonbeam: https://rpc.api.moonbase.moonbeam.network
+  public: https://rpc.api.moonbase.moonbeam.network
+  default: https://rpc.api.moonbase.moonbeam.network
+blockExplorers:
+  etherscan:
+    name: Moonscan
+    url: https://moonbase.moonscan.io
+    standard: none
+  default:
+    name: Moonscan
+    url: https://moonbase.moonscan.io
+    standard: none

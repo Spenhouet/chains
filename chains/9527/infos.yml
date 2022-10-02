@@ -1,0 +1,24 @@
+id: 9527
+name: Rangers Protocol Testnet Robin
+shortName: trpg
+networkId: 9527
+network: rangers-protocol testnet robin
+chain: Rangers
+infoUrl: https://rangersprotocol.com
+nativeCurrency:
+  name: Rangers Protocol Gas
+  symbol: tRPG
+  decimals: 18
+rpcUrls:
+  rangersprotocol: https://robin.rangersprotocol.com/api/jsonrpc
+  public: https://robin.rangersprotocol.com/api/jsonrpc
+  default: https://robin.rangersprotocol.com/api/jsonrpc
+blockExplorers:
+  etherscan:
+    name: Rangersscan-robin
+    url: https://robin-rangersscan.rangersprotocol.com
+    standard: none
+  default:
+    name: Rangersscan-robin
+    url: https://robin-rangersscan.rangersprotocol.com
+    standard: none

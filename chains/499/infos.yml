@@ -1,0 +1,13 @@
+id: 499
+name: Rupaya
+shortName: rupx
+networkId: 499
+network: rupaya
+chain: RUPX
+infoUrl: https://www.rupx.io
+nativeCurrency:
+  name: Rupaya
+  symbol: RUPX
+  decimals: 18
+rpcUrls: {}
+blockExplorers: {}

@@ -1,0 +1,24 @@
+id: 700
+name: Star Social Testnet
+shortName: SNS
+networkId: 700
+network: star-social testnet
+chain: SNS
+infoUrl: https://info.avastar.cc
+nativeCurrency:
+  name: Social
+  symbol: SNS
+  decimals: 18
+rpcUrls:
+  avastar: https://avastar.cc/ext/bc/C/rpc
+  public: https://avastar.cc/ext/bc/C/rpc
+  default: https://avastar.cc/ext/bc/C/rpc
+blockExplorers:
+  starscan:
+    name: Starscan
+    url: https://avastar.info
+    standard: EIP3091
+  default:
+    name: Starscan
+    url: https://avastar.info
+    standard: EIP3091

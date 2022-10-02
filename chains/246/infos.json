@@ -1,0 +1,31 @@
+{
+  "id": 246,
+  "name": "Energy Web Chain",
+  "shortName": "ewt",
+  "networkId": 246,
+  "network": "energy-web chain",
+  "chain": "Energy Web Chain",
+  "infoUrl": "https://energyweb.org",
+  "nativeCurrency": {
+    "name": "Energy Web Token",
+    "symbol": "EWT",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "energyweb": "https://rpc.energyweb.org",
+    "public": "https://rpc.energyweb.org",
+    "default": "https://rpc.energyweb.org"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Blockscout",
+      "url": "https://explorer.energyweb.org",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://explorer.energyweb.org",
+      "standard": "none"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31102,
+  "name": "Ethersocial Network",
+  "shortName": "esn",
+  "networkId": 1,
+  "network": "ethersocial-network",
+  "chain": "ESN",
+  "infoUrl": "https://ethersocial.org",
+  "nativeCurrency": {
+    "name": "Ethersocial Network Ether",
+    "symbol": "ESN",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "gonspool": "https://api.esn.gonspool.com",
+    "public": "https://api.esn.gonspool.com",
+    "default": "https://api.esn.gonspool.com"
+  },
+  "blockExplorers": {}
+}

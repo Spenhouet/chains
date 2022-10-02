@@ -1,0 +1,24 @@
+id: 21816
+name: omChain Mainnet
+shortName: omc
+networkId: 21816
+network: omchain-mainnet
+chain: OML
+infoUrl: https://omchain.io
+nativeCurrency:
+  name: omChain
+  symbol: OMC
+  decimals: 18
+rpcUrls:
+  omchain: https://seed.omchain.io
+  public: https://seed.omchain.io
+  default: https://seed.omchain.io
+blockExplorers:
+  blockscout:
+    name: OmChain Explorer
+    url: https://explorer.omchain.io
+    standard: EIP3091
+  default:
+    name: OmChain Explorer
+    url: https://explorer.omchain.io
+    standard: EIP3091

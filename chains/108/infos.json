@@ -1,0 +1,32 @@
+{
+  "id": 108,
+  "name": "ThunderCore Mainnet",
+  "shortName": "TT",
+  "networkId": 108,
+  "network": "thundercore-mainnet",
+  "chain": "TT",
+  "infoUrl": "https://thundercore.com",
+  "nativeCurrency": {
+    "name": "ThunderCore Token",
+    "symbol": "TT",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "thundercore": "https://mainnet-rpc.thundercore.io",
+    "thundertoken": "https://mainnet-rpc.thundertoken.net",
+    "public": "https://mainnet-rpc.thundercore.io",
+    "default": "https://mainnet-rpc.thundercore.io"
+  },
+  "blockExplorers": {
+    "thundercore-viewblock": {
+      "name": "Thundercore-viewblock",
+      "url": "https://viewblock.io/thundercore",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Thundercore-viewblock",
+      "url": "https://viewblock.io/thundercore",
+      "standard": "EIP3091"
+    }
+  }
+}

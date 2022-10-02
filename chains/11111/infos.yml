@@ -1,0 +1,24 @@
+id: 11111
+name: WAGMI
+shortName: WAGMI
+networkId: 11111
+network: wagmi
+chain: WAGMI
+infoUrl: https://subnets-test.avax.network/wagmi/details
+nativeCurrency:
+  name: WAGMI
+  symbol: WGM
+  decimals: 18
+rpcUrls:
+  avax: https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc
+  public: https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc
+  default: https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc
+blockExplorers:
+  avalanche-subnet explorer:
+    name: Avalanche Subnet Explorer
+    url: https://subnets-test.avax.network/wagmi
+    standard: EIP3091
+  default:
+    name: Avalanche Subnet Explorer
+    url: https://subnets-test.avax.network/wagmi
+    standard: EIP3091

@@ -1,0 +1,31 @@
+{
+  "id": 12051,
+  "name": "Singularity ZERO Testnet",
+  "shortName": "tZERO",
+  "networkId": 12051,
+  "network": "singularity-zero testnet",
+  "chain": "ZERO",
+  "infoUrl": "https://www.singularity.gold",
+  "nativeCurrency": {
+    "name": "ZERO",
+    "symbol": "tZERO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "singularity": "https://betaenv.singularity.gold:18545",
+    "public": "https://betaenv.singularity.gold:18545",
+    "default": "https://betaenv.singularity.gold:18545"
+  },
+  "blockExplorers": {
+    "zeroscan": {
+      "name": "Zeroscan",
+      "url": "https://betaenv.singularity.gold:18002",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Zeroscan",
+      "url": "https://betaenv.singularity.gold:18002",
+      "standard": "EIP3091"
+    }
+  }
+}

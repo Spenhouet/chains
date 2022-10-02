@@ -1,0 +1,24 @@
+id: 53935
+name: DFK Chain
+shortName: DFK
+networkId: 53935
+network: dfk-chain
+chain: DFK
+infoUrl: https://defikingdoms.com
+nativeCurrency:
+  name: Jewel
+  symbol: JEWEL
+  decimals: 18
+rpcUrls:
+  avax: https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc
+  public: https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc
+  default: https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc
+blockExplorers:
+  blockscout:
+    name: Ethernal
+    url: https://explorer.dfkchain.com
+    standard: none
+  default:
+    name: Ethernal
+    url: https://explorer.dfkchain.com
+    standard: none

@@ -1,0 +1,17 @@
+id: 10001
+name: Smart Bitcoin Cash Testnet
+shortName: smartbchtest
+networkId: 10001
+network: smart-bitcoin cash testnet
+chain: smartBCHTest
+infoUrl: http://smartbch.org/
+nativeCurrency:
+  name: Bitcoin Cash Test Token
+  symbol: BCHT
+  decimals: 18
+rpcUrls:
+  smartbch: https://rpc-testnet.smartbch.org
+  devops: https://smartbch.devops.cash/testnet
+  public: https://rpc-testnet.smartbch.org
+  default: https://rpc-testnet.smartbch.org
+blockExplorers: {}

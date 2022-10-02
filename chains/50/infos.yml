@@ -1,0 +1,24 @@
+id: 50
+name: XinFin XDC Network
+shortName: xdc
+networkId: 50
+network: xinfin-xdc network
+chain: XDC
+infoUrl: https://xinfin.org
+nativeCurrency:
+  name: XinFin
+  symbol: XDC
+  decimals: 18
+rpcUrls:
+  xinfin: https://rpc1.xinfin.network
+  public: https://rpc1.xinfin.network
+  default: https://rpc1.xinfin.network
+blockExplorers:
+  etherscan:
+    name: Blocksscan
+    url: https://xdc.blocksscan.io
+    standard: EIP3091
+  default:
+    name: Blocksscan
+    url: https://xdc.blocksscan.io
+    standard: EIP3091

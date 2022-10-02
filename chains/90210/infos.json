@@ -1,0 +1,31 @@
+{
+  "id": 90210,
+  "name": "Beverly Hills",
+  "shortName": "bvhl",
+  "networkId": 90210,
+  "network": "beverly-hills",
+  "chain": "ETH",
+  "infoUrl": "https://beverlyhills.ethdevops.io",
+  "nativeCurrency": {
+    "name": "Beverly Hills Testnet Ether",
+    "symbol": "BVE",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ethdevops": "https://rpc.beverlyhills.ethdevops.io:8545",
+    "public": "https://rpc.beverlyhills.ethdevops.io:8545",
+    "default": "https://rpc.beverlyhills.ethdevops.io:8545"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Beverly Hills explorer",
+      "url": "https://explorer.beverlyhills.ethdevops.io",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Beverly Hills explorer",
+      "url": "https://explorer.beverlyhills.ethdevops.io",
+      "standard": "none"
+    }
+  }
+}

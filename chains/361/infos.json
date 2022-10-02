@@ -1,0 +1,31 @@
+{
+  "id": 361,
+  "name": "Theta Mainnet",
+  "shortName": "theta-mainnet",
+  "networkId": 361,
+  "network": "theta-mainnet",
+  "chain": "Theta",
+  "infoUrl": "https://www.thetatoken.org/",
+  "nativeCurrency": {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "thetatoken": "https://eth-rpc-api.thetatoken.org/rpc",
+    "public": "https://eth-rpc-api.thetatoken.org/rpc",
+    "default": "https://eth-rpc-api.thetatoken.org/rpc"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Theta Mainnet Explorer",
+      "url": "https://explorer.thetatoken.org",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Theta Mainnet Explorer",
+      "url": "https://explorer.thetatoken.org",
+      "standard": "EIP3091"
+    }
+  }
+}

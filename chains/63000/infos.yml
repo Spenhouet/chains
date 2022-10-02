@@ -1,0 +1,24 @@
+id: 63000
+name: eCredits Mainnet
+shortName: ecs
+networkId: 63000
+network: ecredits-mainnet
+chain: ECS
+infoUrl: https://ecredits.com
+nativeCurrency:
+  name: eCredits
+  symbol: ECS
+  decimals: 18
+rpcUrls:
+  ecredits: https://rpc.ecredits.com
+  public: https://rpc.ecredits.com
+  default: https://rpc.ecredits.com
+blockExplorers:
+  blockscout:
+    name: ECredits MainNet Explorer
+    url: https://explorer.ecredits.com
+    standard: EIP3091
+  default:
+    name: ECredits MainNet Explorer
+    url: https://explorer.ecredits.com
+    standard: EIP3091

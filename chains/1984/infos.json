@@ -1,0 +1,31 @@
+{
+  "id": 1984,
+  "name": "Eurus Testnet",
+  "shortName": "euntest",
+  "networkId": 1984,
+  "network": "eurus-testnet",
+  "chain": "EUN",
+  "infoUrl": "https://eurus.network",
+  "nativeCurrency": {
+    "name": "Eurus",
+    "symbol": "EUN",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "eurus": "https://testnet.eurus.network",
+    "public": "https://testnet.eurus.network",
+    "default": "https://testnet.eurus.network"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Testnetexplorer",
+      "url": "https://testnetexplorer.eurus.network",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Testnetexplorer",
+      "url": "https://testnetexplorer.eurus.network",
+      "standard": "none"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 940,
+  "name": "PulseChain Testnet",
+  "shortName": "tpls",
+  "networkId": 940,
+  "network": "pulsechain-testnet",
+  "chain": "tPLS",
+  "infoUrl": "https://pulsechain.com/",
+  "nativeCurrency": {
+    "name": "Test Pulse",
+    "symbol": "tPLS",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "pulsechain": "https://rpc.v2.testnet.pulsechain.com/",
+    "public": "https://rpc.v2.testnet.pulsechain.com/",
+    "default": "https://rpc.v2.testnet.pulsechain.com/"
+  },
+  "blockExplorers": {}
+}

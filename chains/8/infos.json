@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "name": "Ubiq",
+  "shortName": "ubq",
+  "networkId": 8,
+  "network": "ubiq",
+  "chain": "UBQ",
+  "infoUrl": "https://ubiqsmart.com",
+  "nativeCurrency": {
+    "name": "Ubiq Ether",
+    "symbol": "UBQ",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "octano": "https://rpc.octano.dev",
+    "ubiqscan": "https://pyrus2.ubiqscan.io",
+    "public": "https://rpc.octano.dev",
+    "default": "https://rpc.octano.dev"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Ubiqscan",
+      "url": "https://ubiqscan.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Ubiqscan",
+      "url": "https://ubiqscan.io",
+      "standard": "EIP3091"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2213,
+  "name": "Evanesco Mainnet",
+  "shortName": "evanesco",
+  "networkId": 2213,
+  "network": "evanesco-mainnet",
+  "chain": "EVA",
+  "infoUrl": "https://evanesco.org/",
+  "nativeCurrency": {
+    "name": "EVA",
+    "symbol": "EVA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "evanesco": "https://seed4.evanesco.org:8546",
+    "public": "https://seed4.evanesco.org:8546",
+    "default": "https://seed4.evanesco.org:8546"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Evanesco Explorer",
+      "url": "https://explorer.evanesco.org",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Evanesco Explorer",
+      "url": "https://explorer.evanesco.org",
+      "standard": "none"
+    }
+  }
+}

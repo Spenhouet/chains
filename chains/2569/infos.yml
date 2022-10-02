@@ -1,0 +1,24 @@
+id: 2569
+name: TechPay Mainnet
+shortName: tpc
+networkId: 2569
+network: techpay-mainnet
+chain: TPC
+infoUrl: https://techpay.io/
+nativeCurrency:
+  name: TechPay
+  symbol: TPC
+  decimals: 18
+rpcUrls:
+  techpay: https://api.techpay.io/
+  public: https://api.techpay.io/
+  default: https://api.techpay.io/
+blockExplorers:
+  etherscan:
+    name: Tpcscan
+    url: https://tpcscan.com
+    standard: EIP3091
+  default:
+    name: Tpcscan
+    url: https://tpcscan.com
+    standard: EIP3091

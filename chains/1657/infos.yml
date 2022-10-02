@@ -1,0 +1,16 @@
+id: 1657
+name: Btachain
+shortName: bta
+networkId: 1657
+network: btachain
+chain: btachain
+infoUrl: https://bitcoinasset.io/
+nativeCurrency:
+  name: Bitcoin Asset
+  symbol: BTA
+  decimals: 18
+rpcUrls:
+  btachain: https://dataseed1.btachain.com/
+  public: https://dataseed1.btachain.com/
+  default: https://dataseed1.btachain.com/
+blockExplorers: {}

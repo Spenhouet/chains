@@ -1,0 +1,24 @@
+id: 1214
+name: EnterChain Mainnet
+shortName: enter
+networkId: 1214
+network: enterchain-mainnet
+chain: ENTER
+infoUrl: https://entercoin.net
+nativeCurrency:
+  name: EnterCoin
+  symbol: ENTER
+  decimals: 18
+rpcUrls:
+  entercoin: https://tapi.entercoin.net/
+  public: https://tapi.entercoin.net/
+  default: https://tapi.entercoin.net/
+blockExplorers:
+  blockscout:
+    name: Enter Explorer - Expenter
+    url: https://explorer.entercoin.net
+    standard: EIP3091
+  default:
+    name: Enter Explorer - Expenter
+    url: https://explorer.entercoin.net
+    standard: EIP3091

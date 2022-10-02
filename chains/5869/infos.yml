@@ -1,0 +1,24 @@
+id: 5869
+name: Wegochain Rubidium Mainnet
+shortName: rbd
+networkId: 5869
+network: wegochain-rubidium mainnet
+chain: RBD
+infoUrl: https://www.wegochain.io
+nativeCurrency:
+  name: Rubid
+  symbol: RBD
+  decimals: 18
+rpcUrls:
+  wegochain: https://proxy.wegochain.io
+  public: https://proxy.wegochain.io
+  default: https://proxy.wegochain.io
+blockExplorers:
+  wegoscan2:
+    name: Wegoscan2
+    url: https://scan2.wegochain.io
+    standard: EIP3091
+  default:
+    name: Wegoscan2
+    url: https://scan2.wegochain.io
+    standard: EIP3091

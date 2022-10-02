@@ -1,0 +1,16 @@
+id: 820
+name: Callisto Mainnet
+shortName: clo
+networkId: 1
+network: callisto-mainnet
+chain: CLO
+infoUrl: https://callisto.network
+nativeCurrency:
+  name: Callisto
+  symbol: CLO
+  decimals: 18
+rpcUrls:
+  callisto: https://rpc.callisto.network/
+  public: https://rpc.callisto.network/
+  default: https://rpc.callisto.network/
+blockExplorers: {}

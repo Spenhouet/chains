@@ -1,0 +1,24 @@
+id: 180
+name: AME Chain Mainnet
+shortName: ame
+networkId: 180
+network: ame-chain mainnet
+chain: AME
+infoUrl: https://amechain.io/
+nativeCurrency:
+  name: AME
+  symbol: AME
+  decimals: 18
+rpcUrls:
+  amechain: https://node1.amechain.io/
+  public: https://node1.amechain.io/
+  default: https://node1.amechain.io/
+blockExplorers:
+  etherscan:
+    name: AME Scan
+    url: https://amescan.io
+    standard: EIP3091
+  default:
+    name: AME Scan
+    url: https://amescan.io
+    standard: EIP3091

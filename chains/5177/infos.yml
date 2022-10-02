@@ -1,0 +1,24 @@
+id: 5177
+name: TLChain Network Mainnet
+shortName: tlc
+networkId: 5177
+network: tlchain-network mainnet
+chain: TLC
+infoUrl: https://tlchain.network/
+nativeCurrency:
+  name: TLChain Network
+  symbol: TLC
+  decimals: 18
+rpcUrls:
+  tlxscan: https://mainnet-rpc.tlxscan.com/
+  public: https://mainnet-rpc.tlxscan.com/
+  default: https://mainnet-rpc.tlxscan.com/
+blockExplorers:
+  blockscout:
+    name: TLChain Explorer
+    url: https://explorer.tlchain.network
+    standard: none
+  default:
+    name: TLChain Explorer
+    url: https://explorer.tlchain.network
+    standard: none

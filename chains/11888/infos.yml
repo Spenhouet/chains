@@ -1,0 +1,24 @@
+id: 11888
+name: SanR Chain
+shortName: SAN
+networkId: 11888
+network: sanr-chain
+chain: SanRChain
+infoUrl: https://sanr.app
+nativeCurrency:
+  name: nSAN
+  symbol: nSAN
+  decimals: 18
+rpcUrls:
+  santiment: https://sanrchain-node.santiment.net
+  public: https://sanrchain-node.santiment.net
+  default: https://sanrchain-node.santiment.net
+blockExplorers:
+  blockscout:
+    name: SanR Chain Explorer
+    url: https://sanrchain-explorer.santiment.net
+    standard: none
+  default:
+    name: SanR Chain Explorer
+    url: https://sanrchain-explorer.santiment.net
+    standard: none

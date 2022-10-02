@@ -1,0 +1,24 @@
+id: 1028
+name: BitTorrent Chain Testnet
+shortName: tbtt
+networkId: 1028
+network: bittorrent-chain testnet
+chain: BTTC
+infoUrl: https://bittorrentchain.io/
+nativeCurrency:
+  name: BitTorrent
+  symbol: BTT
+  decimals: 18
+rpcUrls:
+  bittorrentchain: https://testrpc.bittorrentchain.io/
+  public: https://testrpc.bittorrentchain.io/
+  default: https://testrpc.bittorrentchain.io/
+blockExplorers:
+  etherscan:
+    name: Testbttcscan
+    url: https://testscan.bittorrentchain.io
+    standard: none
+  default:
+    name: Testbttcscan
+    url: https://testscan.bittorrentchain.io
+    standard: none

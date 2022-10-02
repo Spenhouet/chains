@@ -1,0 +1,21 @@
+id: 1320
+name: Aitd Testnet
+shortName: aitdtestnet
+networkId: 1320
+network: aitd-testnet
+chain: AITD
+infoUrl: https://www.aitd.io/
+nativeCurrency:
+  name: AITD Testnet
+  symbol: AITD
+  decimals: 18
+rpcUrls: {}
+blockExplorers:
+  aitd-chain explorer testnet:
+    name: AITD Chain Explorer Testnet
+    url: https://block-explorer-testnet.aitd.io
+    standard: EIP3091
+  default:
+    name: AITD Chain Explorer Testnet
+    url: https://block-explorer-testnet.aitd.io
+    standard: EIP3091
