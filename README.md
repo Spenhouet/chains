@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/Spenhouet/svelte-gh-pages-quickstart/actions/workflows/deploy.yml"><img src="https://github.com/Spenhouet/svelte-gh-pages-quickstart/actions/workflows/deploy.yml/badge.svg" alt="Build Status"></a><a href="https://github.com/Spenhouet/svelte-gh-pages-quickstart/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/Spenhouet/svelte-gh-pages-quickstart/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Deploy Status"></a>
+  <a href="https://github.com/Spenhouet/chains/actions/workflows/deploy.yml"><img src="https://github.com/Spenhouet/chains/actions/workflows/deploy.yml/badge.svg" alt="Build Status"></a><a href="https://github.com/Spenhouet/chains/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/Spenhouet/chains/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Deploy Status"></a>
 </p>
 
 <p align="center">Wagmi compatible chain configurations compiled from <a href="https://github.com/ethereum-lists/chains">ethereum-lists</a>.</p>
 
-<p align="center"><em>Check the result of this basic version out at <a href="https://spenhouet.com/svelte-gh-pages-quickstart/">spenhouet.com/svelte-gh-pages-quickstart</a>.</em></p>
+<p align="center"><em>View a list of all chains on <a href="https://spenhouet.com/chains/">spenhouet.com/chains</a>.</em></p>
 
 ## Disclaimer
 
