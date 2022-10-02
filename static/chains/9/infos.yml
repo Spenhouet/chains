@@ -1,0 +1,13 @@
+id: 9
+name: Ubiq Network Testnet
+shortName: tubq
+networkId: 2
+network: ubiq-network testnet
+chain: UBQ
+infoUrl: https://ethersocial.org
+nativeCurrency:
+  name: Ubiq Testnet Ether
+  symbol: TUBQ
+  decimals: 18
+rpcUrls: {}
+blockExplorers: {}

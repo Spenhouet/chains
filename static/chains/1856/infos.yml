@@ -1,0 +1,16 @@
+id: 1856
+name: Teslafunds
+shortName: tsf
+networkId: 1
+network: teslafunds
+chain: TSF
+infoUrl: https://teslafunds.io
+nativeCurrency:
+  name: Teslafunds Ether
+  symbol: TSF
+  decimals: 18
+rpcUrls:
+  europool: https://tsfapi.europool.me
+  public: https://tsfapi.europool.me
+  default: https://tsfapi.europool.me
+blockExplorers: {}

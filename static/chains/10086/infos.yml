@@ -1,0 +1,13 @@
+id: 10086
+name: SJATSH
+shortName: SJ
+networkId: 10086
+network: sjatsh
+chain: ETH
+infoUrl: https://sjis.me
+nativeCurrency:
+  name: Ether
+  symbol: ETH
+  decimals: 18
+rpcUrls: {}
+blockExplorers: {}

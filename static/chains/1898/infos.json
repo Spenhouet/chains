@@ -1,0 +1,27 @@
+{
+  "id": 1898,
+  "name": "BON Network",
+  "shortName": "boya",
+  "networkId": 1,
+  "network": "bon-network",
+  "chain": "BON",
+  "infoUrl": "https://boyanet.org",
+  "nativeCurrency": {
+    "name": "BOYACoin",
+    "symbol": "BOY",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Explorer",
+      "url": "https://explorer.boyanet.org:4001",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Explorer",
+      "url": "https://explorer.boyanet.org:4001",
+      "standard": "EIP3091"
+    }
+  }
+}

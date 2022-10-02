@@ -1,0 +1,24 @@
+id: 53
+name: CoinEx Smart Chain Testnet
+shortName: tcet
+networkId: 53
+network: coinex-smart chain testnet
+chain: CSC
+infoUrl: https://www.coinex.org/
+nativeCurrency:
+  name: CoinEx Chain Test Native Token
+  symbol: cett
+  decimals: 18
+rpcUrls:
+  coinex: https://testnet-rpc.coinex.net/
+  public: https://testnet-rpc.coinex.net/
+  default: https://testnet-rpc.coinex.net/
+blockExplorers:
+  coinexscan:
+    name: Coinexscan
+    url: https://testnet.coinex.net
+    standard: none
+  default:
+    name: Coinexscan
+    url: https://testnet.coinex.net
+    standard: none

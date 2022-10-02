@@ -1,0 +1,20 @@
+{
+  "id": 1288,
+  "name": "Moonrock",
+  "shortName": "mrock",
+  "networkId": 1288,
+  "network": "moonrock",
+  "chain": "MOON",
+  "infoUrl": "https://docs.moonbeam.network/learn/platform/networks/overview/",
+  "nativeCurrency": {
+    "name": "Rocs",
+    "symbol": "ROC",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "moonbeam": "https://rpc.api.moonrock.moonbeam.network",
+    "public": "https://rpc.api.moonrock.moonbeam.network",
+    "default": "https://rpc.api.moonrock.moonbeam.network"
+  },
+  "blockExplorers": {}
+}

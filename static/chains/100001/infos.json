@@ -1,0 +1,31 @@
+{
+  "id": 100001,
+  "name": "QuarkChain Mainnet Shard 0",
+  "shortName": "qkc-s0",
+  "networkId": 100001,
+  "network": "quarkchain-mainnet shard 0",
+  "chain": "QuarkChain",
+  "infoUrl": "https://www.quarkchain.io",
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "quarkchain": "https://mainnet-s0-ethapi.quarkchain.io",
+    "public": "https://mainnet-s0-ethapi.quarkchain.io",
+    "default": "https://mainnet-s0-ethapi.quarkchain.io"
+  },
+  "blockExplorers": {
+    "quarkchain-mainnet": {
+      "name": "Quarkchain-mainnet",
+      "url": "https://mainnet.quarkchain.io/0",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Quarkchain-mainnet",
+      "url": "https://mainnet.quarkchain.io/0",
+      "standard": "EIP3091"
+    }
+  }
+}

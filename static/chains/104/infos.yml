@@ -1,0 +1,24 @@
+id: 104
+name: Kaiba Lightning Chain Testnet
+shortName: tklc
+networkId: 104
+network: kaiba-lightning chain testnet
+chain: tKLC
+infoUrl: https://kaibadefi.com
+nativeCurrency:
+  name: Kaiba Testnet Token
+  symbol: tKAIBA
+  decimals: 18
+rpcUrls:
+  klc: https://klc.live/
+  public: https://klc.live/
+  default: https://klc.live/
+blockExplorers:
+  etherscan:
+    name: Kaibascan
+    url: https://kaibascan.io
+    standard: EIP3091
+  default:
+    name: Kaibascan
+    url: https://kaibascan.io
+    standard: EIP3091

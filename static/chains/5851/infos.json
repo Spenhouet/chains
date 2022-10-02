@@ -1,0 +1,31 @@
+{
+  "id": 5851,
+  "name": "Ontology Testnet",
+  "shortName": "OntologyTestnet",
+  "networkId": 5851,
+  "network": "ontology-testnet",
+  "chain": "Ontology",
+  "infoUrl": "https://ont.io/",
+  "nativeCurrency": {
+    "name": "ONG",
+    "symbol": "ONG",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ont": "https://polaris4.ont.io:10339",
+    "public": "https://polaris4.ont.io:10339",
+    "default": "https://polaris4.ont.io:10339"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Explorer",
+      "url": "https://explorer.ont.io/testnet",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Explorer",
+      "url": "https://explorer.ont.io/testnet",
+      "standard": "EIP3091"
+    }
+  }
+}

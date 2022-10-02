@@ -1,0 +1,24 @@
+id: 3966
+name: DYNO Mainnet
+shortName: dyno
+networkId: 3966
+network: dyno-mainnet
+chain: DYNO
+infoUrl: https://dynoprotocol.com
+nativeCurrency:
+  name: DYNO Token
+  symbol: DYNO
+  decimals: 18
+rpcUrls:
+  dynoprotocol: https://api.dynoprotocol.com
+  public: https://api.dynoprotocol.com
+  default: https://api.dynoprotocol.com
+blockExplorers:
+  etherscan:
+    name: DYNO Explorer
+    url: https://dynoscan.io
+    standard: EIP3091
+  default:
+    name: DYNO Explorer
+    url: https://dynoscan.io
+    standard: EIP3091

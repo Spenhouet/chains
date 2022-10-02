@@ -1,0 +1,24 @@
+id: 110005
+name: QuarkChain Devnet Shard 4
+shortName: qkc-d-s4
+networkId: 110005
+network: quarkchain-devnet shard 4
+chain: QuarkChain
+infoUrl: https://www.quarkchain.io
+nativeCurrency:
+  name: QKC
+  symbol: QKC
+  decimals: 18
+rpcUrls:
+  quarkchain: https://devnet-s4-ethapi.quarkchain.io
+  public: https://devnet-s4-ethapi.quarkchain.io
+  default: https://devnet-s4-ethapi.quarkchain.io
+blockExplorers:
+  quarkchain-devnet:
+    name: Quarkchain-devnet
+    url: https://devnet.quarkchain.io/4
+    standard: EIP3091
+  default:
+    name: Quarkchain-devnet
+    url: https://devnet.quarkchain.io/4
+    standard: EIP3091

@@ -1,0 +1,31 @@
+{
+  "id": 197710212030,
+  "name": "Ntity Mainnet",
+  "shortName": "ntt",
+  "networkId": 197710212030,
+  "network": "ntity-mainnet",
+  "chain": "Ntity",
+  "infoUrl": "https://ntity.io",
+  "nativeCurrency": {
+    "name": "Ntity",
+    "symbol": "NTT",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ntity": "https://rpc.ntity.io",
+    "public": "https://rpc.ntity.io",
+    "default": "https://rpc.ntity.io"
+  },
+  "blockExplorers": {
+    "ntity-blockscout": {
+      "name": "Ntity Blockscout",
+      "url": "https://blockscout.ntity.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Ntity Blockscout",
+      "url": "https://blockscout.ntity.io",
+      "standard": "EIP3091"
+    }
+  }
+}

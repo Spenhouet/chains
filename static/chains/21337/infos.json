@@ -1,0 +1,31 @@
+{
+  "id": 21337,
+  "name": "CENNZnet Azalea",
+  "shortName": "cennz-a",
+  "networkId": 21337,
+  "network": "cennznet-azalea",
+  "chain": "CENNZnet",
+  "infoUrl": "https://cennz.net",
+  "nativeCurrency": {
+    "name": "CPAY",
+    "symbol": "CPAY",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "unfrastructure": "https://cennznet.unfrastructure.io/public",
+    "public": "https://cennznet.unfrastructure.io/public",
+    "default": "https://cennznet.unfrastructure.io/public"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "UNcover",
+      "url": "https://uncoverexplorer.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "UNcover",
+      "url": "https://uncoverexplorer.com",
+      "standard": "none"
+    }
+  }
+}

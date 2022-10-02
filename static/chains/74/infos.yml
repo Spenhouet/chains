@@ -1,0 +1,24 @@
+id: 74
+name: IDChain Mainnet
+shortName: idchain
+networkId: 74
+network: idchain-mainnet
+chain: IDChain
+infoUrl: https://idchain.one/begin/
+nativeCurrency:
+  name: EIDI
+  symbol: EIDI
+  decimals: 18
+rpcUrls:
+  idchain: https://idchain.one/rpc/
+  public: https://idchain.one/rpc/
+  default: https://idchain.one/rpc/
+blockExplorers:
+  blockscout:
+    name: Explorer
+    url: https://explorer.idchain.one
+    standard: EIP3091
+  default:
+    name: Explorer
+    url: https://explorer.idchain.one
+    standard: EIP3091

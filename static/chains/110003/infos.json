@@ -1,0 +1,31 @@
+{
+  "id": 110003,
+  "name": "QuarkChain Devnet Shard 2",
+  "shortName": "qkc-d-s2",
+  "networkId": 110003,
+  "network": "quarkchain-devnet shard 2",
+  "chain": "QuarkChain",
+  "infoUrl": "https://www.quarkchain.io",
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "quarkchain": "https://devnet-s2-ethapi.quarkchain.io",
+    "public": "https://devnet-s2-ethapi.quarkchain.io",
+    "default": "https://devnet-s2-ethapi.quarkchain.io"
+  },
+  "blockExplorers": {
+    "quarkchain-devnet": {
+      "name": "Quarkchain-devnet",
+      "url": "https://devnet.quarkchain.io/2",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Quarkchain-devnet",
+      "url": "https://devnet.quarkchain.io/2",
+      "standard": "EIP3091"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 647,
+  "name": "SX Network Testnet",
+  "shortName": "SX-Testnet",
+  "networkId": 647,
+  "network": "sx-network testnet",
+  "chain": "SX",
+  "infoUrl": "https://www.sx.technology",
+  "nativeCurrency": {
+    "name": "SX Network",
+    "symbol": "SX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "sx": "https://rpc.toronto.sx.technology",
+    "public": "https://rpc.toronto.sx.technology",
+    "default": "https://rpc.toronto.sx.technology"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "SX Network Toronto Explorer",
+      "url": "https://explorer.toronto.sx.technology",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "SX Network Toronto Explorer",
+      "url": "https://explorer.toronto.sx.technology",
+      "standard": "EIP3091"
+    }
+  }
+}

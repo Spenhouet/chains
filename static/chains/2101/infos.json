@@ -1,0 +1,31 @@
+{
+  "id": 2101,
+  "name": "Ecoball Testnet Espuma",
+  "shortName": "esp",
+  "networkId": 2101,
+  "network": "ecoball-testnet espuma",
+  "chain": "ECO",
+  "infoUrl": "https://ecoball.org",
+  "nativeCurrency": {
+    "name": "Espuma Coin",
+    "symbol": "ECO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ecoball": "https://api.ecoball.org/espuma/",
+    "public": "https://api.ecoball.org/espuma/",
+    "default": "https://api.ecoball.org/espuma/"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Ecoball Testnet Explorer",
+      "url": "https://espuma-scan.ecoball.org",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Ecoball Testnet Explorer",
+      "url": "https://espuma-scan.ecoball.org",
+      "standard": "EIP3091"
+    }
+  }
+}

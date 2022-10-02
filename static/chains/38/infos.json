@@ -1,0 +1,20 @@
+{
+  "id": 38,
+  "name": "Valorbit",
+  "shortName": "val",
+  "networkId": 38,
+  "network": "valorbit",
+  "chain": "VAL",
+  "infoUrl": "https://valorbit.com",
+  "nativeCurrency": {
+    "name": "Valorbit",
+    "symbol": "VAL",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "valorbit": "https://rpc.valorbit.com/v2",
+    "public": "https://rpc.valorbit.com/v2",
+    "default": "https://rpc.valorbit.com/v2"
+  },
+  "blockExplorers": {}
+}

@@ -1,0 +1,24 @@
+id: 92001
+name: Lambda Testnet
+shortName: lambda-testnet
+networkId: 92001
+network: lambda-testnet
+chain: Lambda
+infoUrl: https://lambda.im
+nativeCurrency:
+  name: test-Lamb
+  symbol: LAMB
+  decimals: 18
+rpcUrls:
+  lambda: https://evm.lambda.top/
+  public: https://evm.lambda.top/
+  default: https://evm.lambda.top/
+blockExplorers:
+  blockscout:
+    name: Lambda EVM Explorer
+    url: https://explorer.lambda.top
+    standard: EIP3091
+  default:
+    name: Lambda EVM Explorer
+    url: https://explorer.lambda.top
+    standard: EIP3091

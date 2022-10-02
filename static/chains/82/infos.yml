@@ -1,0 +1,24 @@
+id: 82
+name: Meter Mainnet
+shortName: Meter
+networkId: 82
+network: meter-mainnet
+chain: METER
+infoUrl: https://www.meter.io
+nativeCurrency:
+  name: Meter
+  symbol: MTR
+  decimals: 18
+rpcUrls:
+  meter: https://rpc.meter.io
+  public: https://rpc.meter.io
+  default: https://rpc.meter.io
+blockExplorers:
+  etherscan:
+    name: Meter Mainnet Scan
+    url: https://scan.meter.io
+    standard: EIP3091
+  default:
+    name: Meter Mainnet Scan
+    url: https://scan.meter.io
+    standard: EIP3091

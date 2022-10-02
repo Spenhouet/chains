@@ -1,0 +1,28 @@
+id: 245022926
+name: Neon EVM DevNet
+shortName: neonevm-devnet
+networkId: 245022926
+network: neon-evm devnet
+chain: Solana
+infoUrl: https://neon-labs.org
+nativeCurrency:
+  name: Neon
+  symbol: NEON
+  decimals: 18
+rpcUrls:
+  neonevm: https://devnet.neonevm.org
+  public: https://devnet.neonevm.org
+  default: https://devnet.neonevm.org
+blockExplorers:
+  blockscout:
+    name: Native
+    url: https://devnet.explorer.neon-labs.org
+    standard: EIP3091
+  etherscan:
+    name: Neonscan
+    url: https://devnet.neonscan.org
+    standard: EIP3091
+  default:
+    name: Native
+    url: https://devnet.explorer.neon-labs.org
+    standard: EIP3091

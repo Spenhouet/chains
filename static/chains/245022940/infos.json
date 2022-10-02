@@ -1,0 +1,36 @@
+{
+  "id": 245022940,
+  "name": "Neon EVM TestNet",
+  "shortName": "neonevm-testnet",
+  "networkId": 245022940,
+  "network": "neon-evm testnet",
+  "chain": "Solana",
+  "infoUrl": "https://neon-labs.org",
+  "nativeCurrency": {
+    "name": "Neon",
+    "symbol": "NEON",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "neonevm": "https://testnet.neonevm.org",
+    "public": "https://testnet.neonevm.org",
+    "default": "https://testnet.neonevm.org"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Native",
+      "url": "https://testnet.explorer.neon-labs.org",
+      "standard": "EIP3091"
+    },
+    "etherscan": {
+      "name": "Neonscan",
+      "url": "https://testnet.neonscan.org",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Native",
+      "url": "https://testnet.explorer.neon-labs.org",
+      "standard": "EIP3091"
+    }
+  }
+}

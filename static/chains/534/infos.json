@@ -1,0 +1,32 @@
+{
+  "id": 534,
+  "name": "Candle",
+  "shortName": "CNDL",
+  "networkId": 534,
+  "network": "candle",
+  "chain": "Candle",
+  "infoUrl": "https://candlelabs.org/",
+  "nativeCurrency": {
+    "name": "CANDLE",
+    "symbol": "CNDL",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "candle-rpc": "https://candle-rpc.com/",
+    "cndlchain": "https://rpc.cndlchain.com",
+    "public": "https://candle-rpc.com/",
+    "default": "https://candle-rpc.com/"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Candleexplorer",
+      "url": "https://candleexplorer.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Candleexplorer",
+      "url": "https://candleexplorer.com",
+      "standard": "EIP3091"
+    }
+  }
+}

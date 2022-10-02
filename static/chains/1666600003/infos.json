@@ -1,0 +1,20 @@
+{
+  "id": 1666600003,
+  "name": "Harmony Mainnet Shard 3",
+  "shortName": "hmy-s3",
+  "networkId": 1666600003,
+  "network": "harmony-mainnet shard 3",
+  "chain": "Harmony",
+  "infoUrl": "https://www.harmony.one/",
+  "nativeCurrency": {
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "hmny": "https://api.s3.t.hmny.io",
+    "public": "https://api.s3.t.hmny.io",
+    "default": "https://api.s3.t.hmny.io"
+  },
+  "blockExplorers": {}
+}

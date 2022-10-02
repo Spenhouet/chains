@@ -1,0 +1,31 @@
+{
+  "id": 8007736,
+  "name": "Plian Mainnet Subchain 1",
+  "shortName": "plian-mainnet-l2",
+  "networkId": 8007736,
+  "network": "plian-mainnet subchain 1",
+  "chain": "Plian",
+  "infoUrl": "https://plian.org",
+  "nativeCurrency": {
+    "name": "Plian Token",
+    "symbol": "PI",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "plian": "https://mainnet.plian.io/child_0",
+    "public": "https://mainnet.plian.io/child_0",
+    "default": "https://mainnet.plian.io/child_0"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Piscan",
+      "url": "https://piscan.plian.org/child_0",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Piscan",
+      "url": "https://piscan.plian.org/child_0",
+      "standard": "EIP3091"
+    }
+  }
+}

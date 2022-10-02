@@ -1,0 +1,16 @@
+id: 102
+name: Web3Games Testnet
+shortName: tw3g
+networkId: 102
+network: web3games-testnet
+chain: Web3Games
+infoUrl: https://web3games.org/
+nativeCurrency:
+  name: Web3Games
+  symbol: W3G
+  decimals: 18
+rpcUrls:
+  web3games: https://testnet-rpc-2.web3games.org/evm
+  public: https://testnet-rpc-2.web3games.org/evm
+  default: https://testnet-rpc-2.web3games.org/evm
+blockExplorers: {}

@@ -1,0 +1,24 @@
+id: 5700
+name: Syscoin Tanenbaum Testnet
+shortName: tsys
+networkId: 5700
+network: syscoin-tanenbaum testnet
+chain: SYS
+infoUrl: https://syscoin.org
+nativeCurrency:
+  name: Testnet Syscoin
+  symbol: tSYS
+  decimals: 18
+rpcUrls:
+  tanenbaum: https://rpc.tanenbaum.io
+  public: https://rpc.tanenbaum.io
+  default: https://rpc.tanenbaum.io
+blockExplorers:
+  syscoin-testnet block explorer:
+    name: Syscoin Testnet Block Explorer
+    url: https://tanenbaum.io
+    standard: EIP3091
+  default:
+    name: Syscoin Testnet Block Explorer
+    url: https://tanenbaum.io
+    standard: EIP3091

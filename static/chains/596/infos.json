@@ -1,0 +1,16 @@
+{
+  "id": 596,
+  "name": "Karura Network Testnet",
+  "shortName": "tkar",
+  "networkId": 596,
+  "network": "karura-network testnet",
+  "chain": "KAR",
+  "infoUrl": "https://karura.network",
+  "nativeCurrency": {
+    "name": "Karura Token",
+    "symbol": "KAR",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {}
+}

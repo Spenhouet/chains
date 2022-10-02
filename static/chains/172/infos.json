@@ -1,0 +1,20 @@
+{
+  "id": 172,
+  "name": "Latam-Blockchain Resil Testnet",
+  "shortName": "resil",
+  "networkId": 172,
+  "network": "latam-blockchain-resil testnet",
+  "chain": "Resil",
+  "infoUrl": "https://latam-blockchain.com",
+  "nativeCurrency": {
+    "name": "Latam-Blockchain Resil Test Native Token",
+    "symbol": "usd",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "latam-blockchain": "https://rpc.latam-blockchain.com",
+    "public": "https://rpc.latam-blockchain.com",
+    "default": "https://rpc.latam-blockchain.com"
+  },
+  "blockExplorers": {}
+}

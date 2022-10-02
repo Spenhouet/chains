@@ -1,0 +1,25 @@
+id: 87
+name: Nova Network
+shortName: nnw
+networkId: 87
+network: nova-network
+chain: NNW
+infoUrl: https://novanetwork.io
+nativeCurrency:
+  name: Supernova
+  symbol: SNT
+  decimals: 18
+rpcUrls:
+  novanetwork: https://rpc.novanetwork.io:9070
+  redjackstudio: https://0x57.redjackstudio.com
+  public: https://rpc.novanetwork.io:9070
+  default: https://rpc.novanetwork.io:9070
+blockExplorers:
+  blockscout:
+    name: Novanetwork
+    url: https://explorer.novanetwork.io
+    standard: EIP3091
+  default:
+    name: Novanetwork
+    url: https://explorer.novanetwork.io
+    standard: EIP3091

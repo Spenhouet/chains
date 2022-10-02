@@ -1,0 +1,31 @@
+{
+  "id": 1818,
+  "name": "Cube Chain Mainnet",
+  "shortName": "cube",
+  "networkId": 1818,
+  "network": "cube-chain mainnet",
+  "chain": "Cube",
+  "infoUrl": "https://www.cube.network",
+  "nativeCurrency": {
+    "name": "Cube Chain Native Token",
+    "symbol": "CUBE",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "cube": "https://http-mainnet-us.cube.network",
+    "public": "https://http-mainnet-us.cube.network",
+    "default": "https://http-mainnet-us.cube.network"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Cube-scan",
+      "url": "https://cubescan.network",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Cube-scan",
+      "url": "https://cubescan.network",
+      "standard": "EIP3091"
+    }
+  }
+}

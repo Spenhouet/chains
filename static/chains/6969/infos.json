@@ -1,0 +1,31 @@
+{
+  "id": 6969,
+  "name": "Tomb Chain Mainnet",
+  "shortName": "tombchain",
+  "networkId": 6969,
+  "network": "tomb-chain mainnet",
+  "chain": "Tomb Chain",
+  "infoUrl": "https://tombchain.com/",
+  "nativeCurrency": {
+    "name": "Tomb",
+    "symbol": "TOMB",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "tombchain": "https://rpc.tombchain.com/",
+    "public": "https://rpc.tombchain.com/",
+    "default": "https://rpc.tombchain.com/"
+  },
+  "blockExplorers": {
+    "tombscout": {
+      "name": "Tombscout",
+      "url": "https://tombscout.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Tombscout",
+      "url": "https://tombscout.com",
+      "standard": "none"
+    }
+  }
+}

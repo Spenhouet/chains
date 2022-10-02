@@ -1,0 +1,20 @@
+{
+  "id": 89,
+  "name": "TomoChain Testnet",
+  "shortName": "tomot",
+  "networkId": 89,
+  "network": "tomochain-testnet",
+  "chain": "TOMO",
+  "infoUrl": "https://tomochain.com",
+  "nativeCurrency": {
+    "name": "TomoChain",
+    "symbol": "TOMO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "tomochain": "https://rpc.testnet.tomochain.com",
+    "public": "https://rpc.testnet.tomochain.com",
+    "default": "https://rpc.testnet.tomochain.com"
+  },
+  "blockExplorers": {}
+}

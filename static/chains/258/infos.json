@@ -1,0 +1,16 @@
+{
+  "id": 258,
+  "name": "Setheum",
+  "shortName": "setm",
+  "networkId": 258,
+  "network": "setheum",
+  "chain": "Setheum",
+  "infoUrl": "https://setheum.xyz",
+  "nativeCurrency": {
+    "name": "Setheum",
+    "symbol": "SETM",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {}
+}

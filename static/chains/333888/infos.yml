@@ -1,0 +1,16 @@
+id: 333888
+name: Polis Testnet
+shortName: sparta
+networkId: 333888
+network: polis-testnet
+chain: Sparta
+infoUrl: https://polis.tech
+nativeCurrency:
+  name: tPolis
+  symbol: tPOLIS
+  decimals: 18
+rpcUrls:
+  polis: https://sparta-rpc.polis.tech
+  public: https://sparta-rpc.polis.tech
+  default: https://sparta-rpc.polis.tech
+blockExplorers: {}

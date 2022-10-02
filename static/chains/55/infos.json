@@ -1,0 +1,31 @@
+{
+  "id": 55,
+  "name": "Zyx Mainnet",
+  "shortName": "ZYX",
+  "networkId": 55,
+  "network": "zyx-mainnet",
+  "chain": "ZYX",
+  "infoUrl": "https://zyx.network/",
+  "nativeCurrency": {
+    "name": "Zyx",
+    "symbol": "ZYX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "zyx": "https://rpc-6.zyx.network/",
+    "public": "https://rpc-6.zyx.network/",
+    "default": "https://rpc-6.zyx.network/"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Zyxscan",
+      "url": "https://zyxscan.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Zyxscan",
+      "url": "https://zyxscan.com",
+      "standard": "none"
+    }
+  }
+}

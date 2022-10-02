@@ -1,0 +1,24 @@
+id: 2223
+name: VChain Mainnet
+shortName: VChain
+networkId: 2223
+network: vchain-mainnet
+chain: VChain
+infoUrl: https://bo.vcex.xyz/
+nativeCurrency:
+  name: VNDT
+  symbol: VNDT
+  decimals: 18
+rpcUrls:
+  vcex: https://bc.vcex.xyz
+  public: https://bc.vcex.xyz
+  default: https://bc.vcex.xyz
+blockExplorers:
+  etherscan:
+    name: VChain Scan
+    url: https://scan.vcex.xyz
+    standard: EIP3091
+  default:
+    name: VChain Scan
+    url: https://scan.vcex.xyz
+    standard: EIP3091

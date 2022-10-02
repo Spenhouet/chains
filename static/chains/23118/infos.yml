@@ -1,0 +1,24 @@
+id: 23118
+name: Opside Testnet
+shortName: opside
+networkId: 23118
+network: opside-testnet
+chain: Opside
+infoUrl: https://opside.network
+nativeCurrency:
+  name: IDE
+  symbol: IDE
+  decimals: 18
+rpcUrls:
+  opside: https://testrpc.opside.network
+  public: https://testrpc.opside.network
+  default: https://testrpc.opside.network
+blockExplorers:
+  opsideinfo:
+    name: OpsideInfo
+    url: https://opside.info
+    standard: EIP3091
+  default:
+    name: OpsideInfo
+    url: https://opside.info
+    standard: EIP3091

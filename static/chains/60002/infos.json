@@ -1,0 +1,31 @@
+{
+  "id": 60002,
+  "name": "Thinkium Testnet Chain 2",
+  "shortName": "TKM-test2",
+  "networkId": 60002,
+  "network": "thinkium-testnet chain 2",
+  "chain": "Thinkium",
+  "infoUrl": "https://thinkium.net/",
+  "nativeCurrency": {
+    "name": "TKM",
+    "symbol": "TKM",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "thinkiumrpc": "https://test2.thinkiumrpc.net/",
+    "public": "https://test2.thinkiumrpc.net/",
+    "default": "https://test2.thinkiumrpc.net/"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Thinkiumscan",
+      "url": "https://test2.thinkiumscan.net",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Thinkiumscan",
+      "url": "https://test2.thinkiumscan.net",
+      "standard": "EIP3091"
+    }
+  }
+}

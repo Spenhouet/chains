@@ -1,0 +1,16 @@
+id: 15
+name: Diode Prenet
+shortName: diode
+networkId: 15
+network: diode-prenet
+chain: DIODE
+infoUrl: https://diode.io/prenet
+nativeCurrency:
+  name: Diodes
+  symbol: DIODE
+  decimals: 18
+rpcUrls:
+  diode: https://prenet.diode.io:8443/
+  public: https://prenet.diode.io:8443/
+  default: https://prenet.diode.io:8443/
+blockExplorers: {}

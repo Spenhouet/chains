@@ -1,0 +1,24 @@
+id: 70103
+name: Thinkium Mainnet Chain 103
+shortName: TKM103
+networkId: 70103
+network: thinkium-mainnet chain 103
+chain: Thinkium
+infoUrl: https://thinkium.net/
+nativeCurrency:
+  name: TKM
+  symbol: TKM
+  decimals: 18
+rpcUrls:
+  thinkiumrpc: https://proxy103.thinkiumrpc.net/
+  public: https://proxy103.thinkiumrpc.net/
+  default: https://proxy103.thinkiumrpc.net/
+blockExplorers:
+  etherscan:
+    name: Thinkiumscan
+    url: https://chain103.thinkiumscan.net
+    standard: EIP3091
+  default:
+    name: Thinkiumscan
+    url: https://chain103.thinkiumscan.net
+    standard: EIP3091

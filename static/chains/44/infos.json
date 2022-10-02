@@ -1,0 +1,31 @@
+{
+  "id": 44,
+  "name": "Darwinia Crab Network",
+  "shortName": "crab",
+  "networkId": 44,
+  "network": "darwinia-crab network",
+  "chain": "crab",
+  "infoUrl": "https://crab.network/",
+  "nativeCurrency": {
+    "name": "Crab Network Native Token",
+    "symbol": "CRAB",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "darwinia": "https://crab-rpc.darwinia.network",
+    "public": "https://crab-rpc.darwinia.network",
+    "default": "https://crab-rpc.darwinia.network"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Subscan",
+      "url": "https://crab.subscan.io",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Subscan",
+      "url": "https://crab.subscan.io",
+      "standard": "none"
+    }
+  }
+}

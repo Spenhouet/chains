@@ -1,0 +1,31 @@
+{
+  "id": 1008,
+  "name": "Eurus Mainnet",
+  "shortName": "eun",
+  "networkId": 1008,
+  "network": "eurus-mainnet",
+  "chain": "EUN",
+  "infoUrl": "https://eurus.network",
+  "nativeCurrency": {
+    "name": "Eurus",
+    "symbol": "EUN",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "eurus": "https://mainnet.eurus.network/",
+    "public": "https://mainnet.eurus.network/",
+    "default": "https://mainnet.eurus.network/"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Eurusexplorer",
+      "url": "https://explorer.eurus.network",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Eurusexplorer",
+      "url": "https://explorer.eurus.network",
+      "standard": "none"
+    }
+  }
+}

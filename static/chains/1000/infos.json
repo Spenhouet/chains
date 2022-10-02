@@ -1,0 +1,31 @@
+{
+  "id": 1000,
+  "name": "GTON Mainnet",
+  "shortName": "gton",
+  "networkId": 1000,
+  "network": "gton-mainnet",
+  "chain": "GTON",
+  "infoUrl": "https://gton.capital",
+  "nativeCurrency": {
+    "name": "GCD",
+    "symbol": "GCD",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "gton": "https://rpc.gton.network/",
+    "public": "https://rpc.gton.network/",
+    "default": "https://rpc.gton.network/"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "GTON Network Explorer",
+      "url": "https://explorer.gton.network",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "GTON Network Explorer",
+      "url": "https://explorer.gton.network",
+      "standard": "EIP3091"
+    }
+  }
+}

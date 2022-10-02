@@ -1,0 +1,31 @@
+{
+  "id": 27082017,
+  "name": "Excoincial Chain Volta-Testnet",
+  "shortName": "exlvolta",
+  "networkId": 27082017,
+  "network": "excoincial-chain volta-testnet",
+  "chain": "TEXL",
+  "infoUrl": "",
+  "nativeCurrency": {
+    "name": "TExlcoin",
+    "symbol": "TEXL",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "exlscan": "https://testnet-rpc.exlscan.com",
+    "public": "https://testnet-rpc.exlscan.com",
+    "default": "https://testnet-rpc.exlscan.com"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Exlscan",
+      "url": "https://testnet-explorer.exlscan.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Exlscan",
+      "url": "https://testnet-explorer.exlscan.com",
+      "standard": "EIP3091"
+    }
+  }
+}

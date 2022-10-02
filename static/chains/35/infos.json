@@ -1,0 +1,20 @@
+{
+  "id": 35,
+  "name": "TBWG Chain",
+  "shortName": "tbwg",
+  "networkId": 35,
+  "network": "tbwg-chain",
+  "chain": "TBWG",
+  "infoUrl": "https://tbwg.io",
+  "nativeCurrency": {
+    "name": "TBWG Ether",
+    "symbol": "TBG",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "tbwg": "https://rpc.tbwg.io",
+    "public": "https://rpc.tbwg.io",
+    "default": "https://rpc.tbwg.io"
+  },
+  "blockExplorers": {}
+}

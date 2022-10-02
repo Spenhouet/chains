@@ -1,0 +1,24 @@
+id: 1807
+name: Rabbit Analog Testnet Chain
+shortName: rAna
+networkId: 1807
+network: rabbit-analog testnet chain
+chain: rAna
+infoUrl: https://rabbit.analogscan.com
+nativeCurrency:
+  name: "Rabbit Analog Test Chain Native Token "
+  symbol: rAna
+  decimals: 18
+rpcUrls:
+  analog-rpc: https://rabbit.analog-rpc.com
+  public: https://rabbit.analog-rpc.com
+  default: https://rabbit.analog-rpc.com
+blockExplorers:
+  etherscan:
+    name: Blockscout
+    url: https://rabbit.analogscan.com
+    standard: none
+  default:
+    name: Blockscout
+    url: https://rabbit.analogscan.com
+    standard: none

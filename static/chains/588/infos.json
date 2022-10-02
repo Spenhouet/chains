@@ -1,0 +1,31 @@
+{
+  "id": 588,
+  "name": "Metis Stardust Testnet",
+  "shortName": "metis-stardust",
+  "networkId": 588,
+  "network": "metis-stardust testnet",
+  "chain": "ETH",
+  "infoUrl": "https://www.metis.io",
+  "nativeCurrency": {
+    "name": "tMetis",
+    "symbol": "METIS",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "metis": "https://stardust.metis.io/?owner=588",
+    "public": "https://stardust.metis.io/?owner=588",
+    "default": "https://stardust.metis.io/?owner=588"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Blockscout",
+      "url": "https://stardust-explorer.metis.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://stardust-explorer.metis.io",
+      "standard": "EIP3091"
+    }
+  }
+}

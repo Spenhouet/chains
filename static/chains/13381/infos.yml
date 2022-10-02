@@ -1,0 +1,24 @@
+id: 13381
+name: Phoenix Mainnet
+shortName: Phoenix
+networkId: 13381
+network: phoenix-mainnet
+chain: Phoenix
+infoUrl: https://cryptophoenix.org/phoenix
+nativeCurrency:
+  name: Phoenix
+  symbol: PHX
+  decimals: 18
+rpcUrls:
+  phoenixplorer: https://rpc.phoenixplorer.com/
+  public: https://rpc.phoenixplorer.com/
+  default: https://rpc.phoenixplorer.com/
+blockExplorers:
+  phoenixplorer:
+    name: Phoenixplorer
+    url: https://phoenixplorer.com
+    standard: EIP3091
+  default:
+    name: Phoenixplorer
+    url: https://phoenixplorer.com
+    standard: EIP3091

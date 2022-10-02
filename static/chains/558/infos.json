@@ -1,0 +1,20 @@
+{
+  "id": 558,
+  "name": "Tao Network",
+  "shortName": "tao",
+  "networkId": 558,
+  "network": "tao-network",
+  "chain": "TAO",
+  "infoUrl": "https://tao.network",
+  "nativeCurrency": {
+    "name": "Tao",
+    "symbol": "TAO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "tao": "https://rpc.tao.network",
+    "public": "https://rpc.tao.network",
+    "default": "https://rpc.tao.network"
+  },
+  "blockExplorers": {}
+}

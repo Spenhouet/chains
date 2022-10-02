@@ -1,0 +1,20 @@
+{
+  "id": 222,
+  "name": "Permission",
+  "shortName": "ASK",
+  "networkId": 2221,
+  "network": "permission",
+  "chain": "ASK",
+  "infoUrl": "https://permission.io/",
+  "nativeCurrency": {
+    "name": "ASK",
+    "symbol": "ASK",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "permission": "https://blockchain-api-mainnet.permission.io/rpc",
+    "public": "https://blockchain-api-mainnet.permission.io/rpc",
+    "default": "https://blockchain-api-mainnet.permission.io/rpc"
+  },
+  "blockExplorers": {}
+}

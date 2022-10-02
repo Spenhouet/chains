@@ -1,0 +1,24 @@
+id: 1112
+name: WEMIX3.0 Testnet
+shortName: twemix
+networkId: 1112
+network: wemix3.0-testnet
+chain: TWEMIX
+infoUrl: https://wemix.com
+nativeCurrency:
+  name: TestnetWEMIX
+  symbol: tWEMIX
+  decimals: 18
+rpcUrls:
+  wemix: https://api.test.wemix.com
+  public: https://api.test.wemix.com
+  default: https://api.test.wemix.com
+blockExplorers:
+  wemix-testnet microscope:
+    name: WEMIX Testnet Microscope
+    url: https://microscope.test.wemix.com
+    standard: EIP3091
+  default:
+    name: WEMIX Testnet Microscope
+    url: https://microscope.test.wemix.com
+    standard: EIP3091

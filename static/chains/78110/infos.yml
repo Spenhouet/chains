@@ -1,0 +1,16 @@
+id: 78110
+name: Firenze test network
+shortName: firenze
+networkId: 78110
+network: firenze-test network
+chain: ETH
+infoUrl: https://primusmoney.com
+nativeCurrency:
+  name: Firenze Ether
+  symbol: FIN
+  decimals: 18
+rpcUrls:
+  primusmoney: https://ethnode.primusmoney.com/firenze
+  public: https://ethnode.primusmoney.com/firenze
+  default: https://ethnode.primusmoney.com/firenze
+blockExplorers: {}

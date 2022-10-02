@@ -1,0 +1,24 @@
+id: 62621
+name: MultiVAC Mainnet
+shortName: mtv
+networkId: 62621
+network: multivac-mainnet
+chain: MultiVAC
+infoUrl: https://mtv.ac
+nativeCurrency:
+  name: MultiVAC
+  symbol: MTV
+  decimals: 18
+rpcUrls:
+  mtv: https://rpc-eu.mtv.ac
+  public: https://rpc-eu.mtv.ac
+  default: https://rpc-eu.mtv.ac
+blockExplorers:
+  multivac-explorer:
+    name: MultiVAC Explorer
+    url: https://e.mtv.ac
+    standard: none
+  default:
+    name: MultiVAC Explorer
+    url: https://e.mtv.ac
+    standard: none

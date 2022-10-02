@@ -1,0 +1,31 @@
+{
+  "id": 31,
+  "name": "RSK Testnet",
+  "shortName": "trsk",
+  "networkId": 31,
+  "network": "rsk-testnet",
+  "chain": "RSK",
+  "infoUrl": "https://rsk.co",
+  "nativeCurrency": {
+    "name": "Testnet Smart Bitcoin",
+    "symbol": "tRBTC",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "rsk": "https://mycrypto.testnet.rsk.co",
+    "public": "https://mycrypto.testnet.rsk.co",
+    "default": "https://mycrypto.testnet.rsk.co"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "RSK Testnet Explorer",
+      "url": "https://explorer.testnet.rsk.co",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "RSK Testnet Explorer",
+      "url": "https://explorer.testnet.rsk.co",
+      "standard": "EIP3091"
+    }
+  }
+}

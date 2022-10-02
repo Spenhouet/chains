@@ -1,0 +1,24 @@
+id: 29
+name: Genesis L1
+shortName: L1
+networkId: 29
+network: genesis-l1
+chain: genesis
+infoUrl: https://www.genesisl1.com
+nativeCurrency:
+  name: L1 coin
+  symbol: L1
+  decimals: 18
+rpcUrls:
+  genesisl1: https://rpc.genesisl1.org
+  public: https://rpc.genesisl1.org
+  default: https://rpc.genesisl1.org
+blockExplorers:
+  blockscout:
+    name: Genesis L1 blockchain explorer
+    url: https://explorer.genesisl1.org
+    standard: none
+  default:
+    name: Genesis L1 blockchain explorer
+    url: https://explorer.genesisl1.org
+    standard: none

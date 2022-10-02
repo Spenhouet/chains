@@ -1,0 +1,24 @@
+id: 1666700000
+name: Harmony Testnet Shard 0
+shortName: hmy-b-s0
+networkId: 1666700000
+network: harmony-testnet shard 0
+chain: Harmony
+infoUrl: https://www.harmony.one/
+nativeCurrency:
+  name: ONE
+  symbol: ONE
+  decimals: 18
+rpcUrls:
+  hmny: https://api.s0.b.hmny.io
+  public: https://api.s0.b.hmny.io
+  default: https://api.s0.b.hmny.io
+blockExplorers:
+  blockscout:
+    name: Harmony Testnet Block Explorer
+    url: https://explorer.pops.one
+    standard: EIP3091
+  default:
+    name: Harmony Testnet Block Explorer
+    url: https://explorer.pops.one
+    standard: EIP3091

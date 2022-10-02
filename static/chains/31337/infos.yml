@@ -1,0 +1,24 @@
+id: 31337
+name: GoChain Testnet
+shortName: got
+networkId: 31337
+network: gochain-testnet
+chain: GO
+infoUrl: https://gochain.io
+nativeCurrency:
+  name: GoChain Coin
+  symbol: GO
+  decimals: 18
+rpcUrls:
+  gochain: https://testnet-rpc.gochain.io
+  public: https://testnet-rpc.gochain.io
+  default: https://testnet-rpc.gochain.io
+blockExplorers:
+  blockscout:
+    name: GoChain Testnet Explorer
+    url: https://testnet-explorer.gochain.io
+    standard: EIP3091
+  default:
+    name: GoChain Testnet Explorer
+    url: https://testnet-explorer.gochain.io
+    standard: EIP3091

@@ -1,0 +1,16 @@
+id: 99415706
+name: Joys Digital TestNet
+shortName: TOYS
+networkId: 99415706
+network: joys-digital testnet
+chain: TOYS
+infoUrl: https://joys.digital
+nativeCurrency:
+  name: TOYS
+  symbol: TOYS
+  decimals: 18
+rpcUrls:
+  joys: https://toys.joys.cash/
+  public: https://toys.joys.cash/
+  default: https://toys.joys.cash/
+blockExplorers: {}

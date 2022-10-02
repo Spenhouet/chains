@@ -1,0 +1,26 @@
+id: 56
+name: Binance Smart Chain Mainnet
+shortName: bnb
+networkId: 56
+network: binance-smart chain mainnet
+chain: BSC
+infoUrl: https://www.binance.org
+nativeCurrency:
+  name: Binance Chain Native Token
+  symbol: BNB
+  decimals: 18
+rpcUrls:
+  binance: https://bsc-dataseed4.binance.org
+  defibit: https://bsc-dataseed4.defibit.io
+  ninicoin: https://bsc-dataseed4.ninicoin.io
+  public: https://bsc-dataseed4.binance.org
+  default: https://bsc-dataseed4.binance.org
+blockExplorers:
+  etherscan:
+    name: Bscscan
+    url: https://bscscan.com
+    standard: EIP3091
+  default:
+    name: Bscscan
+    url: https://bscscan.com
+    standard: EIP3091

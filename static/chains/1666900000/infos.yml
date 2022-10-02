@@ -1,0 +1,24 @@
+id: 1666900000
+name: Harmony Devnet Shard 0
+shortName: hmy-ps-s0
+networkId: 1666900000
+network: harmony-devnet shard 0
+chain: Harmony
+infoUrl: https://www.harmony.one/
+nativeCurrency:
+  name: ONE
+  symbol: ONE
+  decimals: 18
+rpcUrls:
+  hmny: https://api.s1.ps.hmny.io
+  public: https://api.s1.ps.hmny.io
+  default: https://api.s1.ps.hmny.io
+blockExplorers:
+  blockscout:
+    name: Harmony Block Explorer
+    url: https://explorer.ps.hmny.io
+    standard: EIP3091
+  default:
+    name: Harmony Block Explorer
+    url: https://explorer.ps.hmny.io
+    standard: EIP3091

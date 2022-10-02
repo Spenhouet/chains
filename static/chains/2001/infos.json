@@ -1,0 +1,31 @@
+{
+  "id": 2001,
+  "name": "Milkomeda C1 Mainnet",
+  "shortName": "milkAda",
+  "networkId": 2001,
+  "network": "milkomeda-c1 mainnet",
+  "chain": "milkAda",
+  "infoUrl": "https://milkomeda.com",
+  "nativeCurrency": {
+    "name": "milkAda",
+    "symbol": "mADA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "milkomeda": "https://rpc-mainnet-cardano-evm.c1.milkomeda.com",
+    "public": "https://rpc-mainnet-cardano-evm.c1.milkomeda.com",
+    "default": "https://rpc-mainnet-cardano-evm.c1.milkomeda.com"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Blockscout",
+      "url": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com",
+      "standard": "none"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 20180430,
+  "name": "SmartMesh Mainnet",
+  "shortName": "spectrum",
+  "networkId": 1,
+  "network": "smartmesh-mainnet",
+  "chain": "Spectrum",
+  "infoUrl": "https://smartmesh.io",
+  "nativeCurrency": {
+    "name": "SmartMesh Native Token",
+    "symbol": "SMT",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "smartmesh": "https://jsonapi1.smartmesh.cn",
+    "public": "https://jsonapi1.smartmesh.cn",
+    "default": "https://jsonapi1.smartmesh.cn"
+  },
+  "blockExplorers": {
+    "spectrum": {
+      "name": "Spectrum",
+      "url": "https://spectrum.pub",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Spectrum",
+      "url": "https://spectrum.pub",
+      "standard": "none"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+id: 10067275
+name: Plian Testnet Subchain 1
+shortName: plian-testnet-l2
+networkId: 10067275
+network: plian-testnet subchain 1
+chain: Plian
+infoUrl: https://plian.org/
+nativeCurrency:
+  name: Plian Token
+  symbol: TPI
+  decimals: 18
+rpcUrls:
+  plian: https://testnet.plian.io/child_test
+  public: https://testnet.plian.io/child_test
+  default: https://testnet.plian.io/child_test
+blockExplorers:
+  piscan:
+    name: Piscan
+    url: https://testnet.plian.org/child_test
+    standard: EIP3091
+  default:
+    name: Piscan
+    url: https://testnet.plian.org/child_test
+    standard: EIP3091

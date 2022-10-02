@@ -1,0 +1,31 @@
+{
+  "id": 555,
+  "name": "Vela1 Chain Mainnet",
+  "shortName": "CLASS",
+  "networkId": 555,
+  "network": "vela1-chain mainnet",
+  "chain": "VELA1",
+  "infoUrl": "https://velaverse.io",
+  "nativeCurrency": {
+    "name": "CLASS COIN",
+    "symbol": "CLASS",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "velaverse": "https://rpc.velaverse.io",
+    "public": "https://rpc.velaverse.io",
+    "default": "https://rpc.velaverse.io"
+  },
+  "blockExplorers": {
+    "vela1-chain mainnet explorer": {
+      "name": "Vela1 Chain Mainnet Explorer",
+      "url": "https://exp.velaverse.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Vela1 Chain Mainnet Explorer",
+      "url": "https://exp.velaverse.io",
+      "standard": "EIP3091"
+    }
+  }
+}

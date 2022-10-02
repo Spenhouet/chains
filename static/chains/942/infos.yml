@@ -1,0 +1,16 @@
+id: 942
+name: PulseChain Testnet v3
+shortName: t3pls
+networkId: 942
+network: pulsechain-testnet v3
+chain: t3PLS
+infoUrl: https://pulsechain.com/
+nativeCurrency:
+  name: Test Pulse
+  symbol: tPLS
+  decimals: 18
+rpcUrls:
+  pulsechain: https://rpc.v3.testnet.pulsechain.com/
+  public: https://rpc.v3.testnet.pulsechain.com/
+  default: https://rpc.v3.testnet.pulsechain.com/
+blockExplorers: {}

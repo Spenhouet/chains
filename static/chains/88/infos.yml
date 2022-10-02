@@ -1,0 +1,16 @@
+id: 88
+name: TomoChain
+shortName: tomo
+networkId: 88
+network: tomochain
+chain: TOMO
+infoUrl: https://tomochain.com
+nativeCurrency:
+  name: TomoChain
+  symbol: TOMO
+  decimals: 18
+rpcUrls:
+  tomochain: https://rpc.tomochain.com
+  public: https://rpc.tomochain.com
+  default: https://rpc.tomochain.com
+blockExplorers: {}

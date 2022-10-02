@@ -1,0 +1,31 @@
+{
+  "id": 36,
+  "name": "Dxchain Mainnet",
+  "shortName": "dx",
+  "networkId": 36,
+  "network": "dxchain-mainnet",
+  "chain": "Dxchain",
+  "infoUrl": "https://www.dxchain.com/",
+  "nativeCurrency": {
+    "name": "Dxchain",
+    "symbol": "DX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "dxchain": "https://mainnet.dxchain.com",
+    "public": "https://mainnet.dxchain.com",
+    "default": "https://mainnet.dxchain.com"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Dxscan",
+      "url": "https://dxscan.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Dxscan",
+      "url": "https://dxscan.io",
+      "standard": "EIP3091"
+    }
+  }
+}

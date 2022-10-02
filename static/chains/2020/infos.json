@@ -1,0 +1,16 @@
+{
+  "id": 2020,
+  "name": "420coin",
+  "shortName": "420",
+  "networkId": 2020,
+  "network": "420coin",
+  "chain": "420",
+  "infoUrl": "https://420integrated.com",
+  "nativeCurrency": {
+    "name": "Fourtwenty",
+    "symbol": "420",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": 52,
+  "name": "CoinEx Smart Chain Mainnet",
+  "shortName": "cet",
+  "networkId": 52,
+  "network": "coinex-smart chain mainnet",
+  "chain": "CSC",
+  "infoUrl": "https://www.coinex.org/",
+  "nativeCurrency": {
+    "name": "CoinEx Chain Native Token",
+    "symbol": "cet",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "coinex": "https://rpc.coinex.net",
+    "public": "https://rpc.coinex.net",
+    "default": "https://rpc.coinex.net"
+  },
+  "blockExplorers": {
+    "coinexscan": {
+      "name": "Coinexscan",
+      "url": "https://www.coinex.net",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Coinexscan",
+      "url": "https://www.coinex.net",
+      "standard": "none"
+    }
+  }
+}

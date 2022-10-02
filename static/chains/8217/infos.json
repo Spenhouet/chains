@@ -1,0 +1,31 @@
+{
+  "id": 8217,
+  "name": "Klaytn Mainnet Cypress",
+  "shortName": "Cypress",
+  "networkId": 8217,
+  "network": "klaytn-mainnet cypress",
+  "chain": "KLAY",
+  "infoUrl": "https://www.klaytn.com/",
+  "nativeCurrency": {
+    "name": "KLAY",
+    "symbol": "KLAY",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "klaytnapi": "https://public-node-api.klaytnapi.com/v1/cypress",
+    "public": "https://public-node-api.klaytnapi.com/v1/cypress",
+    "default": "https://public-node-api.klaytnapi.com/v1/cypress"
+  },
+  "blockExplorers": {
+    "klaytnscope": {
+      "name": "Klaytnscope",
+      "url": "https://scope.klaytn.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Klaytnscope",
+      "url": "https://scope.klaytn.com",
+      "standard": "none"
+    }
+  }
+}
