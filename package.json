@@ -1,5 +1,5 @@
 {
-	"name": "svelte-gh-pages-quickstart",
+	"name": "chains",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
@@ -12,20 +12,20 @@
 		"format": "prettier --write --plugin-search-dir=. ."
 	},
 	"devDependencies": {
-		"@playwright/test": "^1.25.2",
+		"@playwright/test": "^1.26.1",
 		"@rgossiaux/svelte-headlessui": "^1.0.2",
 		"@rgossiaux/svelte-heroicons": "^0.1.2",
 		"@sveltejs/adapter-static": "^1.0.0-next.34",
 		"@sveltejs/kit": "^1.0.0-next.468",
-		"@sveltejs/vite-plugin-svelte": "^1.0.5",
-		"autoprefixer": "^10.4.4",
+		"@sveltejs/vite-plugin-svelte": "^1.0.8",
+		"autoprefixer": "^10.4.12",
 		"axios": "^0.27.2",
-		"postcss": "^8.4.16",
+		"postcss": "^8.4.17",
 		"postcss-load-config": "^3.1.4",
 		"prettier": "^2.7.1",
-		"prettier-plugin-svelte": "^2.7.0",
+		"prettier-plugin-svelte": "^2.7.1",
 		"svelte": "^3.50.1",
-		"svelte-check": "^2.9.0",
+		"svelte-check": "^2.9.1",
 		"svelte-inview": "^3.0.1",
 		"svelte-preprocess": "^4.10.7",
 		"svelte-seo": "^1.4.1",
