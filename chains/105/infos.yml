@@ -1,0 +1,25 @@
+id: 105
+name: Web3Games Devnet
+shortName: dw3g
+networkId: 105
+network: web3games-devnet
+chain: Web3Games
+infoUrl: https://web3games.org/
+nativeCurrency:
+  name: Web3Games
+  symbol: W3G
+  decimals: 18
+rpcUrls:
+  web3games: https://devnet.web3games.org/evm
+  public: https://devnet.web3games.org/evm
+  default: https://devnet.web3games.org/evm
+blockExplorers:
+  web3games-explorer:
+    name: Web3Games Explorer
+    url: https://explorer-devnet.web3games.org
+    standard: none
+  default:
+    name: Web3Games Explorer
+    url: https://explorer-devnet.web3games.org
+    standard: none
+testnet: false

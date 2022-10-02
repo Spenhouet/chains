@@ -1,0 +1,25 @@
+id: 300
+name: Optimism on Gnosis
+shortName: ogc
+networkId: 300
+network: optimism-on gnosis
+chain: OGC
+infoUrl: https://www.xdaichain.com/for-developers/optimism-optimistic-rollups-on-gc
+nativeCurrency:
+  name: xDAI
+  symbol: xDAI
+  decimals: 18
+rpcUrls:
+  gnosischain: https://optimism.gnosischain.com
+  public: https://optimism.gnosischain.com
+  default: https://optimism.gnosischain.com
+blockExplorers:
+  blockscout:
+    name: Blockscout
+    url: https://blockscout.com/xdai/optimism
+    standard: EIP3091
+  default:
+    name: Blockscout
+    url: https://blockscout.com/xdai/optimism
+    standard: EIP3091
+testnet: false

@@ -1,0 +1,25 @@
+id: 3501
+name: JFIN Chain
+shortName: jfin
+networkId: 3501
+network: jfin-chain
+chain: JFIN
+infoUrl: https://jfinchain.com
+nativeCurrency:
+  name: JFIN Coin
+  symbol: jfin
+  decimals: 18
+rpcUrls:
+  jfinchain: https://rpc.jfinchain.com
+  public: https://rpc.jfinchain.com
+  default: https://rpc.jfinchain.com
+blockExplorers:
+  jfin-chain explorer:
+    name: JFIN Chain Explorer
+    url: https://exp.jfinchain.com
+    standard: EIP3091
+  default:
+    name: JFIN Chain Explorer
+    url: https://exp.jfinchain.com
+    standard: EIP3091
+testnet: false

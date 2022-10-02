@@ -1,0 +1,17 @@
+id: 20729
+name: Callisto Testnet
+shortName: CLOTestnet
+networkId: 79
+network: callisto-testnet
+chain: CLO
+infoUrl: https://callisto.network
+nativeCurrency:
+  name: Callisto
+  symbol: CLO
+  decimals: 18
+rpcUrls:
+  callisto: https://testnet-rpc.callisto.network/
+  public: https://testnet-rpc.callisto.network/
+  default: https://testnet-rpc.callisto.network/
+blockExplorers: {}
+testnet: true

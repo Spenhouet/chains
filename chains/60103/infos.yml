@@ -1,0 +1,25 @@
+id: 60103
+name: Thinkium Testnet Chain 103
+shortName: TKM-test103
+networkId: 60103
+network: thinkium-testnet chain 103
+chain: Thinkium
+infoUrl: https://thinkium.net/
+nativeCurrency:
+  name: TKM
+  symbol: TKM
+  decimals: 18
+rpcUrls:
+  thinkiumrpc: https://test103.thinkiumrpc.net/
+  public: https://test103.thinkiumrpc.net/
+  default: https://test103.thinkiumrpc.net/
+blockExplorers:
+  etherscan:
+    name: Thinkiumscan
+    url: https://test103.thinkiumscan.net
+    standard: EIP3091
+  default:
+    name: Thinkiumscan
+    url: https://test103.thinkiumscan.net
+    standard: EIP3091
+testnet: true

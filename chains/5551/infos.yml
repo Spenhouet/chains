@@ -1,0 +1,25 @@
+id: 5551
+name: Nahmii Mainnet
+shortName: Nahmii
+networkId: 5551
+network: nahmii-mainnet
+chain: Nahmii
+infoUrl: https://nahmii.io
+nativeCurrency:
+  name: Ether
+  symbol: ETH
+  decimals: 18
+rpcUrls:
+  nahmii: https://l2.nahmii.io
+  public: https://l2.nahmii.io
+  default: https://l2.nahmii.io
+blockExplorers:
+  blockscout:
+    name: Nahmii mainnet explorer
+    url: https://explorer.nahmii.io
+    standard: EIP3091
+  default:
+    name: Nahmii mainnet explorer
+    url: https://explorer.nahmii.io
+    standard: EIP3091
+testnet: false

@@ -1,0 +1,25 @@
+id: 1088
+name: Metis Andromeda Mainnet
+shortName: metis-andromeda
+networkId: 1088
+network: metis-andromeda mainnet
+chain: ETH
+infoUrl: https://www.metis.io
+nativeCurrency:
+  name: Metis
+  symbol: METIS
+  decimals: 18
+rpcUrls:
+  metis: https://andromeda.metis.io/?owner=1088
+  public: https://andromeda.metis.io/?owner=1088
+  default: https://andromeda.metis.io/?owner=1088
+blockExplorers:
+  blockscout:
+    name: Blockscout
+    url: https://andromeda-explorer.metis.io
+    standard: EIP3091
+  default:
+    name: Blockscout
+    url: https://andromeda-explorer.metis.io
+    standard: EIP3091
+testnet: false

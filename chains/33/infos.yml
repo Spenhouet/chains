@@ -1,0 +1,17 @@
+id: 33
+name: GoodData Mainnet
+shortName: GooD
+networkId: 33
+network: gooddata-mainnet
+chain: GooD
+infoUrl: https://www.goodata.org
+nativeCurrency:
+  name: GoodData Mainnet Ether
+  symbol: GooD
+  decimals: 18
+rpcUrls:
+  goodata: https://rpc.goodata.io
+  public: https://rpc.goodata.io
+  default: https://rpc.goodata.io
+blockExplorers: {}
+testnet: false

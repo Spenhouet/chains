@@ -1,0 +1,25 @@
+id: 356256156
+name: Gather Testnet Network
+shortName: tGTH
+networkId: 356256156
+network: gather-testnet network
+chain: GTH
+infoUrl: https://gather.network
+nativeCurrency:
+  name: Gather
+  symbol: GTH
+  decimals: 18
+rpcUrls:
+  gather: https://testnet.gather.network
+  public: https://testnet.gather.network
+  default: https://testnet.gather.network
+blockExplorers:
+  blockscout:
+    name: Blockscout
+    url: https://testnet-explorer.gather.network
+    standard: none
+  default:
+    name: Blockscout
+    url: https://testnet-explorer.gather.network
+    standard: none
+testnet: true

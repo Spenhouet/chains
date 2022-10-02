@@ -1,0 +1,25 @@
+id: 10946
+name: Quadrans Blockchain
+shortName: quadrans
+networkId: 10946
+network: quadrans-blockchain
+chain: QDC
+infoUrl: https://quadrans.io
+nativeCurrency:
+  name: Quadrans Coin
+  symbol: QDC
+  decimals: 18
+rpcUrls:
+  quadrans: https://rpceu.quadrans.io
+  public: https://rpceu.quadrans.io
+  default: https://rpceu.quadrans.io
+blockExplorers:
+  blockscout:
+    name: Explorer
+    url: https://explorer.quadrans.io
+    standard: EIP3091
+  default:
+    name: Explorer
+    url: https://explorer.quadrans.io
+    standard: EIP3091
+testnet: false

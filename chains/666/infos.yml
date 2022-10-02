@@ -1,0 +1,17 @@
+id: 666
+name: Pixie Chain Testnet
+shortName: pixie-chain-testnet
+networkId: 666
+network: pixie-chain testnet
+chain: PixieChain
+infoUrl: https://scan-testnet.chain.pixie.xyz
+nativeCurrency:
+  name: Pixie Chain Testnet Native Token
+  symbol: PCTT
+  decimals: 18
+rpcUrls:
+  pixie: https://http-testnet.chain.pixie.xyz
+  public: https://http-testnet.chain.pixie.xyz
+  default: https://http-testnet.chain.pixie.xyz
+blockExplorers: {}
+testnet: true

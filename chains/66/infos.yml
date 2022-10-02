@@ -1,0 +1,26 @@
+id: 66
+name: OKXChain Mainnet
+shortName: okt
+networkId: 66
+network: okxchain-mainnet
+chain: okxchain
+infoUrl: https://www.okex.com/okc
+nativeCurrency:
+  name: OKXChain Global Utility Token
+  symbol: OKT
+  decimals: 18
+rpcUrls:
+  okex: https://exchainrpc.okex.org
+  pokt: https://okc-mainnet.gateway.pokt.network/v1/lb/6275309bea1b320039c893ff
+  public: https://exchainrpc.okex.org
+  default: https://exchainrpc.okex.org
+blockExplorers:
+  oklink:
+    name: OKLink
+    url: https://www.oklink.com/en/okc
+    standard: EIP3091
+  default:
+    name: OKLink
+    url: https://www.oklink.com/en/okc
+    standard: EIP3091
+testnet: false

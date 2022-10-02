@@ -1,0 +1,25 @@
+id: 186
+name: Seele Mainnet
+shortName: Seele
+networkId: 186
+network: seele-mainnet
+chain: Seele
+infoUrl: https://seelen.pro/
+nativeCurrency:
+  name: Seele
+  symbol: Seele
+  decimals: 18
+rpcUrls:
+  seelen: https://rpc.seelen.pro/
+  public: https://rpc.seelen.pro/
+  default: https://rpc.seelen.pro/
+blockExplorers:
+  seeleview:
+    name: Seeleview
+    url: https://seeleview.net
+    standard: none
+  default:
+    name: Seeleview
+    url: https://seeleview.net
+    standard: none
+testnet: false

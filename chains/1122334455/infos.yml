@@ -1,0 +1,17 @@
+id: 1122334455
+name: IPOS Network
+shortName: ipos
+networkId: 1122334455
+network: ipos-network
+chain: IPOS
+infoUrl: https://iposlab.com
+nativeCurrency:
+  name: IPOS Network Ether
+  symbol: IPOS
+  decimals: 18
+rpcUrls:
+  iposlab: https://rpc2.iposlab.com
+  public: https://rpc2.iposlab.com
+  default: https://rpc2.iposlab.com
+blockExplorers: {}
+testnet: false

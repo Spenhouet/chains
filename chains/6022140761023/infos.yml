@@ -1,0 +1,17 @@
+id: 6022140761023
+name: Molereum Network
+shortName: mole
+networkId: 6022140761023
+network: molereum-network
+chain: ETH
+infoUrl: https://github.com/Jdubedition/molereum
+nativeCurrency:
+  name: Molereum Ether
+  symbol: MOLE
+  decimals: 18
+rpcUrls:
+  jdubedition: https://molereum.jdubedition.com
+  public: https://molereum.jdubedition.com
+  default: https://molereum.jdubedition.com
+blockExplorers: {}
+testnet: false

@@ -1,0 +1,25 @@
+id: 1213
+name: Popcateum Mainnet
+shortName: popcat
+networkId: 1213
+network: popcateum-mainnet
+chain: POPCATEUM
+infoUrl: https://popcateum.org
+nativeCurrency:
+  name: Popcat
+  symbol: POP
+  decimals: 18
+rpcUrls:
+  popcateum: https://dataseed.popcateum.org
+  public: https://dataseed.popcateum.org
+  default: https://dataseed.popcateum.org
+blockExplorers:
+  blockscout:
+    name: Popcateum explorer
+    url: https://explorer.popcateum.org
+    standard: none
+  default:
+    name: Popcateum explorer
+    url: https://explorer.popcateum.org
+    standard: none
+testnet: false

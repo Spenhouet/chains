@@ -1,0 +1,25 @@
+id: 126
+name: OYchain Mainnet
+shortName: OYchainMainnet
+networkId: 126
+network: oychain-mainnet
+chain: OYchain
+infoUrl: https://www.oychain.io
+nativeCurrency:
+  name: OYchain Token
+  symbol: OY
+  decimals: 18
+rpcUrls:
+  oychain: https://rpc.mainnet.oychain.io
+  public: https://rpc.mainnet.oychain.io
+  default: https://rpc.mainnet.oychain.io
+blockExplorers:
+  blockscout:
+    name: OYchain Mainnet Explorer
+    url: https://explorer.oychain.io
+    standard: none
+  default:
+    name: OYchain Mainnet Explorer
+    url: https://explorer.oychain.io
+    standard: none
+testnet: false

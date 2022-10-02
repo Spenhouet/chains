@@ -1,0 +1,25 @@
+id: 16888
+name: IVAR Chain Testnet
+shortName: tivar
+networkId: 16888
+network: ivar-chain testnet
+chain: IVAR
+infoUrl: https://ivarex.com
+nativeCurrency:
+  name: tIvar
+  symbol: tIVAR
+  decimals: 18
+rpcUrls:
+  ivarex: https://testnet-rpc.ivarex.com
+  public: https://testnet-rpc.ivarex.com
+  default: https://testnet-rpc.ivarex.com
+blockExplorers:
+  etherscan:
+    name: Ivarscan
+    url: https://testnet.ivarscan.com
+    standard: EIP3091
+  default:
+    name: Ivarscan
+    url: https://testnet.ivarscan.com
+    standard: EIP3091
+testnet: true

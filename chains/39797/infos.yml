@@ -1,0 +1,17 @@
+id: 39797
+name: Energi Mainnet
+shortName: nrg
+networkId: 39797
+network: energi-mainnet
+chain: NRG
+infoUrl: https://www.energi.world/
+nativeCurrency:
+  name: Energi
+  symbol: NRG
+  decimals: 18
+rpcUrls:
+  energi: https://nodeapi.energi.network
+  public: https://nodeapi.energi.network
+  default: https://nodeapi.energi.network
+blockExplorers: {}
+testnet: false

@@ -1,0 +1,17 @@
+id: 63
+name: Ethereum Classic Testnet Mordor
+shortName: metc
+networkId: 7
+network: ethereum-classic testnet mordor
+chain: ETC
+infoUrl: https://github.com/eth-classic/mordor/
+nativeCurrency:
+  name: Mordor Classic Testnet Ether
+  symbol: METC
+  decimals: 18
+rpcUrls:
+  ethercluster: https://www.ethercluster.com/mordor
+  public: https://www.ethercluster.com/mordor
+  default: https://www.ethercluster.com/mordor
+blockExplorers: {}
+testnet: true

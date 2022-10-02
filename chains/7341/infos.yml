@@ -1,0 +1,25 @@
+id: 7341
+name: Shyft Mainnet
+shortName: shyft
+networkId: 7341
+network: shyft-mainnet
+chain: SHYFT
+infoUrl: https://shyft.network
+nativeCurrency:
+  name: Shyft
+  symbol: SHYFT
+  decimals: 18
+rpcUrls:
+  shyft: https://rpc.shyft.network/
+  public: https://rpc.shyft.network/
+  default: https://rpc.shyft.network/
+blockExplorers:
+  shyft-bx:
+    name: Shyft BX
+    url: https://bx.shyft.network
+    standard: EIP3091
+  default:
+    name: Shyft BX
+    url: https://bx.shyft.network
+    standard: EIP3091
+testnet: false

@@ -1,0 +1,29 @@
+id: 2023
+name: Taycan Testnet
+shortName: taycan-testnet
+networkId: 2023
+network: taycan-testnet
+chain: Taycan
+infoUrl: https://hupayx.io
+nativeCurrency:
+  name: test-Shuffle
+  symbol: tSFL
+  decimals: 18
+rpcUrls:
+  hupayx: https://test-taycan.hupayx.io
+  public: https://test-taycan.hupayx.io
+  default: https://test-taycan.hupayx.io
+blockExplorers:
+  taycan-explorer(blockscout):
+    name: Taycan Explorer(Blockscout)
+    url: https://evmscan-test.hupayx.io
+    standard: none
+  taycan-cosmos explorer:
+    name: Taycan Cosmos Explorer
+    url: https://cosmoscan-test.hupayx.io
+    standard: none
+  default:
+    name: Taycan Explorer(Blockscout)
+    url: https://evmscan-test.hupayx.io
+    standard: none
+testnet: true

@@ -1,0 +1,25 @@
+id: 776
+name: OpenChain Testnet
+shortName: opc
+networkId: 776
+network: openchain-testnet
+chain: OpenChain Testnet
+infoUrl: https://testnet.openchain.info/
+nativeCurrency:
+  name: Openchain Testnet
+  symbol: TOPC
+  decimals: 18
+rpcUrls:
+  openchain: https://mainnet1.openchain.info
+  public: https://mainnet1.openchain.info
+  default: https://mainnet1.openchain.info
+blockExplorers:
+  open-chain testnet:
+    name: OPEN CHAIN TESTNET
+    url: https://testnet.openchain.info
+    standard: none
+  default:
+    name: OPEN CHAIN TESTNET
+    url: https://testnet.openchain.info
+    standard: none
+testnet: true

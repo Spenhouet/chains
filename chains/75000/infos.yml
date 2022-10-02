@@ -1,0 +1,25 @@
+id: 75000
+name: ResinCoin Mainnet
+shortName: resin
+networkId: 75000
+network: resincoin-mainnet
+chain: RESIN
+infoUrl: https://resincoin.dev
+nativeCurrency:
+  name: Ether
+  symbol: RESIN
+  decimals: 18
+rpcUrls:
+  resincoin: https://mainnet.resincoin.dev
+  public: https://mainnet.resincoin.dev
+  default: https://mainnet.resincoin.dev
+blockExplorers:
+  blockscout:
+    name: ResinScan
+    url: https://explorer.resincoin.dev
+    standard: none
+  default:
+    name: ResinScan
+    url: https://explorer.resincoin.dev
+    standard: none
+testnet: false

@@ -1,0 +1,25 @@
+id: 2613
+name: EZChain C-Chain Testnet
+shortName: Fuji-EZChain
+networkId: 2613
+network: ezchain-c-chain testnet
+chain: EZC
+infoUrl: https://ezchain.com
+nativeCurrency:
+  name: EZChain
+  symbol: EZC
+  decimals: 18
+rpcUrls:
+  ezchain: https://testnet-api.ezchain.com/ext/bc/C/rpc
+  public: https://testnet-api.ezchain.com/ext/bc/C/rpc
+  default: https://testnet-api.ezchain.com/ext/bc/C/rpc
+blockExplorers:
+  blockscout:
+    name: Ezchain
+    url: https://testnet-cchain-explorer.ezchain.com
+    standard: EIP3091
+  default:
+    name: Ezchain
+    url: https://testnet-cchain-explorer.ezchain.com
+    standard: EIP3091
+testnet: true

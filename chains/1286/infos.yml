@@ -1,0 +1,14 @@
+id: 1286
+name: Moonrock old
+shortName: mrock-old
+networkId: 1286
+network: moonrock-old
+chain: MOON
+infoUrl: ""
+nativeCurrency:
+  name: Rocs
+  symbol: ROC
+  decimals: 18
+rpcUrls: {}
+blockExplorers: {}
+testnet: false

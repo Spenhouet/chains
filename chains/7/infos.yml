@@ -1,0 +1,17 @@
+id: 7
+name: ThaiChain
+shortName: tch
+networkId: 7
+network: thaichain
+chain: TCH
+infoUrl: https://thaichain.io
+nativeCurrency:
+  name: ThaiChain Ether
+  symbol: TCH
+  decimals: 18
+rpcUrls:
+  dome: https://rpc.dome.cloud
+  public: https://rpc.dome.cloud
+  default: https://rpc.dome.cloud
+blockExplorers: {}
+testnet: false

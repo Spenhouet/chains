@@ -1,0 +1,17 @@
+id: 20181205
+name: quarkblockchain
+shortName: qki
+networkId: 20181205
+network: quarkblockchain
+chain: QKI
+infoUrl: https://quarkblockchain.org/
+nativeCurrency:
+  name: quarkblockchain Native Token
+  symbol: QKI
+  decimals: 18
+rpcUrls:
+  qkiscan: https://jp.rpc.qkiscan.io
+  public: https://jp.rpc.qkiscan.io
+  default: https://jp.rpc.qkiscan.io
+blockExplorers: {}
+testnet: false

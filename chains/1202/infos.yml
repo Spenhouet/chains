@@ -1,0 +1,25 @@
+id: 1202
+name: World Trade Technical Chain Mainnet
+shortName: wtt
+networkId: 2048
+network: world-trade technical chain mainnet
+chain: WTT
+infoUrl: http://www.cadaut.com
+nativeCurrency:
+  name: World Trade Token
+  symbol: WTT
+  decimals: 18
+rpcUrls:
+  cadaut: https://rpc.cadaut.com
+  public: https://rpc.cadaut.com
+  default: https://rpc.cadaut.com
+blockExplorers:
+  blockscout:
+    name: WTTScout
+    url: https://explorer.cadaut.com
+    standard: EIP3091
+  default:
+    name: WTTScout
+    url: https://explorer.cadaut.com
+    standard: EIP3091
+testnet: false

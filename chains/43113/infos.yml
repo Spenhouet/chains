@@ -1,0 +1,25 @@
+id: 43113
+name: Avalanche Fuji Testnet
+shortName: Fuji
+networkId: 1
+network: avalanche-fuji testnet
+chain: AVAX
+infoUrl: https://cchain.explorer.avax-test.network
+nativeCurrency:
+  name: Avalanche
+  symbol: AVAX
+  decimals: 18
+rpcUrls:
+  avax-test: https://api.avax-test.network/ext/bc/C/rpc
+  public: https://api.avax-test.network/ext/bc/C/rpc
+  default: https://api.avax-test.network/ext/bc/C/rpc
+blockExplorers:
+  snowtrace:
+    name: Snowtrace
+    url: https://testnet.snowtrace.io
+    standard: EIP3091
+  default:
+    name: Snowtrace
+    url: https://testnet.snowtrace.io
+    standard: EIP3091
+testnet: true

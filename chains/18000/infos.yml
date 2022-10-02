@@ -1,0 +1,25 @@
+id: 18000
+name: Frontier of Dreams Testnet
+shortName: ZKST
+networkId: 18000
+network: frontier-of dreams testnet
+chain: Game Network
+infoUrl: https://goexosphere.com
+nativeCurrency:
+  name: ZKST
+  symbol: ZKST
+  decimals: 18
+rpcUrls:
+  fod: https://rpc.fod.games/
+  public: https://rpc.fod.games/
+  default: https://rpc.fod.games/
+blockExplorers:
+  blockscout:
+    name: Game Network
+    url: https://explorer.fod.games
+    standard: EIP3091
+  default:
+    name: Game Network
+    url: https://explorer.fod.games
+    standard: EIP3091
+testnet: true

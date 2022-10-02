@@ -1,0 +1,25 @@
+id: 335
+name: DFK Chain Test
+shortName: DFKTEST
+networkId: 335
+network: dfk-chain test
+chain: DFK
+infoUrl: https://defikingdoms.com
+nativeCurrency:
+  name: Jewel
+  symbol: JEWEL
+  decimals: 18
+rpcUrls:
+  avax: https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/rpc
+  public: https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/rpc
+  default: https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/rpc
+blockExplorers:
+  ethernal:
+    name: Ethernal
+    url: https://explorer-test.dfkchain.com
+    standard: none
+  default:
+    name: Ethernal
+    url: https://explorer-test.dfkchain.com
+    standard: none
+testnet: true

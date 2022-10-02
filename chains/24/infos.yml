@@ -1,0 +1,17 @@
+id: 24
+name: Dithereum Mainnet
+shortName: dthmainnet
+networkId: 24
+network: dithereum-mainnet
+chain: DTH
+infoUrl: https://dithereum.org
+nativeCurrency:
+  name: Dither
+  symbol: DTH
+  decimals: 18
+rpcUrls:
+  dithereum: https://node-mainnet.dithereum.io
+  public: https://node-mainnet.dithereum.io
+  default: https://node-mainnet.dithereum.io
+blockExplorers: {}
+testnet: false

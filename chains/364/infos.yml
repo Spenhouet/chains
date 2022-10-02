@@ -1,0 +1,25 @@
+id: 364
+name: Theta Amber Testnet
+shortName: theta-amber
+networkId: 364
+network: theta-amber testnet
+chain: Theta
+infoUrl: https://www.thetatoken.org/
+nativeCurrency:
+  name: Theta Fuel
+  symbol: TFUEL
+  decimals: 18
+rpcUrls:
+  thetatoken: https://eth-rpc-api-amber.thetatoken.org/rpc
+  public: https://eth-rpc-api-amber.thetatoken.org/rpc
+  default: https://eth-rpc-api-amber.thetatoken.org/rpc
+blockExplorers:
+  blockscout:
+    name: Theta Amber Testnet Explorer
+    url: https://guardian-testnet-amber-explorer.thetatoken.org
+    standard: EIP3091
+  default:
+    name: Theta Amber Testnet Explorer
+    url: https://guardian-testnet-amber-explorer.thetatoken.org
+    standard: EIP3091
+testnet: true

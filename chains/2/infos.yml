@@ -1,0 +1,17 @@
+id: 2
+name: Expanse Network
+shortName: exp
+networkId: 1
+network: expanse-network
+chain: EXP
+infoUrl: https://expanse.tech
+nativeCurrency:
+  name: Expanse Network Ether
+  symbol: EXP
+  decimals: 18
+rpcUrls:
+  expanse: https://node.expanse.tech
+  public: https://node.expanse.tech
+  default: https://node.expanse.tech
+blockExplorers: {}
+testnet: false

@@ -1,0 +1,25 @@
+id: 201030
+name: Alaya Dev Testnet
+shortName: alayadev
+networkId: 1
+network: alaya-dev testnet
+chain: Alaya
+infoUrl: https://www.alaya.network/
+nativeCurrency:
+  name: ATP
+  symbol: atp
+  decimals: 18
+rpcUrls:
+  alaya: https://devnetopenapi.alaya.network/rpc
+  public: https://devnetopenapi.alaya.network/rpc
+  default: https://devnetopenapi.alaya.network/rpc
+blockExplorers:
+  etherscan:
+    name: Alaya explorer
+    url: https://devnetscan.alaya.network
+    standard: none
+  default:
+    name: Alaya explorer
+    url: https://devnetscan.alaya.network
+    standard: none
+testnet: true

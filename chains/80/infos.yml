@@ -1,0 +1,25 @@
+id: 80
+name: GeneChain
+shortName: GeneChain
+networkId: 80
+network: genechain
+chain: GeneChain
+infoUrl: https://scan.genechain.io/
+nativeCurrency:
+  name: RNA
+  symbol: RNA
+  decimals: 18
+rpcUrls:
+  genechain: https://rpc.genechain.io
+  public: https://rpc.genechain.io
+  default: https://rpc.genechain.io
+blockExplorers:
+  etherscan:
+    name: GeneChain Scan
+    url: https://scan.genechain.io
+    standard: EIP3091
+  default:
+    name: GeneChain Scan
+    url: https://scan.genechain.io
+    standard: EIP3091
+testnet: false

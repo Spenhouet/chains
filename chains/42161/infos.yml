@@ -1,0 +1,31 @@
+id: 42161
+name: Arbitrum One
+shortName: arb1
+networkId: 42161
+network: arbitrum-one
+chain: ETH
+infoUrl: https://arbitrum.io
+nativeCurrency:
+  name: Ether
+  symbol: ETH
+  decimals: 18
+rpcUrls:
+  infura: https://arbitrum-mainnet.infura.io/v3
+  alchemy: https://arb-mainnet.g.alchemy.com/v2
+  arbitrum: https://arb1.arbitrum.io/rpc
+  public: https://arb1.arbitrum.io/rpc
+  default: https://arb1.arbitrum.io/rpc
+blockExplorers:
+  etherscan:
+    name: Arbiscan
+    url: https://arbiscan.io
+    standard: EIP3091
+  blockscout:
+    name: Arbitrum Explorer
+    url: https://explorer.arbitrum.io
+    standard: EIP3091
+  default:
+    name: Arbiscan
+    url: https://arbiscan.io
+    standard: EIP3091
+testnet: false

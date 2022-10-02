@@ -1,0 +1,25 @@
+id: 902
+name: Garizon Testnet Stage2
+shortName: gar-test-s2
+networkId: 902
+network: garizon-testnet stage2
+chain: GAR
+infoUrl: https://garizon.com
+nativeCurrency:
+  name: Garizon
+  symbol: GAR
+  decimals: 18
+rpcUrls:
+  garizon: https://s2-testnet.garizon.net/rpc
+  public: https://s2-testnet.garizon.net/rpc
+  default: https://s2-testnet.garizon.net/rpc
+blockExplorers:
+  explorer:
+    name: Explorer
+    url: https://explorer-testnet.garizon.com
+    standard: EIP3091
+  default:
+    name: Explorer
+    url: https://explorer-testnet.garizon.com
+    standard: EIP3091
+testnet: true

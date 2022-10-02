@@ -1,0 +1,25 @@
+id: 107
+name: Nebula Testnet
+shortName: ntn
+networkId: 107
+network: nebula-testnet
+chain: NTN
+infoUrl: https://novanetwork.io
+nativeCurrency:
+  name: Nebula X
+  symbol: NBX
+  decimals: 18
+rpcUrls:
+  novanetwork: https://testnet.rpc.novanetwork.io:9070
+  public: https://testnet.rpc.novanetwork.io:9070
+  default: https://testnet.rpc.novanetwork.io:9070
+blockExplorers:
+  blockscout:
+    name: Nebulatestnet
+    url: https://explorer.novanetwork.io
+    standard: EIP3091
+  default:
+    name: Nebulatestnet
+    url: https://explorer.novanetwork.io
+    standard: EIP3091
+testnet: true

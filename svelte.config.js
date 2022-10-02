@@ -1,5 +1,11 @@
+import fs from 'fs';
 import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-static';
+
+
+const chainIds = fs.readdirSync(`./chains`, { withFileTypes: true })
+	.filter(dirent => dirent.isDirectory())
+	.map(dirent => +dirent.name);
 
 const TARGET = process.env.npm_lifecycle_event;
 
@@ -21,6 +27,8 @@ const config = {
 			entries: [
 				'*',
 				'/',
+				...chainIds.map((id) => `/${id}.json`),
+				'/chains.json'
 			]
 		},
 	},

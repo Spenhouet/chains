@@ -1,0 +1,17 @@
+id: 18289463
+name: IOLite
+shortName: ilt
+networkId: 18289463
+network: iolite
+chain: ILT
+infoUrl: https://iolite.io
+nativeCurrency:
+  name: IOLite Ether
+  symbol: ILT
+  decimals: 18
+rpcUrls:
+  iolite: https://net.iolite.io
+  public: https://net.iolite.io
+  default: https://net.iolite.io
+blockExplorers: {}
+testnet: false

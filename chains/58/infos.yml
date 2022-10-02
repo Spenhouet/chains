@@ -1,0 +1,25 @@
+id: 58
+name: Ontology Mainnet
+shortName: OntologyMainnet
+networkId: 58
+network: ontology-mainnet
+chain: Ontology
+infoUrl: https://ont.io/
+nativeCurrency:
+  name: ONG
+  symbol: ONG
+  decimals: 18
+rpcUrls:
+  ont: https://dappnode4.ont.io:10339
+  public: https://dappnode4.ont.io:10339
+  default: https://dappnode4.ont.io:10339
+blockExplorers:
+  blockscout:
+    name: Explorer
+    url: https://explorer.ont.io
+    standard: EIP3091
+  default:
+    name: Explorer
+    url: https://explorer.ont.io
+    standard: EIP3091
+testnet: false

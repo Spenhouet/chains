@@ -1,0 +1,25 @@
+id: 256256
+name: CMP-Mainnet
+shortName: cmp-mainnet
+networkId: 256256
+network: cmp-mainnet
+chain: CMP
+infoUrl: https://caduceus.foundation/
+nativeCurrency:
+  name: Caduceus Token
+  symbol: CMP
+  decimals: 18
+rpcUrls:
+  caduceus: https://mainnet.block.caduceus.foundation
+  public: https://mainnet.block.caduceus.foundation
+  default: https://mainnet.block.caduceus.foundation
+blockExplorers:
+  etherscan:
+    name: Mainnet Scan
+    url: https://mainnet.scan.caduceus.foundation
+    standard: none
+  default:
+    name: Mainnet Scan
+    url: https://mainnet.scan.caduceus.foundation
+    standard: none
+testnet: false

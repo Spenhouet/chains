@@ -1,0 +1,25 @@
+id: 8000
+name: Teleport
+shortName: teleport
+networkId: 8000
+network: teleport
+chain: Teleport
+infoUrl: https://teleport.network
+nativeCurrency:
+  name: Tele
+  symbol: TELE
+  decimals: 18
+rpcUrls:
+  teleport: https://evm-rpc.teleport.network
+  public: https://evm-rpc.teleport.network
+  default: https://evm-rpc.teleport.network
+blockExplorers:
+  blockscout:
+    name: Teleport Cosmos Explorer (Big Dipper)
+    url: https://explorer.teleport.network
+    standard: none
+  default:
+    name: Teleport Cosmos Explorer (Big Dipper)
+    url: https://explorer.teleport.network
+    standard: none
+testnet: false

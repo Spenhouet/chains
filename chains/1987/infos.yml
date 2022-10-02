@@ -1,0 +1,17 @@
+id: 1987
+name: EtherGem
+shortName: egem
+networkId: 1987
+network: ethergem
+chain: EGEM
+infoUrl: https://egem.io
+nativeCurrency:
+  name: EtherGem Ether
+  symbol: EGEM
+  decimals: 18
+rpcUrls:
+  egem: https://jsonrpc.egem.io/custom
+  public: https://jsonrpc.egem.io/custom
+  default: https://jsonrpc.egem.io/custom
+blockExplorers: {}
+testnet: false

@@ -1,0 +1,25 @@
+id: 4918
+name: Venidium Testnet
+shortName: txvm
+networkId: 4918
+network: venidium-testnet
+chain: XVM
+infoUrl: https://venidium.io
+nativeCurrency:
+  name: Venidium
+  symbol: XVM
+  decimals: 18
+rpcUrls:
+  venidium: https://rpc-evm-testnet.venidium.io
+  public: https://rpc-evm-testnet.venidium.io
+  default: https://rpc-evm-testnet.venidium.io
+blockExplorers:
+  blockscout:
+    name: Venidium EVM Testnet Explorer
+    url: https://evm-testnet.venidiumexplorer.com
+    standard: EIP3091
+  default:
+    name: Venidium EVM Testnet Explorer
+    url: https://evm-testnet.venidiumexplorer.com
+    standard: EIP3091
+testnet: true

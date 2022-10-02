@@ -1,0 +1,17 @@
+id: 17
+name: ThaiChain 2.0 ThaiFi
+shortName: tfi
+networkId: 17
+network: thaichain-2.0 thaifi
+chain: TCH
+infoUrl: https://exp.thaifi.com
+nativeCurrency:
+  name: Thaifi Ether
+  symbol: TFI
+  decimals: 18
+rpcUrls:
+  thaifi: https://rpc.thaifi.com
+  public: https://rpc.thaifi.com
+  default: https://rpc.thaifi.com
+blockExplorers: {}
+testnet: false

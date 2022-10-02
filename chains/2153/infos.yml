@@ -1,0 +1,25 @@
+id: 2153
+name: Findora Testnet
+shortName: findora-testnet
+networkId: 2153
+network: findora-testnet
+chain: Testnet-anvil
+infoUrl: https://findora.org/
+nativeCurrency:
+  name: FRA
+  symbol: FRA
+  decimals: 18
+rpcUrls:
+  findora: https://prod-testnet.prod.findora.org:8545/
+  public: https://prod-testnet.prod.findora.org:8545/
+  default: https://prod-testnet.prod.findora.org:8545/
+blockExplorers:
+  etherscan:
+    name: Findorascan
+    url: https://testnet-anvil.evm.findorascan.io
+    standard: EIP3091
+  default:
+    name: Findorascan
+    url: https://testnet-anvil.evm.findorascan.io
+    standard: EIP3091
+testnet: true

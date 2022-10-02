@@ -1,0 +1,25 @@
+id: 707
+name: BlockChain Station Mainnet
+shortName: bcs
+networkId: 707
+network: blockchain-station mainnet
+chain: BCS
+infoUrl: https://blockchainstation.io
+nativeCurrency:
+  name: BCS Token
+  symbol: BCS
+  decimals: 18
+rpcUrls:
+  bcsdev: https://rpc-mainnet.bcsdev.io
+  public: https://rpc-mainnet.bcsdev.io
+  default: https://rpc-mainnet.bcsdev.io
+blockExplorers:
+  blockscout:
+    name: BlockChain Station Explorer
+    url: https://explorer.bcsdev.io
+    standard: EIP3091
+  default:
+    name: BlockChain Station Explorer
+    url: https://explorer.bcsdev.io
+    standard: EIP3091
+testnet: false

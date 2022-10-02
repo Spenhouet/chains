@@ -1,0 +1,17 @@
+id: 2559
+name: Kortho Mainnet
+shortName: ktoc
+networkId: 2559
+network: kortho-mainnet
+chain: Kortho Chain
+infoUrl: https://www.kortho.io/
+nativeCurrency:
+  name: KorthoChain
+  symbol: KTO
+  decimals: 11
+rpcUrls:
+  kortho-chain: https://www.kortho-chain.com
+  public: https://www.kortho-chain.com
+  default: https://www.kortho-chain.com
+blockExplorers: {}
+testnet: false

@@ -1,0 +1,17 @@
+id: 1666700002
+name: Harmony Testnet Shard 2
+shortName: hmy-b-s2
+networkId: 1666700002
+network: harmony-testnet shard 2
+chain: Harmony
+infoUrl: https://www.harmony.one/
+nativeCurrency:
+  name: ONE
+  symbol: ONE
+  decimals: 18
+rpcUrls:
+  hmny: https://api.s2.b.hmny.io
+  public: https://api.s2.b.hmny.io
+  default: https://api.s2.b.hmny.io
+blockExplorers: {}
+testnet: true

@@ -1,0 +1,25 @@
+id: 40
+name: Telos EVM Mainnet
+shortName: TelosEVM
+networkId: 40
+network: telos-evm mainnet
+chain: TLOS
+infoUrl: https://telos.net
+nativeCurrency:
+  name: Telos
+  symbol: TLOS
+  decimals: 18
+rpcUrls:
+  telos: https://mainnet.telos.net/evm
+  public: https://mainnet.telos.net/evm
+  default: https://mainnet.telos.net/evm
+blockExplorers:
+  etherscan:
+    name: Teloscan
+    url: https://teloscan.io
+    standard: EIP3091
+  default:
+    name: Teloscan
+    url: https://teloscan.io
+    standard: EIP3091
+testnet: false

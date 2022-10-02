@@ -1,0 +1,17 @@
+id: 5197
+name: EraSwap Mainnet
+shortName: es
+networkId: 5197
+network: eraswap-mainnet
+chain: ESN
+infoUrl: https://eraswap.info/
+nativeCurrency:
+  name: EraSwap
+  symbol: ES
+  decimals: 18
+rpcUrls:
+  eraswap: https://rpc-mumbai.mainnet.eraswap.network
+  public: https://rpc-mumbai.mainnet.eraswap.network
+  default: https://rpc-mumbai.mainnet.eraswap.network
+blockExplorers: {}
+testnet: false

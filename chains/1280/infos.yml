@@ -1,0 +1,25 @@
+id: 1280
+name: HALO Mainnet
+shortName: HO
+networkId: 1280
+network: halo-mainnet
+chain: HALO
+infoUrl: https://halo.land/#/
+nativeCurrency:
+  name: HALO
+  symbol: HO
+  decimals: 18
+rpcUrls:
+  halo: https://nodes.halo.land
+  public: https://nodes.halo.land
+  default: https://nodes.halo.land
+blockExplorers:
+  haloexplorer:
+    name: HALOexplorer
+    url: https://browser.halo.land
+    standard: none
+  default:
+    name: HALOexplorer
+    url: https://browser.halo.land
+    standard: none
+testnet: false

@@ -1,0 +1,17 @@
+id: 8995
+name: bloxberg
+shortName: berg
+networkId: 8995
+network: bloxberg
+chain: bloxberg
+infoUrl: https://bloxberg.org
+nativeCurrency:
+  name: BERG
+  symbol: U+25B3
+  decimals: 18
+rpcUrls:
+  bloxberg: https://core.bloxberg.org
+  public: https://core.bloxberg.org
+  default: https://core.bloxberg.org
+blockExplorers: {}
+testnet: false

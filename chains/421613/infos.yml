@@ -1,0 +1,25 @@
+id: 421613
+name: Arbitrum Görli
+shortName: arb-goerli
+networkId: 421613
+network: arbitrum-görli
+chain: ETH
+infoUrl: https://arbitrum.io/
+nativeCurrency:
+  name: Arbitrum Görli Ether
+  symbol: AGOR
+  decimals: 18
+rpcUrls:
+  arbitrum: https://goerli-rollup.arbitrum.io/rpc/
+  public: https://goerli-rollup.arbitrum.io/rpc/
+  default: https://goerli-rollup.arbitrum.io/rpc/
+blockExplorers:
+  blockscout:
+    name: Arbitrum Görli Rollup Explorer
+    url: https://goerli-rollup-explorer.arbitrum.io
+    standard: EIP3091
+  default:
+    name: Arbitrum Görli Rollup Explorer
+    url: https://goerli-rollup-explorer.arbitrum.io
+    standard: EIP3091
+testnet: true

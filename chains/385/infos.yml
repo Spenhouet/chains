@@ -1,0 +1,17 @@
+id: 385
+name: Lisinski
+shortName: lisinski
+networkId: 385
+network: lisinski
+chain: CRO
+infoUrl: https://lisinski.online
+nativeCurrency:
+  name: Lisinski Ether
+  symbol: LISINS
+  decimals: 18
+rpcUrls:
+  lisinski: https://rpc-bitfalls1.lisinski.online
+  public: https://rpc-bitfalls1.lisinski.online
+  default: https://rpc-bitfalls1.lisinski.online
+blockExplorers: {}
+testnet: false

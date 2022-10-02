@@ -1,0 +1,17 @@
+id: 1313500
+name: Xerom
+shortName: xero
+networkId: 1313500
+network: xerom
+chain: XERO
+infoUrl: https://xerom.org
+nativeCurrency:
+  name: Xerom Ether
+  symbol: XERO
+  decimals: 18
+rpcUrls:
+  xerom: https://rpc.xerom.org
+  public: https://rpc.xerom.org
+  default: https://rpc.xerom.org
+blockExplorers: {}
+testnet: false

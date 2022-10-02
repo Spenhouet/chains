@@ -1,0 +1,25 @@
+id: 61
+name: Ethereum Classic Mainnet
+shortName: etc
+networkId: 1
+network: ethereum-classic mainnet
+chain: ETC
+infoUrl: https://ethereumclassic.org
+nativeCurrency:
+  name: Ethereum Classic Ether
+  symbol: ETC
+  decimals: 18
+rpcUrls:
+  ethercluster: https://www.ethercluster.com/etc
+  public: https://www.ethercluster.com/etc
+  default: https://www.ethercluster.com/etc
+blockExplorers:
+  blockscout:
+    name: Blockscout
+    url: https://blockscout.com/etc/mainnet
+    standard: none
+  default:
+    name: Blockscout
+    url: https://blockscout.com/etc/mainnet
+    standard: none
+testnet: false

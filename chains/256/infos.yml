@@ -1,0 +1,17 @@
+id: 256
+name: Huobi ECO Chain Testnet
+shortName: hecot
+networkId: 256
+network: huobi-eco chain testnet
+chain: Heco
+infoUrl: https://testnet.hecoinfo.com
+nativeCurrency:
+  name: Huobi ECO Chain Test Native Token
+  symbol: htt
+  decimals: 18
+rpcUrls:
+  hecochain: https://http-testnet.hecochain.com
+  public: https://http-testnet.hecochain.com
+  default: https://http-testnet.hecochain.com
+blockExplorers: {}
+testnet: true

@@ -1,0 +1,25 @@
+id: 8888
+name: Ambros Chain Testnet
+shortName: ambrostestnet
+networkId: 8888
+network: ambros-chain testnet
+chain: ambroschain
+infoUrl: https://test.ambros.network
+nativeCurrency:
+  name: AMBROS
+  symbol: AMBROS
+  decimals: 18
+rpcUrls:
+  ambros: https://api.testnet.ambros.network
+  public: https://api.testnet.ambros.network
+  default: https://api.testnet.ambros.network
+blockExplorers:
+  etherscan:
+    name: Ambros Chain Explorer
+    url: https://testnet.ambrosscan.com
+    standard: none
+  default:
+    name: Ambros Chain Explorer
+    url: https://testnet.ambrosscan.com
+    standard: none
+testnet: true

@@ -1,0 +1,17 @@
+id: 7762959
+name: Musicoin
+shortName: music
+networkId: 7762959
+network: musicoin
+chain: MUSIC
+infoUrl: https://musicoin.tw
+nativeCurrency:
+  name: Musicoin
+  symbol: MUSIC
+  decimals: 18
+rpcUrls:
+  musicoin: https://mewapi.musicoin.tw
+  public: https://mewapi.musicoin.tw
+  default: https://mewapi.musicoin.tw
+blockExplorers: {}
+testnet: false

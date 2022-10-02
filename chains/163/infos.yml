@@ -1,0 +1,17 @@
+id: 163
+name: Lightstreams Mainnet
+shortName: pht
+networkId: 163
+network: lightstreams-mainnet
+chain: PHT
+infoUrl: https://explorer.lightstreams.io
+nativeCurrency:
+  name: Lightstreams PHT
+  symbol: PHT
+  decimals: 18
+rpcUrls:
+  lightstreams: https://node.mainnet.lightstreams.io
+  public: https://node.mainnet.lightstreams.io
+  default: https://node.mainnet.lightstreams.io
+blockExplorers: {}
+testnet: false

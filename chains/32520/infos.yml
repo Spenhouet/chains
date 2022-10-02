@@ -1,0 +1,28 @@
+id: 32520
+name: Bitgert Mainnet
+shortName: Brise
+networkId: 32520
+network: bitgert-mainnet
+chain: Brise
+infoUrl: https://bitgert.com/
+nativeCurrency:
+  name: Bitrise Token
+  symbol: Brise
+  decimals: 18
+rpcUrls:
+  icecreamswap: https://rpc.icecreamswap.com
+  brisescan: https://mainnet-rpc.brisescan.com
+  chainrpc: https://chainrpc.com
+  serverrpc: https://serverrpc.com
+  public: https://rpc.icecreamswap.com
+  default: https://rpc.icecreamswap.com
+blockExplorers:
+  etherscan:
+    name: Brise Scan
+    url: https://brisescan.com
+    standard: EIP3091
+  default:
+    name: Brise Scan
+    url: https://brisescan.com
+    standard: EIP3091
+testnet: false

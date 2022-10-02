@@ -1,0 +1,25 @@
+id: 45000
+name: Autobahn Network
+shortName: AutobahnNetwork
+networkId: 45000
+network: autobahn-network
+chain: TXL
+infoUrl: https://autobahn.network
+nativeCurrency:
+  name: TXL
+  symbol: TXL
+  decimals: 18
+rpcUrls:
+  autobahn: https://rpc.autobahn.network
+  public: https://rpc.autobahn.network
+  default: https://rpc.autobahn.network
+blockExplorers:
+  blockscout:
+    name: Autobahn explorer
+    url: https://explorer.autobahn.network
+    standard: EIP3091
+  default:
+    name: Autobahn explorer
+    url: https://explorer.autobahn.network
+    standard: EIP3091
+testnet: false

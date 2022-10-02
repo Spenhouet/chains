@@ -1,0 +1,25 @@
+id: 43
+name: Darwinia Pangolin Testnet
+shortName: pangolin
+networkId: 43
+network: darwinia-pangolin testnet
+chain: pangolin
+infoUrl: https://darwinia.network/
+nativeCurrency:
+  name: Pangolin Network Native Token”
+  symbol: PRING
+  decimals: 18
+rpcUrls:
+  darwinia: https://pangolin-rpc.darwinia.network
+  public: https://pangolin-rpc.darwinia.network
+  default: https://pangolin-rpc.darwinia.network
+blockExplorers:
+  etherscan:
+    name: Subscan
+    url: https://pangolin.subscan.io
+    standard: none
+  default:
+    name: Subscan
+    url: https://pangolin.subscan.io
+    standard: none
+testnet: true

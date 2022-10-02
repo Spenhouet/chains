@@ -1,0 +1,25 @@
+id: 432201
+name: Dexalot Testnet
+shortName: Dexalot
+networkId: 432201
+network: dexalot-testnet
+chain: DEXALOT
+infoUrl: https://dexalot.com
+nativeCurrency:
+  name: Dexalot
+  symbol: ALOT
+  decimals: 18
+rpcUrls:
+  avax: https://subnets.avax.network/dexalot/testnet/rpc
+  public: https://subnets.avax.network/dexalot/testnet/rpc
+  default: https://subnets.avax.network/dexalot/testnet/rpc
+blockExplorers:
+  avalanche-subnet explorer:
+    name: Avalanche Subnet Explorer
+    url: https://subnets.avax.network/dexalot/testnet/explorer
+    standard: EIP3091
+  default:
+    name: Avalanche Subnet Explorer
+    url: https://subnets.avax.network/dexalot/testnet/explorer
+    standard: EIP3091
+testnet: true

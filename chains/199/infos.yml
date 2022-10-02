@@ -1,0 +1,25 @@
+id: 199
+name: BitTorrent Chain Mainnet
+shortName: BTT
+networkId: 199
+network: bittorrent-chain mainnet
+chain: BTTC
+infoUrl: https://bittorrentchain.io/
+nativeCurrency:
+  name: BitTorrent
+  symbol: BTT
+  decimals: 18
+rpcUrls:
+  bittorrentchain: https://rpc.bittorrentchain.io/
+  public: https://rpc.bittorrentchain.io/
+  default: https://rpc.bittorrentchain.io/
+blockExplorers:
+  etherscan:
+    name: Bttcscan
+    url: https://scan.bittorrentchain.io
+    standard: none
+  default:
+    name: Bttcscan
+    url: https://scan.bittorrentchain.io
+    standard: none
+testnet: false

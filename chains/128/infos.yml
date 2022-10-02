@@ -1,0 +1,25 @@
+id: 128
+name: Huobi ECO Chain Mainnet
+shortName: heco
+networkId: 128
+network: huobi-eco chain mainnet
+chain: Heco
+infoUrl: https://www.hecochain.com
+nativeCurrency:
+  name: Huobi ECO Chain Native Token
+  symbol: HT
+  decimals: 18
+rpcUrls:
+  hecochain: https://http-mainnet.hecochain.com
+  public: https://http-mainnet.hecochain.com
+  default: https://http-mainnet.hecochain.com
+blockExplorers:
+  hecoinfo:
+    name: Hecoinfo
+    url: https://hecoinfo.com
+    standard: EIP3091
+  default:
+    name: Hecoinfo
+    url: https://hecoinfo.com
+    standard: EIP3091
+testnet: false

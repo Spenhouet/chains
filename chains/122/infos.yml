@@ -1,0 +1,17 @@
+id: 122
+name: Fuse Mainnet
+shortName: fuse
+networkId: 122
+network: fuse-mainnet
+chain: FUSE
+infoUrl: https://fuse.io/
+nativeCurrency:
+  name: Fuse
+  symbol: FUSE
+  decimals: 18
+rpcUrls:
+  fuse: https://rpc.fuse.io
+  public: https://rpc.fuse.io
+  default: https://rpc.fuse.io
+blockExplorers: {}
+testnet: false

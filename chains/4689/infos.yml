@@ -1,0 +1,25 @@
+id: 4689
+name: IoTeX Network Mainnet
+shortName: iotex-mainnet
+networkId: 4689
+network: iotex-network mainnet
+chain: iotex.io
+infoUrl: https://iotex.io
+nativeCurrency:
+  name: IoTeX
+  symbol: IOTX
+  decimals: 18
+rpcUrls:
+  iotex: https://babel-api.mainnet.iotex.io
+  public: https://babel-api.mainnet.iotex.io
+  default: https://babel-api.mainnet.iotex.io
+blockExplorers:
+  etherscan:
+    name: Iotexscan
+    url: https://iotexscan.io
+    standard: EIP3091
+  default:
+    name: Iotexscan
+    url: https://iotexscan.io
+    standard: EIP3091
+testnet: false

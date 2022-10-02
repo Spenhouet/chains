@@ -1,0 +1,17 @@
+id: 9999
+name: myOwn Testnet
+shortName: myn
+networkId: 9999
+network: myown-testnet
+chain: myOwn
+infoUrl: https://docs.bccloud.net/
+nativeCurrency:
+  name: MYN
+  symbol: MYN
+  decimals: 18
+rpcUrls:
+  bccloud: https://geth.dev.bccloud.net
+  public: https://geth.dev.bccloud.net
+  default: https://geth.dev.bccloud.net
+blockExplorers: {}
+testnet: true

@@ -1,0 +1,25 @@
+id: 2203181
+name: PlatON Dev Testnet
+shortName: platondev
+networkId: 1
+network: platon-dev testnet
+chain: PlatON
+infoUrl: https://www.platon.network
+nativeCurrency:
+  name: LAT
+  symbol: lat
+  decimals: 18
+rpcUrls:
+  platon: https://devnetopenapi2.platon.network/rpc
+  public: https://devnetopenapi2.platon.network/rpc
+  default: https://devnetopenapi2.platon.network/rpc
+blockExplorers:
+  etherscan:
+    name: PlatON explorer
+    url: https://devnetscan.platon.network
+    standard: none
+  default:
+    name: PlatON explorer
+    url: https://devnetscan.platon.network
+    standard: none
+testnet: true

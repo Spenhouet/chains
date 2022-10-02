@@ -1,0 +1,17 @@
+id: 41
+name: Telos EVM Testnet
+shortName: TelosEVMTestnet
+networkId: 41
+network: telos-evm testnet
+chain: TLOS
+infoUrl: https://telos.net
+nativeCurrency:
+  name: Telos
+  symbol: TLOS
+  decimals: 18
+rpcUrls:
+  telos: https://testnet.telos.net/evm
+  public: https://testnet.telos.net/evm
+  default: https://testnet.telos.net/evm
+blockExplorers: {}
+testnet: true
