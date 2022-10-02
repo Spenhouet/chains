@@ -1,0 +1,34 @@
+{
+  "id": 197710212031,
+  "path": "/chains/197710212031.json",
+  "name": "Haradev Testnet",
+  "shortName": "ntt-haradev",
+  "networkId": 197710212031,
+  "network": "haradev-testnet",
+  "chain": "Ntity",
+  "infoUrl": "https://ntity.io",
+  "nativeCurrency": {
+    "name": "Ntity Haradev",
+    "symbol": "NTTH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "haradev": "https://blockchain.haradev.com",
+    "public": "https://blockchain.haradev.com",
+    "default": "https://blockchain.haradev.com"
+  },
+  "blockExplorers": {
+    "ntity-haradev blockscout": {
+      "name": "Ntity Haradev Blockscout",
+      "url": "https://blockscout.haradev.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Ntity Haradev Blockscout",
+      "url": "https://blockscout.haradev.com",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

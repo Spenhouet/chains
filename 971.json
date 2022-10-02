@@ -1,0 +1,23 @@
+{
+  "id": 971,
+  "path": "/chains/971.json",
+  "name": "CCN Beta",
+  "shortName": "ccnbeta",
+  "networkId": 971,
+  "network": "ccn-beta",
+  "chain": "CCN Beta",
+  "infoUrl": "https://computecoin.com/",
+  "nativeCurrency": {
+    "name": "ComputeCoin",
+    "symbol": "CCN",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "computecoin": "https://beta-rpc.mainnet.computecoin.com",
+    "public": "https://beta-rpc.mainnet.computecoin.com",
+    "default": "https://beta-rpc.mainnet.computecoin.com"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

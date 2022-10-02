@@ -1,0 +1,34 @@
+{
+  "id": 110001,
+  "path": "/chains/110001.json",
+  "name": "QuarkChain Devnet Shard 0",
+  "shortName": "qkc-d-s0",
+  "networkId": 110001,
+  "network": "quarkchain-devnet shard 0",
+  "chain": "QuarkChain",
+  "infoUrl": "https://www.quarkchain.io",
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "quarkchain": "https://devnet-s0-ethapi.quarkchain.io",
+    "public": "https://devnet-s0-ethapi.quarkchain.io",
+    "default": "https://devnet-s0-ethapi.quarkchain.io"
+  },
+  "blockExplorers": {
+    "quarkchain-devnet": {
+      "name": "Quarkchain-devnet",
+      "url": "https://devnet.quarkchain.io/0",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Quarkchain-devnet",
+      "url": "https://devnet.quarkchain.io/0",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

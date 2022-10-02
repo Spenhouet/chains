@@ -1,0 +1,25 @@
+{
+  "id": 8655,
+  "path": "/chains/8655.json",
+  "name": "Toki Testnet",
+  "shortName": "toki-testnet",
+  "networkId": 8655,
+  "network": "toki-testnet",
+  "chain": "TOKI",
+  "infoUrl": "https://www.buildwithtoki.com",
+  "nativeCurrency": {
+    "name": "Toki",
+    "symbol": "TOKI",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "buildwithtoki": "https://testnet.buildwithtoki.com/v0/rpc",
+    "public": "https://testnet.buildwithtoki.com/v0/rpc",
+    "default": "https://testnet.buildwithtoki.com/v0/rpc"
+  },
+  "blockExplorers": {
+    "default": {}
+  },
+  "testnet": true,
+  "icons": {}
+}

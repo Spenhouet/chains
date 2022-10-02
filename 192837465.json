@@ -1,0 +1,34 @@
+{
+  "id": 192837465,
+  "path": "/chains/192837465.json",
+  "name": "Gather Mainnet Network",
+  "shortName": "GTH",
+  "networkId": 192837465,
+  "network": "gather-mainnet network",
+  "chain": "GTH",
+  "infoUrl": "https://gather.network",
+  "nativeCurrency": {
+    "name": "Gather",
+    "symbol": "GTH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "gather": "https://mainnet.gather.network",
+    "public": "https://mainnet.gather.network",
+    "default": "https://mainnet.gather.network"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Blockscout",
+      "url": "https://explorer.gather.network",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://explorer.gather.network",
+      "standard": "none"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

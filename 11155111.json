@@ -1,0 +1,36 @@
+{
+  "id": 11155111,
+  "path": "/chains/11155111.json",
+  "name": "Sepolia",
+  "shortName": "sep",
+  "networkId": 11155111,
+  "network": "sepolia",
+  "chain": "ETH",
+  "infoUrl": "https://sepolia.otterscan.io",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "SEP",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "sepolia": "https://rpc.sepolia.org",
+    "sepoliarpc": "https://www.sepoliarpc.space",
+    "rockx": "https://rpc-sepolia.rockx.com",
+    "public": "https://rpc.sepolia.org",
+    "default": "https://rpc.sepolia.org"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Otterscan-sepolia",
+      "url": "https://sepolia.otterscan.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Otterscan-sepolia",
+      "url": "https://sepolia.otterscan.io",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

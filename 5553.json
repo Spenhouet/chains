@@ -1,0 +1,34 @@
+{
+  "id": 5553,
+  "path": "/chains/5553.json",
+  "name": "Nahmii Testnet",
+  "shortName": "NahmiiTestnet",
+  "networkId": 5553,
+  "network": "nahmii-testnet",
+  "chain": "Nahmii",
+  "infoUrl": "https://nahmii.io",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "nahmii": "https://l2.testnet.nahmii.io",
+    "public": "https://l2.testnet.nahmii.io",
+    "default": "https://l2.testnet.nahmii.io"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Blockscout",
+      "url": "https://explorer.testnet.nahmii.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://explorer.testnet.nahmii.io",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

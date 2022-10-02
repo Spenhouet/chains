@@ -1,0 +1,34 @@
+{
+  "id": 338,
+  "path": "/chains/338.json",
+  "name": "Cronos Testnet",
+  "shortName": "tcro",
+  "networkId": 338,
+  "network": "cronos-testnet",
+  "chain": "CRO",
+  "infoUrl": "https://cronos.crypto.org",
+  "nativeCurrency": {
+    "name": "Crypto.org Test Coin",
+    "symbol": "TCRO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "crypto": "https://cronos-testnet-3.crypto.org:8545",
+    "public": "https://cronos-testnet-3.crypto.org:8545",
+    "default": "https://cronos-testnet-3.crypto.org:8545"
+  },
+  "blockExplorers": {
+    "cronos-testnet explorer": {
+      "name": "Cronos Testnet Explorer",
+      "url": "https://cronos.crypto.org/explorer/testnet3",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Cronos Testnet Explorer",
+      "url": "https://cronos.crypto.org/explorer/testnet3",
+      "standard": "none"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

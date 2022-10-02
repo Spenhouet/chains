@@ -1,0 +1,23 @@
+{
+  "id": 49797,
+  "path": "/chains/49797.json",
+  "name": "Energi Testnet",
+  "shortName": "tnrg",
+  "networkId": 49797,
+  "network": "energi-testnet",
+  "chain": "NRG",
+  "infoUrl": "https://www.energi.world/",
+  "nativeCurrency": {
+    "name": "Energi",
+    "symbol": "NRG",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "energi": "https://nodeapi.test.energi.network",
+    "public": "https://nodeapi.test.energi.network",
+    "default": "https://nodeapi.test.energi.network"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

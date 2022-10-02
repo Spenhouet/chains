@@ -1,0 +1,34 @@
+{
+  "id": 336,
+  "path": "/chains/336.json",
+  "name": "Shiden",
+  "shortName": "sdn",
+  "networkId": 336,
+  "network": "shiden",
+  "chain": "SDN",
+  "infoUrl": "https://shiden.astar.network/",
+  "nativeCurrency": {
+    "name": "Shiden",
+    "symbol": "SDN",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "astar": "https://rpc.shiden.astar.network:8545",
+    "public": "https://rpc.shiden.astar.network:8545",
+    "default": "https://rpc.shiden.astar.network:8545"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Subscan",
+      "url": "https://shiden.subscan.io",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Subscan",
+      "url": "https://shiden.subscan.io",
+      "standard": "none"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2021121117,
+  "path": "/chains/2021121117.json",
+  "name": "DataHopper",
+  "shortName": "hop",
+  "networkId": 2021121117,
+  "network": "datahopper",
+  "chain": "HOP",
+  "infoUrl": "https://www.DataHopper.com",
+  "nativeCurrency": {
+    "name": "DataHoppers",
+    "symbol": "HOP",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "21": "https://23.92.21.121:8545",
+    "public": "https://23.92.21.121:8545",
+    "default": "https://23.92.21.121:8545"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

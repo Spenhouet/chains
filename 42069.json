@@ -1,0 +1,19 @@
+{
+  "id": 42069,
+  "path": "/chains/42069.json",
+  "name": "pegglecoin",
+  "shortName": "PC",
+  "networkId": 42069,
+  "network": "pegglecoin",
+  "chain": "42069",
+  "infoUrl": "https://teampeggle.com",
+  "nativeCurrency": {
+    "name": "pegglecoin",
+    "symbol": "peggle",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

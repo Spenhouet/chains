@@ -1,0 +1,34 @@
+{
+  "id": 920000,
+  "path": "/chains/920000.json",
+  "name": "Posichain Devnet Shard 0",
+  "shortName": "psc-d-s0",
+  "networkId": 920000,
+  "network": "posichain-devnet shard 0",
+  "chain": "PSC",
+  "infoUrl": "https://posichain.org",
+  "nativeCurrency": {
+    "name": "Posichain Native Token",
+    "symbol": "POSI",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "posichain": "https://api.s0.d.posichain.org",
+    "public": "https://api.s0.d.posichain.org",
+    "default": "https://api.s0.d.posichain.org"
+  },
+  "blockExplorers": {
+    "posichain-explorer devnet": {
+      "name": "Posichain Explorer Devnet",
+      "url": "https://explorer-devnet.posichain.org",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Posichain Explorer Devnet",
+      "url": "https://explorer-devnet.posichain.org",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

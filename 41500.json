@@ -1,0 +1,34 @@
+{
+  "id": 41500,
+  "path": "/chains/41500.json",
+  "name": "Opulent-X BETA",
+  "shortName": "ox-beta",
+  "networkId": 41500,
+  "network": "opulent-x-beta",
+  "chain": "Opulent-X",
+  "infoUrl": "https://beta.opulent-x.com",
+  "nativeCurrency": {
+    "name": "Oxyn Gas",
+    "symbol": "OXYN",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "opulent-x": "https://connect.opulent-x.com",
+    "public": "https://connect.opulent-x.com",
+    "default": "https://connect.opulent-x.com"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Opulent-X BETA Explorer",
+      "url": "https://explorer.opulent-x.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Opulent-X BETA Explorer",
+      "url": "https://explorer.opulent-x.com",
+      "standard": "none"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

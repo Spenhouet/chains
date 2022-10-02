@@ -1,0 +1,34 @@
+{
+  "id": 4181,
+  "path": "/chains/4181.json",
+  "name": "PHI Network V1",
+  "shortName": "PHIv1",
+  "networkId": 4181,
+  "network": "phi-network v1",
+  "chain": "PHI V1",
+  "infoUrl": "https://phi.network",
+  "nativeCurrency": {
+    "name": "PHI",
+    "symbol": "Φ",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "phi": "https://rpc2.phi.network",
+    "public": "https://rpc2.phi.network",
+    "default": "https://rpc2.phi.network"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "PHI Explorer",
+      "url": "https://explorer.phi.network",
+      "standard": "none"
+    },
+    "default": {
+      "name": "PHI Explorer",
+      "url": "https://explorer.phi.network",
+      "standard": "none"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

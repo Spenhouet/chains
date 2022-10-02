@@ -1,0 +1,23 @@
+{
+  "id": 1313161556,
+  "path": "/chains/1313161556.json",
+  "name": "Aurora Betanet",
+  "shortName": "aurora-betanet",
+  "networkId": 1313161556,
+  "network": "aurora-betanet",
+  "chain": "NEAR",
+  "infoUrl": "https://aurora.dev",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "aurora": "https://betanet.aurora.dev/",
+    "public": "https://betanet.aurora.dev/",
+    "default": "https://betanet.aurora.dev/"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

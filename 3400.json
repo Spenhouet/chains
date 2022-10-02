@@ -1,0 +1,34 @@
+{
+  "id": 3400,
+  "path": "/chains/3400.json",
+  "name": "Paribu Net Mainnet",
+  "shortName": "prb",
+  "networkId": 3400,
+  "network": "paribu-net mainnet",
+  "chain": "PRB",
+  "infoUrl": "https://net.paribu.com",
+  "nativeCurrency": {
+    "name": "PRB",
+    "symbol": "PRB",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "paribu": "https://rpc.paribu.network",
+    "public": "https://rpc.paribu.network",
+    "default": "https://rpc.paribu.network"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Paribu Net Explorer",
+      "url": "https://explorer.paribu.network",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Paribu Net Explorer",
+      "url": "https://explorer.paribu.network",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

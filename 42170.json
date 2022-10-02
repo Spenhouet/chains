@@ -1,0 +1,34 @@
+{
+  "id": 42170,
+  "path": "/chains/42170.json",
+  "name": "Arbitrum Nova",
+  "shortName": "arb-nova",
+  "networkId": 42170,
+  "network": "arbitrum-nova",
+  "chain": "ETH",
+  "infoUrl": "https://arbitrum.io",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "arbitrum": "https://nova.arbitrum.io/rpc",
+    "public": "https://nova.arbitrum.io/rpc",
+    "default": "https://nova.arbitrum.io/rpc"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Arbitrum Nova Chain Explorer",
+      "url": "https://nova-explorer.arbitrum.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Arbitrum Nova Chain Explorer",
+      "url": "https://nova-explorer.arbitrum.io",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

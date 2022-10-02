@@ -1,0 +1,19 @@
+{
+  "id": 1022,
+  "path": "/chains/1022.json",
+  "name": "Sakura",
+  "shortName": "sku",
+  "networkId": 1022,
+  "network": "sakura",
+  "chain": "Sakura",
+  "infoUrl": "https://clover.finance/sakura",
+  "nativeCurrency": {
+    "name": "Sakura",
+    "symbol": "SKU",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

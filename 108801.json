@@ -1,0 +1,34 @@
+{
+  "id": 108801,
+  "path": "/chains/108801.json",
+  "name": "BROChain Mainnet",
+  "shortName": "bro",
+  "networkId": 108801,
+  "network": "brochain-mainnet",
+  "chain": "BRO",
+  "infoUrl": "https://brochain.org",
+  "nativeCurrency": {
+    "name": "Brother",
+    "symbol": "BRO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "brochain": "https://rpc.brochain.org/mainnet",
+    "public": "https://rpc.brochain.org/mainnet",
+    "default": "https://rpc.brochain.org/mainnet"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "BROChain Explorer",
+      "url": "https://explorer.brochain.org",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "BROChain Explorer",
+      "url": "https://explorer.brochain.org",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

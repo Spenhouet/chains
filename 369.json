@@ -1,0 +1,23 @@
+{
+  "id": 369,
+  "path": "/chains/369.json",
+  "name": "PulseChain Mainnet",
+  "shortName": "pls",
+  "networkId": 369,
+  "network": "pulsechain-mainnet",
+  "chain": "PLS",
+  "infoUrl": "https://pulsechain.com/",
+  "nativeCurrency": {
+    "name": "Pulse",
+    "symbol": "PLS",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "pulsechain": "https://rpc.mainnet.pulsechain.com/",
+    "public": "https://rpc.mainnet.pulsechain.com/",
+    "default": "https://rpc.mainnet.pulsechain.com/"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

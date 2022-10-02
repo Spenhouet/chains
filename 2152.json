@@ -1,0 +1,34 @@
+{
+  "id": 2152,
+  "path": "/chains/2152.json",
+  "name": "Findora Mainnet",
+  "shortName": "fra",
+  "networkId": 2152,
+  "network": "findora-mainnet",
+  "chain": "Findora",
+  "infoUrl": "https://findora.org/",
+  "nativeCurrency": {
+    "name": "FRA",
+    "symbol": "FRA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "findora": "https://prod-mainnet.prod.findora.org:8545",
+    "public": "https://prod-mainnet.prod.findora.org:8545",
+    "default": "https://prod-mainnet.prod.findora.org:8545"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Findorascan",
+      "url": "https://evm.findorascan.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Findorascan",
+      "url": "https://evm.findorascan.io",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

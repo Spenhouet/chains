@@ -1,0 +1,23 @@
+{
+  "id": 977,
+  "path": "/chains/977.json",
+  "name": "Nepal Blockchain Network",
+  "shortName": "yeti",
+  "networkId": 977,
+  "network": "nepal-blockchain network",
+  "chain": "YETI",
+  "infoUrl": "https://nepalblockchain.network",
+  "nativeCurrency": {
+    "name": "Nepal Blockchain Network Ether",
+    "symbol": "YETI",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "nepalblockchain": "https://api.nepalblockchain.network",
+    "public": "https://api.nepalblockchain.network",
+    "default": "https://api.nepalblockchain.network"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

@@ -1,0 +1,34 @@
+{
+  "id": 79,
+  "path": "/chains/79.json",
+  "name": "Zenith Mainnet",
+  "shortName": "zenith",
+  "networkId": 79,
+  "network": "zenith-mainnet",
+  "chain": "Zenith",
+  "infoUrl": "https://www.zenithchain.co/",
+  "nativeCurrency": {
+    "name": "ZENITH",
+    "symbol": "ZENITH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "zenithchain": "https://dataserver-asia-7.zenithchain.co/",
+    "public": "https://dataserver-asia-7.zenithchain.co/",
+    "default": "https://dataserver-asia-7.zenithchain.co/"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Zenith scan",
+      "url": "https://scan.zenithchain.co",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Zenith scan",
+      "url": "https://scan.zenithchain.co",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

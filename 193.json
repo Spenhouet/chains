@@ -1,0 +1,34 @@
+{
+  "id": 193,
+  "path": "/chains/193.json",
+  "name": "Crypto Emergency",
+  "shortName": "cem",
+  "networkId": 193,
+  "network": "crypto-emergency",
+  "chain": "CEM",
+  "infoUrl": "https://cemblockchain.com/",
+  "nativeCurrency": {
+    "name": "Crypto Emergency",
+    "symbol": "CEM",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "cemchain": "https://cemchain.com",
+    "public": "https://cemchain.com",
+    "default": "https://cemchain.com"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Cemscan",
+      "url": "https://cemscan.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Cemscan",
+      "url": "https://cemscan.com",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

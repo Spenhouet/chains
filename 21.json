@@ -1,0 +1,23 @@
+{
+  "id": 21,
+  "path": "/chains/21.json",
+  "name": "ELA-ETH-Sidechain Testnet",
+  "shortName": "elaetht",
+  "networkId": 21,
+  "network": "ela-eth-sidechain-testnet",
+  "chain": "ETH",
+  "infoUrl": "https://elaeth.io/",
+  "nativeCurrency": {
+    "name": "Elastos",
+    "symbol": "tELA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "elaeth": "https://rpc.elaeth.io",
+    "public": "https://rpc.elaeth.io",
+    "default": "https://rpc.elaeth.io"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

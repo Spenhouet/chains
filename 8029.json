@@ -1,0 +1,23 @@
+{
+  "id": 8029,
+  "path": "/chains/8029.json",
+  "name": "MDGL Testnet",
+  "shortName": "mdgl",
+  "networkId": 8029,
+  "network": "mdgl-testnet",
+  "chain": "MDGL",
+  "infoUrl": "https://mdgl.io",
+  "nativeCurrency": {
+    "name": "MDGL Token",
+    "symbol": "MDGLT",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "mdgl": "https://testnet.mdgl.io",
+    "public": "https://testnet.mdgl.io",
+    "default": "https://testnet.mdgl.io"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

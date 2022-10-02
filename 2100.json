@@ -1,0 +1,34 @@
+{
+  "id": 2100,
+  "path": "/chains/2100.json",
+  "name": "Ecoball Mainnet",
+  "shortName": "eco",
+  "networkId": 2100,
+  "network": "ecoball-mainnet",
+  "chain": "ECO",
+  "infoUrl": "https://ecoball.org",
+  "nativeCurrency": {
+    "name": "Ecoball Coin",
+    "symbol": "ECO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ecoball": "https://api.ecoball.org/ecoball/",
+    "public": "https://api.ecoball.org/ecoball/",
+    "default": "https://api.ecoball.org/ecoball/"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Ecoball Explorer",
+      "url": "https://scan.ecoball.org",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Ecoball Explorer",
+      "url": "https://scan.ecoball.org",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

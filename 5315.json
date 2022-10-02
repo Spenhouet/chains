@@ -1,0 +1,23 @@
+{
+  "id": 5315,
+  "path": "/chains/5315.json",
+  "name": "Uzmi Network Mainnet",
+  "shortName": "UZMI",
+  "networkId": 5315,
+  "network": "uzmi-network mainnet",
+  "chain": "UZMI",
+  "infoUrl": "https://uzmigames.com.br/",
+  "nativeCurrency": {
+    "name": "UZMI",
+    "symbol": "UZMI",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "uzmigames": "https://network.uzmigames.com.br/",
+    "public": "https://network.uzmigames.com.br/",
+    "default": "https://network.uzmigames.com.br/"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

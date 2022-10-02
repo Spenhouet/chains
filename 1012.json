@@ -1,0 +1,23 @@
+{
+  "id": 1012,
+  "path": "/chains/1012.json",
+  "name": "Newton",
+  "shortName": "new",
+  "networkId": 1012,
+  "network": "newton",
+  "chain": "NEW",
+  "infoUrl": "https://www.newtonproject.org/",
+  "nativeCurrency": {
+    "name": "Newton",
+    "symbol": "NEW",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "newtonproject": "https://global.rpc.mainnet.newtonproject.org",
+    "public": "https://global.rpc.mainnet.newtonproject.org",
+    "default": "https://global.rpc.mainnet.newtonproject.org"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

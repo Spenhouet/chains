@@ -1,0 +1,23 @@
+{
+  "id": 3000,
+  "path": "/chains/3000.json",
+  "name": "CENNZnet Rata",
+  "shortName": "cennz-r",
+  "networkId": 3000,
+  "network": "cennznet-rata",
+  "chain": "CENNZnet",
+  "infoUrl": "https://cennz.net",
+  "nativeCurrency": {
+    "name": "CPAY",
+    "symbol": "CPAY",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "centrality": "https://rata.centrality.me/public",
+    "public": "https://rata.centrality.me/public",
+    "default": "https://rata.centrality.me/public"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

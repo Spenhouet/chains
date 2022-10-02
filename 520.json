@@ -1,0 +1,34 @@
+{
+  "id": 520,
+  "path": "/chains/520.json",
+  "name": "XT Smart Chain Mainnet",
+  "shortName": "xt",
+  "networkId": 1024,
+  "network": "xt-smart chain mainnet",
+  "chain": "XSC",
+  "infoUrl": "https://xsc.pub/",
+  "nativeCurrency": {
+    "name": "XT Smart Chain Native Token",
+    "symbol": "XT",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "xsc": "https://datarpc3.xsc.pub",
+    "public": "https://datarpc3.xsc.pub",
+    "default": "https://datarpc3.xsc.pub"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Xscscan",
+      "url": "https://xscscan.pub",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Xscscan",
+      "url": "https://xscscan.pub",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

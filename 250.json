@@ -1,0 +1,34 @@
+{
+  "id": 250,
+  "path": "/chains/250.json",
+  "name": "Fantom Opera",
+  "shortName": "ftm",
+  "networkId": 250,
+  "network": "fantom-opera",
+  "chain": "FTM",
+  "infoUrl": "https://fantom.foundation",
+  "nativeCurrency": {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ftm": "https://rpc.ftm.tools",
+    "public": "https://rpc.ftm.tools",
+    "default": "https://rpc.ftm.tools"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Ftmscan",
+      "url": "https://ftmscan.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Ftmscan",
+      "url": "https://ftmscan.com",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

@@ -1,0 +1,34 @@
+{
+  "id": 16658437,
+  "path": "/chains/16658437.json",
+  "name": "Plian Testnet Main",
+  "shortName": "plian-testnet",
+  "networkId": 16658437,
+  "network": "plian-testnet main",
+  "chain": "Plian",
+  "infoUrl": "https://plian.org",
+  "nativeCurrency": {
+    "name": "Plian Testnet Token",
+    "symbol": "TPI",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "plian": "https://testnet.plian.io/testnet",
+    "public": "https://testnet.plian.io/testnet",
+    "default": "https://testnet.plian.io/testnet"
+  },
+  "blockExplorers": {
+    "piscan": {
+      "name": "Piscan",
+      "url": "https://testnet.plian.org/testnet",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Piscan",
+      "url": "https://testnet.plian.org/testnet",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

@@ -1,0 +1,34 @@
+{
+  "id": 202624,
+  "path": "/chains/202624.json",
+  "name": "Jellie",
+  "shortName": "twl-jellie",
+  "networkId": 202624,
+  "network": "jellie",
+  "chain": "ETH",
+  "infoUrl": "https://twala.io/",
+  "nativeCurrency": {
+    "name": "Twala Coin",
+    "symbol": "TWL",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "twala": "https://jellie-rpc.twala.io/",
+    "public": "https://jellie-rpc.twala.io/",
+    "default": "https://jellie-rpc.twala.io/"
+  },
+  "blockExplorers": {
+    "jellie-blockchain explorer": {
+      "name": "Jellie Blockchain Explorer",
+      "url": "https://jellie.twala.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Jellie Blockchain Explorer",
+      "url": "https://jellie.twala.io",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

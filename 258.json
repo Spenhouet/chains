@@ -1,0 +1,19 @@
+{
+  "id": 258,
+  "path": "/chains/258.json",
+  "name": "Setheum",
+  "shortName": "setm",
+  "networkId": 258,
+  "network": "setheum",
+  "chain": "Setheum",
+  "infoUrl": "https://setheum.xyz",
+  "nativeCurrency": {
+    "name": "Setheum",
+    "symbol": "SETM",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2077,
+  "path": "/chains/2077.json",
+  "name": "Quokkacoin Mainnet",
+  "shortName": "QKA",
+  "networkId": 2077,
+  "network": "quokkacoin-mainnet",
+  "chain": "Qkacoin",
+  "infoUrl": "https://qkacoin.org",
+  "nativeCurrency": {
+    "name": "Qkacoin",
+    "symbol": "QKA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "qkacoin": "https://rpc.qkacoin.org",
+    "public": "https://rpc.qkacoin.org",
+    "default": "https://rpc.qkacoin.org"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Blockscout",
+      "url": "https://explorer.qkacoin.org",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://explorer.qkacoin.org",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

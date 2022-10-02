@@ -1,0 +1,23 @@
+{
+  "id": 3125659152,
+  "path": "/chains/3125659152.json",
+  "name": "Pirl",
+  "shortName": "pirl",
+  "networkId": 3125659152,
+  "network": "pirl",
+  "chain": "PIRL",
+  "infoUrl": "https://pirl.io",
+  "nativeCurrency": {
+    "name": "Pirl Ether",
+    "symbol": "PIRL",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "pirl": "https://wallrpc.pirl.io",
+    "public": "https://wallrpc.pirl.io",
+    "default": "https://wallrpc.pirl.io"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

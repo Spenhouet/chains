@@ -1,0 +1,23 @@
+{
+  "id": 78,
+  "path": "/chains/78.json",
+  "name": "PrimusChain mainnet",
+  "shortName": "primuschain",
+  "networkId": 78,
+  "network": "primuschain-mainnet",
+  "chain": "PC",
+  "infoUrl": "https://primusmoney.com",
+  "nativeCurrency": {
+    "name": "Primus Ether",
+    "symbol": "PETH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "primusmoney": "https://ethnode.primusmoney.com/mainnet",
+    "public": "https://ethnode.primusmoney.com/mainnet",
+    "default": "https://ethnode.primusmoney.com/mainnet"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

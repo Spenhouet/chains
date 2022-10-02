@@ -1,0 +1,34 @@
+{
+  "id": 1197,
+  "path": "/chains/1197.json",
+  "name": "Iora Chain",
+  "shortName": "iora",
+  "networkId": 1197,
+  "network": "iora-chain",
+  "chain": "IORA",
+  "infoUrl": "https://iorachain.com",
+  "nativeCurrency": {
+    "name": "Iora",
+    "symbol": "IORA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "iorachain": "https://dataseed.iorachain.com",
+    "public": "https://dataseed.iorachain.com",
+    "default": "https://dataseed.iorachain.com"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Ioraexplorer",
+      "url": "https://explorer.iorachain.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Ioraexplorer",
+      "url": "https://explorer.iorachain.com",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

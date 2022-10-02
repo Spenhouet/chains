@@ -1,0 +1,34 @@
+{
+  "id": 131419,
+  "path": "/chains/131419.json",
+  "name": "ETND Chain Mainnets",
+  "shortName": "ETND",
+  "networkId": 131419,
+  "network": "etnd-chain mainnets",
+  "chain": "ETND",
+  "infoUrl": "https://www.etnd.pro",
+  "nativeCurrency": {
+    "name": "ETND",
+    "symbol": "ETND",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "etnd": "https://rpc.node1.etnd.pro/",
+    "public": "https://rpc.node1.etnd.pro/",
+    "default": "https://rpc.node1.etnd.pro/"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Etndscan",
+      "url": "https://scan.etnd.pro",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Etndscan",
+      "url": "https://scan.etnd.pro",
+      "standard": "none"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

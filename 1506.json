@@ -1,0 +1,34 @@
+{
+  "id": 1506,
+  "path": "/chains/1506.json",
+  "name": "Sherpax Mainnet",
+  "shortName": "Sherpax",
+  "networkId": 1506,
+  "network": "sherpax-mainnet",
+  "chain": "Sherpax Mainnet",
+  "infoUrl": "https://sherpax.io/",
+  "nativeCurrency": {
+    "name": "KSX",
+    "symbol": "KSX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "sherpax": "https://mainnet.sherpax.io/rpc",
+    "public": "https://mainnet.sherpax.io/rpc",
+    "default": "https://mainnet.sherpax.io/rpc"
+  },
+  "blockExplorers": {
+    "sherpax-mainnet explorer": {
+      "name": "Sherpax Mainnet Explorer",
+      "url": "https://evm.sherpax.io",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Sherpax Mainnet Explorer",
+      "url": "https://evm.sherpax.io",
+      "standard": "none"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

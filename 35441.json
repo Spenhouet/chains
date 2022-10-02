@@ -1,0 +1,34 @@
+{
+  "id": 35441,
+  "path": "/chains/35441.json",
+  "name": "Q Mainnet",
+  "shortName": "q",
+  "networkId": 35441,
+  "network": "q-mainnet",
+  "chain": "Q",
+  "infoUrl": "https://q.org",
+  "nativeCurrency": {
+    "name": "Q token",
+    "symbol": "Q",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "q": "https://rpc.q.org",
+    "public": "https://rpc.q.org",
+    "default": "https://rpc.q.org"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Q explorer",
+      "url": "https://explorer.q.org",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Q explorer",
+      "url": "https://explorer.q.org",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

@@ -1,0 +1,34 @@
+{
+  "id": 311752642,
+  "path": "/chains/311752642.json",
+  "name": "OneLedger Mainnet",
+  "shortName": "oneledger",
+  "networkId": 311752642,
+  "network": "oneledger-mainnet",
+  "chain": "OLT",
+  "infoUrl": "https://oneledger.io",
+  "nativeCurrency": {
+    "name": "OLT",
+    "symbol": "OLT",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "oneledger": "https://mainnet-rpc.oneledger.network",
+    "public": "https://mainnet-rpc.oneledger.network",
+    "default": "https://mainnet-rpc.oneledger.network"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "OneLedger Block Explorer",
+      "url": "https://mainnet-explorer.oneledger.network",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "OneLedger Block Explorer",
+      "url": "https://mainnet-explorer.oneledger.network",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

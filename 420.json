@@ -1,0 +1,23 @@
+{
+  "id": 420,
+  "path": "/chains/420.json",
+  "name": "Optimism Goerli Testnet",
+  "shortName": "ogor",
+  "networkId": 420,
+  "network": "optimism-goerli testnet",
+  "chain": "ETH",
+  "infoUrl": "https://optimism.io",
+  "nativeCurrency": {
+    "name": "Görli Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "optimism": "https://goerli.optimism.io/",
+    "public": "https://goerli.optimism.io/",
+    "default": "https://goerli.optimism.io/"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

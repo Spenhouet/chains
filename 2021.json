@@ -1,0 +1,23 @@
+{
+  "id": 2021,
+  "path": "/chains/2021.json",
+  "name": "Edgeware Mainnet",
+  "shortName": "edg",
+  "networkId": 2021,
+  "network": "edgeware-mainnet",
+  "chain": "EDG",
+  "infoUrl": "http://edgewa.re",
+  "nativeCurrency": {
+    "name": "Edge",
+    "symbol": "EDG",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "edgewa": "https://mainnet1.edgewa.re",
+    "public": "https://mainnet1.edgewa.re",
+    "default": "https://mainnet1.edgewa.re"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

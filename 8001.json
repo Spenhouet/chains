@@ -1,0 +1,34 @@
+{
+  "id": 8001,
+  "path": "/chains/8001.json",
+  "name": "Teleport Testnet",
+  "shortName": "teleport-testnet",
+  "networkId": 8001,
+  "network": "teleport-testnet",
+  "chain": "Teleport",
+  "infoUrl": "https://teleport.network",
+  "nativeCurrency": {
+    "name": "Tele",
+    "symbol": "TELE",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "teleport": "https://evm-rpc.testnet.teleport.network",
+    "public": "https://evm-rpc.testnet.teleport.network",
+    "default": "https://evm-rpc.testnet.teleport.network"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Teleport Cosmos Explorer (Big Dipper)",
+      "url": "https://explorer.testnet.teleport.network",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Teleport Cosmos Explorer (Big Dipper)",
+      "url": "https://explorer.testnet.teleport.network",
+      "standard": "none"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

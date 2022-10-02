@@ -1,0 +1,34 @@
+{
+  "id": 4328,
+  "path": "/chains/4328.json",
+  "name": "Boba Network Bobafuji Testnet",
+  "shortName": "BobafujiTestnet",
+  "networkId": 4328,
+  "network": "boba-network bobafuji testnet",
+  "chain": "Bobafuji Testnet",
+  "infoUrl": "https://boba.network",
+  "nativeCurrency": {
+    "name": "Boba Token",
+    "symbol": "BOBA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "boba": "https://replica.testnet.avax.boba.network",
+    "public": "https://replica.testnet.avax.boba.network",
+    "default": "https://replica.testnet.avax.boba.network"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Bobafuji Testnet block explorer",
+      "url": "https://blockexplorer.testnet.avax.boba.network",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Bobafuji Testnet block explorer",
+      "url": "https://blockexplorer.testnet.avax.boba.network",
+      "standard": "none"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

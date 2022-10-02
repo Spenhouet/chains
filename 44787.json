@@ -1,0 +1,23 @@
+{
+  "id": 44787,
+  "path": "/chains/44787.json",
+  "name": "Celo Alfajores Testnet",
+  "shortName": "ALFA",
+  "networkId": 44787,
+  "network": "celo-alfajores testnet",
+  "chain": "CELO",
+  "infoUrl": "https://docs.celo.org/",
+  "nativeCurrency": {
+    "name": "CELO",
+    "symbol": "CELO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "celo-testnet": "https://alfajores-forno.celo-testnet.org",
+    "public": "https://alfajores-forno.celo-testnet.org",
+    "default": "https://alfajores-forno.celo-testnet.org"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

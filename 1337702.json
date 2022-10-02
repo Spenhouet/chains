@@ -1,0 +1,34 @@
+{
+  "id": 1337702,
+  "path": "/chains/1337702.json",
+  "name": "Kintsugi",
+  "shortName": "kintsugi",
+  "networkId": 1337702,
+  "network": "kintsugi",
+  "chain": "ETH",
+  "infoUrl": "https://kintsugi.themerge.dev/",
+  "nativeCurrency": {
+    "name": "kintsugi Ethere",
+    "symbol": "kiETH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "themerge": "https://rpc.kintsugi.themerge.dev",
+    "public": "https://rpc.kintsugi.themerge.dev",
+    "default": "https://rpc.kintsugi.themerge.dev"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Kintsugi explorer",
+      "url": "https://explorer.kintsugi.themerge.dev",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Kintsugi explorer",
+      "url": "https://explorer.kintsugi.themerge.dev",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

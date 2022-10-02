@@ -1,0 +1,30 @@
+{
+  "id": 10823,
+  "path": "/chains/10823.json",
+  "name": "CryptoCoinPay",
+  "shortName": "CCP",
+  "networkId": 10823,
+  "network": "cryptocoinpay",
+  "chain": "CCP",
+  "infoUrl": "https://www.cryptocoinpay.co",
+  "nativeCurrency": {
+    "name": "CryptoCoinPay",
+    "symbol": "CCP",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {
+    "ccp-explorer": {
+      "name": "CCP Explorer",
+      "url": "https://cryptocoinpay.info",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "CCP Explorer",
+      "url": "https://cryptocoinpay.info",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

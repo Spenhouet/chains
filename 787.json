@@ -1,0 +1,19 @@
+{
+  "id": 787,
+  "path": "/chains/787.json",
+  "name": "Acala Network",
+  "shortName": "aca",
+  "networkId": 787,
+  "network": "acala-network",
+  "chain": "ACA",
+  "infoUrl": "https://acala.network",
+  "nativeCurrency": {
+    "name": "Acala Token",
+    "symbol": "ACA",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

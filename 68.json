@@ -1,0 +1,23 @@
+{
+  "id": 68,
+  "path": "/chains/68.json",
+  "name": "SoterOne Mainnet",
+  "shortName": "SO1",
+  "networkId": 68,
+  "network": "soterone-mainnet",
+  "chain": "SOTER",
+  "infoUrl": "https://www.soterone.com",
+  "nativeCurrency": {
+    "name": "SoterOne Mainnet Ether",
+    "symbol": "SOTER",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "soter": "https://rpc.soter.one",
+    "public": "https://rpc.soter.one",
+    "default": "https://rpc.soter.one"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

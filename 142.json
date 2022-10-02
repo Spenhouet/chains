@@ -1,0 +1,23 @@
+{
+  "id": 142,
+  "path": "/chains/142.json",
+  "name": "DAX CHAIN",
+  "shortName": "dax",
+  "networkId": 142,
+  "network": "dax-chain",
+  "chain": "DAX",
+  "infoUrl": "https://prodax.io/",
+  "nativeCurrency": {
+    "name": "Prodax",
+    "symbol": "DAX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "prodax": "https://rpc.prodax.io",
+    "public": "https://rpc.prodax.io",
+    "default": "https://rpc.prodax.io"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

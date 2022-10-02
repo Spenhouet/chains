@@ -1,0 +1,23 @@
+{
+  "id": 71393,
+  "path": "/chains/71393.json",
+  "name": "Polyjuice Testnet",
+  "shortName": "ckb",
+  "networkId": 1,
+  "network": "polyjuice-testnet",
+  "chain": "CKB",
+  "infoUrl": "https://github.com/nervosnetwork/godwoken",
+  "nativeCurrency": {
+    "name": "CKB",
+    "symbol": "CKB",
+    "decimals": 8
+  },
+  "rpcUrls": {
+    "ckbapp": "https://godwoken-testnet-web3-rpc.ckbapp.dev",
+    "public": "https://godwoken-testnet-web3-rpc.ckbapp.dev",
+    "default": "https://godwoken-testnet-web3-rpc.ckbapp.dev"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

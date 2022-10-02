@@ -1,0 +1,23 @@
+{
+  "id": 941,
+  "path": "/chains/941.json",
+  "name": "PulseChain Testnet v2b",
+  "shortName": "t2bpls",
+  "networkId": 941,
+  "network": "pulsechain-testnet v2b",
+  "chain": "t2bPLS",
+  "infoUrl": "https://pulsechain.com/",
+  "nativeCurrency": {
+    "name": "Test Pulse",
+    "symbol": "tPLS",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "pulsechain": "https://rpc.v2b.testnet.pulsechain.com/",
+    "public": "https://rpc.v2b.testnet.pulsechain.com/",
+    "default": "https://rpc.v2b.testnet.pulsechain.com/"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

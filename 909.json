@@ -1,0 +1,21 @@
+{
+  "id": 909,
+  "path": "/chains/909.json",
+  "name": "Portal Fantasy Chain",
+  "shortName": "PF",
+  "networkId": 909,
+  "network": "portal-fantasy chain",
+  "chain": "PF",
+  "infoUrl": "https://portalfantasy.io",
+  "nativeCurrency": {
+    "name": "Portal Fantasy Token",
+    "symbol": "PFT",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {
+    "default": {}
+  },
+  "testnet": false,
+  "icons": {}
+}

@@ -1,0 +1,34 @@
+{
+  "id": 125,
+  "path": "/chains/125.json",
+  "name": "OYchain Testnet",
+  "shortName": "OYchainTestnet",
+  "networkId": 125,
+  "network": "oychain-testnet",
+  "chain": "OYchain",
+  "infoUrl": "https://www.oychain.io",
+  "nativeCurrency": {
+    "name": "OYchain Token",
+    "symbol": "OY",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "oychain": "https://rpc.testnet.oychain.io",
+    "public": "https://rpc.testnet.oychain.io",
+    "default": "https://rpc.testnet.oychain.io"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "OYchain Testnet Explorer",
+      "url": "https://explorer.testnet.oychain.io",
+      "standard": "none"
+    },
+    "default": {
+      "name": "OYchain Testnet Explorer",
+      "url": "https://explorer.testnet.oychain.io",
+      "standard": "none"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

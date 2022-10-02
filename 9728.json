@@ -1,0 +1,34 @@
+{
+  "id": 9728,
+  "path": "/chains/9728.json",
+  "name": "Boba Network BNB Testnet",
+  "shortName": "BobaBNBTestnet",
+  "networkId": 9728,
+  "network": "boba-network bnb testnet",
+  "chain": "Boba BNB Testnet",
+  "infoUrl": "https://boba.network",
+  "nativeCurrency": {
+    "name": "Boba Token",
+    "symbol": "BOBA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "boba": "https://replica.testnet.bnb.boba.network",
+    "public": "https://replica.testnet.bnb.boba.network",
+    "default": "https://replica.testnet.bnb.boba.network"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Boba BNB Testnet block explorer",
+      "url": "https://blockexplorer.testnet.bnb.boba.network",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Boba BNB Testnet block explorer",
+      "url": "https://blockexplorer.testnet.bnb.boba.network",
+      "standard": "none"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

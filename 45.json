@@ -1,0 +1,30 @@
+{
+  "id": 45,
+  "path": "/chains/45.json",
+  "name": "Darwinia Pangoro Testnet",
+  "shortName": "pangoro",
+  "networkId": 45,
+  "network": "darwinia-pangoro testnet",
+  "chain": "pangoro",
+  "infoUrl": "https://darwinia.network/",
+  "nativeCurrency": {
+    "name": "Pangoro Network Native Token”",
+    "symbol": "ORING",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Subscan",
+      "url": "https://pangoro.subscan.io",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Subscan",
+      "url": "https://pangoro.subscan.io",
+      "standard": "none"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

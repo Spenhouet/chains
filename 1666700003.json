@@ -1,0 +1,23 @@
+{
+  "id": 1666700003,
+  "path": "/chains/1666700003.json",
+  "name": "Harmony Testnet Shard 3",
+  "shortName": "hmy-b-s3",
+  "networkId": 1666700003,
+  "network": "harmony-testnet shard 3",
+  "chain": "Harmony",
+  "infoUrl": "https://www.harmony.one/",
+  "nativeCurrency": {
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "hmny": "https://api.s3.b.hmny.io",
+    "public": "https://api.s3.b.hmny.io",
+    "default": "https://api.s3.b.hmny.io"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

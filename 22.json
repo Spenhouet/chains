@@ -1,0 +1,19 @@
+{
+  "id": 22,
+  "path": "/chains/22.json",
+  "name": "ELA-DID-Sidechain Mainnet",
+  "shortName": "eladid",
+  "networkId": 22,
+  "network": "ela-did-sidechain-mainnet",
+  "chain": "ETH",
+  "infoUrl": "https://www.elastos.org/",
+  "nativeCurrency": {
+    "name": "Elastos",
+    "symbol": "ELA",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

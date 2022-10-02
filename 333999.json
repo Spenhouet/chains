@@ -1,0 +1,23 @@
+{
+  "id": 333999,
+  "path": "/chains/333999.json",
+  "name": "Polis Mainnet",
+  "shortName": "olympus",
+  "networkId": 333999,
+  "network": "polis-mainnet",
+  "chain": "Olympus",
+  "infoUrl": "https://polis.tech",
+  "nativeCurrency": {
+    "name": "Polis",
+    "symbol": "POLIS",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "polis": "https://rpc.polis.tech",
+    "public": "https://rpc.polis.tech",
+    "default": "https://rpc.polis.tech"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

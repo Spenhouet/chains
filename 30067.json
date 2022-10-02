@@ -1,0 +1,34 @@
+{
+  "id": 30067,
+  "path": "/chains/30067.json",
+  "name": "Piece testnet",
+  "shortName": "Piece",
+  "networkId": 30067,
+  "network": "piece-testnet",
+  "chain": "PieceNetwork",
+  "infoUrl": "https://piecenetwork.com",
+  "nativeCurrency": {
+    "name": "ECE",
+    "symbol": "ECE",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "piecenetwork": "https://testnet-rpc0.piecenetwork.com",
+    "public": "https://testnet-rpc0.piecenetwork.com",
+    "default": "https://testnet-rpc0.piecenetwork.com"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Piece Scan",
+      "url": "https://testnet-scan.piecenetwork.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Piece Scan",
+      "url": "https://testnet-scan.piecenetwork.com",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

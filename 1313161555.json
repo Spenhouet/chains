@@ -1,0 +1,34 @@
+{
+  "id": 1313161555,
+  "path": "/chains/1313161555.json",
+  "name": "Aurora Testnet",
+  "shortName": "aurora-testnet",
+  "networkId": 1313161555,
+  "network": "aurora-testnet",
+  "chain": "NEAR",
+  "infoUrl": "https://aurora.dev",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "aurora": "https://testnet.aurora.dev/",
+    "public": "https://testnet.aurora.dev/",
+    "default": "https://testnet.aurora.dev/"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Aurorascan.dev",
+      "url": "https://testnet.aurorascan.dev",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Aurorascan.dev",
+      "url": "https://testnet.aurorascan.dev",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

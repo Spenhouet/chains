@@ -1,0 +1,19 @@
+{
+  "id": 23,
+  "path": "/chains/23.json",
+  "name": "ELA-DID-Sidechain Testnet",
+  "shortName": "eladidt",
+  "networkId": 23,
+  "network": "ela-did-sidechain-testnet",
+  "chain": "ETH",
+  "infoUrl": "https://elaeth.io/",
+  "nativeCurrency": {
+    "name": "Elastos",
+    "symbol": "tELA",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

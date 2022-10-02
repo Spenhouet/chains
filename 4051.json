@@ -1,0 +1,34 @@
+{
+  "id": 4051,
+  "path": "/chains/4051.json",
+  "name": "Boba Network Bobaopera Testnet",
+  "shortName": "BobaoperaTestnet",
+  "networkId": 4051,
+  "network": "boba-network bobaopera testnet",
+  "chain": "Bobaopera Testnet",
+  "infoUrl": "https://boba.network",
+  "nativeCurrency": {
+    "name": "Boba Token",
+    "symbol": "BOBA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "boba": "https://replica.testnet.bobaopera.boba.network",
+    "public": "https://replica.testnet.bobaopera.boba.network",
+    "default": "https://replica.testnet.bobaopera.boba.network"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Bobaopera Testnet block explorer",
+      "url": "https://blockexplorer.testnet.bobaopera.boba.network",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Bobaopera Testnet block explorer",
+      "url": "https://blockexplorer.testnet.bobaopera.boba.network",
+      "standard": "none"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": 600,
+  "path": "/chains/600.json",
+  "name": "Meshnyan testnet",
+  "shortName": "mesh-chain-testnet",
+  "networkId": 600,
+  "network": "meshnyan-testnet",
+  "chain": "MeshTestChain",
+  "infoUrl": "",
+  "nativeCurrency": {
+    "name": "Meshnyan Testnet Native Token",
+    "symbol": "MESHT",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

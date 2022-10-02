@@ -1,0 +1,23 @@
+{
+  "id": 111,
+  "path": "/chains/111.json",
+  "name": "EtherLite Chain",
+  "shortName": "ETL",
+  "networkId": 111,
+  "network": "etherlite-chain",
+  "chain": "ETL",
+  "infoUrl": "https://etherlite.org",
+  "nativeCurrency": {
+    "name": "EtherLite",
+    "symbol": "ETL",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "etherlite": "https://rpc.etherlite.org",
+    "public": "https://rpc.etherlite.org",
+    "default": "https://rpc.etherlite.org"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

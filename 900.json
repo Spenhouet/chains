@@ -1,0 +1,34 @@
+{
+  "id": 900,
+  "path": "/chains/900.json",
+  "name": "Garizon Testnet Stage0",
+  "shortName": "gar-test-s0",
+  "networkId": 900,
+  "network": "garizon-testnet stage0",
+  "chain": "GAR",
+  "infoUrl": "https://garizon.com",
+  "nativeCurrency": {
+    "name": "Garizon",
+    "symbol": "GAR",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "garizon": "https://s0-testnet.garizon.net/rpc",
+    "public": "https://s0-testnet.garizon.net/rpc",
+    "default": "https://s0-testnet.garizon.net/rpc"
+  },
+  "blockExplorers": {
+    "explorer": {
+      "name": "Explorer",
+      "url": "https://explorer-testnet.garizon.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Explorer",
+      "url": "https://explorer-testnet.garizon.com",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

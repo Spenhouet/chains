@@ -1,0 +1,23 @@
+{
+  "id": 11,
+  "path": "/chains/11.json",
+  "name": "Metadium Mainnet",
+  "shortName": "meta",
+  "networkId": 11,
+  "network": "metadium-mainnet",
+  "chain": "META",
+  "infoUrl": "https://metadium.com",
+  "nativeCurrency": {
+    "name": "Metadium Mainnet Ether",
+    "symbol": "META",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "metadium": "https://api.metadium.com/prod",
+    "public": "https://api.metadium.com/prod",
+    "default": "https://api.metadium.com/prod"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

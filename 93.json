@@ -1,0 +1,34 @@
+{
+  "id": 93,
+  "path": "/chains/93.json",
+  "name": "Garizon Stage3",
+  "shortName": "gar-s3",
+  "networkId": 93,
+  "network": "garizon-stage3",
+  "chain": "GAR",
+  "infoUrl": "https://garizon.com",
+  "nativeCurrency": {
+    "name": "Garizon",
+    "symbol": "GAR",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "garizon": "https://s3.garizon.net/rpc",
+    "public": "https://s3.garizon.net/rpc",
+    "default": "https://s3.garizon.net/rpc"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Explorer",
+      "url": "https://explorer.garizon.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Explorer",
+      "url": "https://explorer.garizon.com",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

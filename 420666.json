@@ -1,0 +1,34 @@
+{
+  "id": 420666,
+  "path": "/chains/420666.json",
+  "name": "Kekchain",
+  "shortName": "KEK",
+  "networkId": 1,
+  "network": "kekchain",
+  "chain": "kek",
+  "infoUrl": "https://kekchain.com",
+  "nativeCurrency": {
+    "name": "KEK",
+    "symbol": "KEK",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "kekchain": "https://testnet.kekchain.com",
+    "public": "https://testnet.kekchain.com",
+    "default": "https://testnet.kekchain.com"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "Blockscout",
+      "url": "https://testnet-explorer.kekchain.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://testnet-explorer.kekchain.com",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

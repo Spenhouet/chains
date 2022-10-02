@@ -1,0 +1,34 @@
+{
+  "id": 3001,
+  "path": "/chains/3001.json",
+  "name": "CENNZnet Nikau",
+  "shortName": "cennz-n",
+  "networkId": 3001,
+  "network": "cennznet-nikau",
+  "chain": "CENNZnet",
+  "infoUrl": "https://cennz.net",
+  "nativeCurrency": {
+    "name": "CPAY",
+    "symbol": "CPAY",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "centrality": "https://nikau.centrality.me/public",
+    "public": "https://nikau.centrality.me/public",
+    "default": "https://nikau.centrality.me/public"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "UNcover",
+      "url": "https://www.uncoverexplorer.com/?network=Nikau",
+      "standard": "none"
+    },
+    "default": {
+      "name": "UNcover",
+      "url": "https://www.uncoverexplorer.com/?network=Nikau",
+      "standard": "none"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

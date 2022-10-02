@@ -1,0 +1,23 @@
+{
+  "id": 666666,
+  "path": "/chains/666666.json",
+  "name": "Vision - Vpioneer Test Chain",
+  "shortName": "vpioneer",
+  "networkId": 666666,
+  "network": "vision-- vpioneer test chain",
+  "chain": "Vision-Vpioneer",
+  "infoUrl": "https://visionscan.org",
+  "nativeCurrency": {
+    "name": "VS",
+    "symbol": "VS",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "v": "https://vpioneer.infragrid.v.network/ethereum/compatible",
+    "public": "https://vpioneer.infragrid.v.network/ethereum/compatible",
+    "default": "https://vpioneer.infragrid.v.network/ethereum/compatible"
+  },
+  "blockExplorers": {},
+  "testnet": false,
+  "icons": {}
+}

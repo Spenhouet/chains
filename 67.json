@@ -1,0 +1,19 @@
+{
+  "id": 67,
+  "path": "/chains/67.json",
+  "name": "DBChain Testnet",
+  "shortName": "dbm",
+  "networkId": 67,
+  "network": "dbchain-testnet",
+  "chain": "DBM",
+  "infoUrl": "http://test.dbmbp.com",
+  "nativeCurrency": {
+    "name": "DBChain Testnet",
+    "symbol": "DBM",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

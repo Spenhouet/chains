@@ -1,0 +1,34 @@
+{
+  "id": 51,
+  "path": "/chains/51.json",
+  "name": "XDC Apothem Network",
+  "shortName": "txdc",
+  "networkId": 51,
+  "network": "xdc-apothem network",
+  "chain": "XDC",
+  "infoUrl": "https://xinfin.org",
+  "nativeCurrency": {
+    "name": "XinFin",
+    "symbol": "TXDC",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "apothem": "https://erpc.apothem.network",
+    "public": "https://erpc.apothem.network",
+    "default": "https://erpc.apothem.network"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Blocksscan",
+      "url": "https://apothem.blocksscan.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Blocksscan",
+      "url": "https://apothem.blocksscan.io",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

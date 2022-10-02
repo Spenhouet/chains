@@ -1,0 +1,34 @@
+{
+  "id": 1507,
+  "path": "/chains/1507.json",
+  "name": "Sherpax Testnet",
+  "shortName": "SherpaxTestnet",
+  "networkId": 1507,
+  "network": "sherpax-testnet",
+  "chain": "Sherpax Testnet",
+  "infoUrl": "https://sherpax.io/",
+  "nativeCurrency": {
+    "name": "KSX",
+    "symbol": "KSX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "chainx": "https://sherpax-testnet.chainx.org/rpc",
+    "public": "https://sherpax-testnet.chainx.org/rpc",
+    "default": "https://sherpax-testnet.chainx.org/rpc"
+  },
+  "blockExplorers": {
+    "sherpax-testnet explorer": {
+      "name": "Sherpax Testnet Explorer",
+      "url": "https://evm-pre.sherpax.io",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Sherpax Testnet Explorer",
+      "url": "https://evm-pre.sherpax.io",
+      "standard": "none"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

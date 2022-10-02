@@ -1,0 +1,23 @@
+{
+  "id": 110,
+  "path": "/chains/110.json",
+  "name": "Proton Testnet",
+  "shortName": "xpr",
+  "networkId": 110,
+  "network": "proton-testnet",
+  "chain": "XPR",
+  "infoUrl": "https://protonchain.com",
+  "nativeCurrency": {
+    "name": "Proton",
+    "symbol": "XPR",
+    "decimals": 4
+  },
+  "rpcUrls": {
+    "greymass": "https://protontestnet.greymass.com/",
+    "public": "https://protontestnet.greymass.com/",
+    "default": "https://protontestnet.greymass.com/"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

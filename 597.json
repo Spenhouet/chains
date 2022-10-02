@@ -1,0 +1,19 @@
+{
+  "id": 597,
+  "path": "/chains/597.json",
+  "name": "Acala Network Testnet",
+  "shortName": "taca",
+  "networkId": 597,
+  "network": "acala-network testnet",
+  "chain": "ACA",
+  "infoUrl": "https://acala.network",
+  "nativeCurrency": {
+    "name": "Acala Token",
+    "symbol": "ACA",
+    "decimals": 18
+  },
+  "rpcUrls": {},
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

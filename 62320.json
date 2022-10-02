@@ -1,0 +1,23 @@
+{
+  "id": 62320,
+  "path": "/chains/62320.json",
+  "name": "Celo Baklava Testnet",
+  "shortName": "BKLV",
+  "networkId": 62320,
+  "network": "celo-baklava testnet",
+  "chain": "CELO",
+  "infoUrl": "https://docs.celo.org/",
+  "nativeCurrency": {
+    "name": "CELO",
+    "symbol": "CELO",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "celo-testnet": "https://baklava-forno.celo-testnet.org",
+    "public": "https://baklava-forno.celo-testnet.org",
+    "default": "https://baklava-forno.celo-testnet.org"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6626,
+  "path": "/chains/6626.json",
+  "name": "Pixie Chain Mainnet",
+  "shortName": "pixie-chain",
+  "networkId": 6626,
+  "network": "pixie-chain mainnet",
+  "chain": "PixieChain",
+  "infoUrl": "https://chain.pixie.xyz",
+  "nativeCurrency": {
+    "name": "Pixie Chain Native Token",
+    "symbol": "PIX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "pixie": "https://http-mainnet.chain.pixie.xyz",
+    "public": "https://http-mainnet.chain.pixie.xyz",
+    "default": "https://http-mainnet.chain.pixie.xyz"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Blockscout",
+      "url": "https://scan.chain.pixie.xyz",
+      "standard": "none"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://scan.chain.pixie.xyz",
+      "standard": "none"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

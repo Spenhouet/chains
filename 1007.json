@@ -1,0 +1,23 @@
+{
+  "id": 1007,
+  "path": "/chains/1007.json",
+  "name": "Newton Testnet",
+  "shortName": "tnew",
+  "networkId": 1007,
+  "network": "newton-testnet",
+  "chain": "NEW",
+  "infoUrl": "https://www.newtonproject.org/",
+  "nativeCurrency": {
+    "name": "Newton",
+    "symbol": "NEW",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "newtonproject": "https://rpc1.newchain.newtonproject.org",
+    "public": "https://rpc1.newchain.newtonproject.org",
+    "default": "https://rpc1.newchain.newtonproject.org"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}

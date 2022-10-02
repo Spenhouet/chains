@@ -1,0 +1,34 @@
+{
+  "id": 63001,
+  "path": "/chains/63001.json",
+  "name": "eCredits Testnet",
+  "shortName": "ecs-testnet",
+  "networkId": 63001,
+  "network": "ecredits-testnet",
+  "chain": "ECS",
+  "infoUrl": "https://ecredits.com",
+  "nativeCurrency": {
+    "name": "eCredits",
+    "symbol": "ECS",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "ecredits": "https://rpc.tst.ecredits.com",
+    "public": "https://rpc.tst.ecredits.com",
+    "default": "https://rpc.tst.ecredits.com"
+  },
+  "blockExplorers": {
+    "blockscout": {
+      "name": "ECredits TestNet Explorer",
+      "url": "https://explorer.tst.ecredits.com",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "ECredits TestNet Explorer",
+      "url": "https://explorer.tst.ecredits.com",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": true,
+  "icons": {}
+}

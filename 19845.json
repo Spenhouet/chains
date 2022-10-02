@@ -1,0 +1,34 @@
+{
+  "id": 19845,
+  "path": "/chains/19845.json",
+  "name": "BTCIX Network",
+  "shortName": "btcix",
+  "networkId": 19845,
+  "network": "btcix-network",
+  "chain": "BTCIX",
+  "infoUrl": "https://bitcolojix.org",
+  "nativeCurrency": {
+    "name": "BTCIX Network",
+    "symbol": "BTCIX",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "btcix": "https://seed.btcix.org/rpc",
+    "public": "https://seed.btcix.org/rpc",
+    "default": "https://seed.btcix.org/rpc"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "BTCIXScan",
+      "url": "https://btcixscan.com",
+      "standard": "none"
+    },
+    "default": {
+      "name": "BTCIXScan",
+      "url": "https://btcixscan.com",
+      "standard": "none"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

@@ -1,0 +1,34 @@
+{
+  "id": 225,
+  "path": "/chains/225.json",
+  "name": "LACHAIN Mainnet",
+  "shortName": "LA",
+  "networkId": 225,
+  "network": "lachain-mainnet",
+  "chain": "LA",
+  "infoUrl": "https://lachain.io",
+  "nativeCurrency": {
+    "name": "LA",
+    "symbol": "LA",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "lachain": "https://rpc-mainnet.lachain.io",
+    "public": "https://rpc-mainnet.lachain.io",
+    "default": "https://rpc-mainnet.lachain.io"
+  },
+  "blockExplorers": {
+    "etherscan": {
+      "name": "Blockscout",
+      "url": "https://scan.lachain.io",
+      "standard": "EIP3091"
+    },
+    "default": {
+      "name": "Blockscout",
+      "url": "https://scan.lachain.io",
+      "standard": "EIP3091"
+    }
+  },
+  "testnet": false,
+  "icons": {}
+}

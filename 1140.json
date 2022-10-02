@@ -1,0 +1,23 @@
+{
+  "id": 1140,
+  "path": "/chains/1140.json",
+  "name": "MathChain Testnet",
+  "shortName": "tMATH",
+  "networkId": 1140,
+  "network": "mathchain-testnet",
+  "chain": "MATH",
+  "infoUrl": "https://mathchain.org",
+  "nativeCurrency": {
+    "name": "MathChain",
+    "symbol": "MATH",
+    "decimals": 18
+  },
+  "rpcUrls": {
+    "maiziqianbao": "https://galois-hk.maiziqianbao.net/rpc",
+    "public": "https://galois-hk.maiziqianbao.net/rpc",
+    "default": "https://galois-hk.maiziqianbao.net/rpc"
+  },
+  "blockExplorers": {},
+  "testnet": true,
+  "icons": {}
+}
