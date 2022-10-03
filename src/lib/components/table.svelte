@@ -23,16 +23,16 @@
 	/** @type {any[]} */
 	export let rows = data.filter((d) => d.name).map((d) => mapping(d));
 
-	let length = rows.length;
-	let loaded = length;
+	$: length = rows.length;
+	let targetLength = rows.length;
 
 	async function loadData() {
-		length += chunk;
-		for (const { id, path } of data.slice(loaded, length)) {
+		targetLength = length + chunk;
+		for (const { id, path } of data.slice(length, targetLength)) {
 			const rowData = (await axios.get(path)).data;
 			rows = [...rows, mapping(rowData)];
 		}
-		loaded = length;
+		targetLength = length;
 	}
 
 	$: columnLengths = columns.reduce((l, { id }) => {
@@ -72,7 +72,7 @@
 			</tr>
 		</thead>
 		<tbody class="divide-y divide-gray-200 bg-gray-50">
-			{#each rows.filter((row) => JSON.stringify(row).includes(filter)) as row}
+			{#each filter ? rows.filter((row) => JSON.stringify(row).includes(filter)) : rows as row}
 				<tr>
 					{#each columns as column}
 						<td
@@ -119,8 +119,8 @@
 					{/each}
 				</tr>
 			{/each}
-			{#if loaded < length}
-				{#each [...Array(length - loaded).keys()] as i}
+			{#if length < targetLength}
+				{#each [...Array(targetLength - length).keys()] as i}
 					<tr class="animate-pulse blur">
 						{#each columns as column}
 							<td
@@ -154,10 +154,6 @@
 	{/if}
 </div>
 
-<!-- </div>
-		</div>
-	</div>
-</div> -->
 <style>
 	table {
 		border-spacing: 0;

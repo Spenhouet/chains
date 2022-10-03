@@ -1,4 +1,3 @@
-import axios from 'axios';
 import { readChains } from './(api)/chains.json/+server';
 import { readChain } from './(api)/[id].json/+server';
 
@@ -9,8 +8,8 @@ export async function load() {
     /** @type {import('./(api)/[id].json/+server').Chain[]} */
     let chains = readChains().sort((a, b) => a.id - b.id)
 
-    for (const { id, path } of chains.slice(0, PREFETCH)) {
-        chains[id] = readChain(id);
+    for (const chain of chains.slice(0, PREFETCH)) {
+        Object.assign(chain, readChain(chain.id))
     }
 
     return { chains }

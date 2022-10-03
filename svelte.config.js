@@ -2,6 +2,7 @@ import fs from 'fs';
 import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-static';
 
+// TODO copy icons to static folder
 
 const chainIds = fs.readdirSync(`./chains`, { withFileTypes: true })
 	.filter(dirent => dirent.isDirectory())

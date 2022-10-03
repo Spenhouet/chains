@@ -4,6 +4,10 @@ import yaml from 'yaml';
 import psl from 'psl';
 import sharp from 'sharp'
 
+// TODO store date of successful execution
+// TODO check reference repository if something is newer than last execution date, if yes pull
+// TODO write daily GitHub action
+
 const chainsDir = '../chains'
 
 /** @typedef {{name: string, chain: string, icon: string, rpc: string[], faucets?: any[], nativeCurrency: {name: string, symbol: string, decimals: number}, infoURL?: string, shortName: string, chainId: number, networkId: number, slip44?: number, ens: {registry: string}, explorers?: {name: string, url: string, standard: string}[] }} Chain */
