@@ -1,6 +1,6 @@
 {
   "id": 10000,
-  "path": "/chains/10000.json",
+  "path": "10000.json",
   "name": "Smart Bitcoin Cash",
   "shortName": "smartbch",
   "networkId": 10000,

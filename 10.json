@@ -1,6 +1,6 @@
 {
   "id": 10,
-  "path": "/chains/10.json",
+  "path": "10.json",
   "name": "Optimism",
   "shortName": "oeth",
   "networkId": 10,

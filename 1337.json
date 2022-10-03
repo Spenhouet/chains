@@ -1,6 +1,6 @@
 {
   "id": 1337,
-  "path": "/chains/1337.json",
+  "path": "1337.json",
   "name": "CENNZnet old",
   "shortName": "cennz-old",
   "networkId": 1337,

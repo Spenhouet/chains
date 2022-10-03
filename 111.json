@@ -1,6 +1,6 @@
 {
   "id": 111,
-  "path": "/chains/111.json",
+  "path": "111.json",
   "name": "EtherLite Chain",
   "shortName": "ETL",
   "networkId": 111,

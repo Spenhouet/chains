@@ -1,6 +1,6 @@
 {
   "id": 600,
-  "path": "/chains/600.json",
+  "path": "600.json",
   "name": "Meshnyan testnet",
   "shortName": "mesh-chain-testnet",
   "networkId": 600,

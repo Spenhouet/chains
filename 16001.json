@@ -1,6 +1,6 @@
 {
   "id": 16001,
-  "path": "/chains/16001.json",
+  "path": "16001.json",
   "name": "MetaDot Testnet",
   "shortName": "mtttest",
   "networkId": 16001,

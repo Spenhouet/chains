@@ -1,6 +1,6 @@
 {
   "id": 123,
-  "path": "/chains/123.json",
+  "path": "123.json",
   "name": "Fuse Sparknet",
   "shortName": "spark",
   "networkId": 123,

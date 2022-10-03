@@ -1,6 +1,6 @@
 {
   "id": 200101,
-  "path": "/chains/200101.json",
+  "path": "200101.json",
   "name": "Milkomeda C1 Testnet",
   "shortName": "milkTAda",
   "networkId": 200101,

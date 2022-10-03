@@ -1,6 +1,6 @@
 {
   "id": 900000,
-  "path": "/chains/900000.json",
+  "path": "900000.json",
   "name": "Posichain Mainnet Shard 0",
   "shortName": "psc-s0",
   "networkId": 900000,

@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "path": "/chains/1.json",
+  "path": "1.json",
   "name": "Ethereum Mainnet",
   "shortName": "eth",
   "networkId": 1,

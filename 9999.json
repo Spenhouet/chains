@@ -1,6 +1,6 @@
 {
   "id": 9999,
-  "path": "/chains/9999.json",
+  "path": "9999.json",
   "name": "myOwn Testnet",
   "shortName": "myn",
   "networkId": 9999,

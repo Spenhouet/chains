@@ -1,6 +1,6 @@
 {
   "id": 1000,
-  "path": "/chains/1000.json",
+  "path": "1000.json",
   "name": "GTON Mainnet",
   "shortName": "gton",
   "networkId": 1000,

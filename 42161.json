@@ -1,6 +1,6 @@
 {
   "id": 42161,
-  "path": "/chains/42161.json",
+  "path": "42161.json",
   "name": "Arbitrum One",
   "shortName": "arb1",
   "networkId": 42161,

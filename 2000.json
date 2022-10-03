@@ -1,6 +1,6 @@
 {
   "id": 2000,
-  "path": "/chains/2000.json",
+  "path": "2000.json",
   "name": "Dogechain Mainnet",
   "shortName": "dc",
   "networkId": 2000,

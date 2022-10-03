@@ -1,6 +1,6 @@
 {
   "id": 10001,
-  "path": "/chains/10001.json",
+  "path": "10001.json",
   "name": "Smart Bitcoin Cash Testnet",
   "shortName": "smartbchtest",
   "networkId": 10001,

@@ -1,6 +1,6 @@
 {
   "id": 31337,
-  "path": "/chains/31337.json",
+  "path": "31337.json",
   "name": "GoChain Testnet",
   "shortName": "got",
   "networkId": 31337,

@@ -1,6 +1,6 @@
 {
   "id": 100100,
-  "path": "/chains/100100.json",
+  "path": "100100.json",
   "name": "Chiado Testnet",
   "shortName": "chi",
   "networkId": 100100,

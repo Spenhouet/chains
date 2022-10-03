@@ -1,6 +1,6 @@
 {
   "id": 40,
-  "path": "/chains/40.json",
+  "path": "40.json",
   "name": "Telos EVM Mainnet",
   "shortName": "TelosEVM",
   "networkId": 40,

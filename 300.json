@@ -1,6 +1,6 @@
 {
   "id": 300,
-  "path": "/chains/300.json",
+  "path": "300.json",
   "name": "Optimism on Gnosis",
   "shortName": "ogc",
   "networkId": 300,

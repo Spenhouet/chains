@@ -1,6 +1,6 @@
 {
   "id": 8080,
-  "path": "/chains/8080.json",
+  "path": "8080.json",
   "name": "Shardeum Liberty",
   "shortName": "ShardeumSHM",
   "networkId": 8080,

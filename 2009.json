@@ -1,6 +1,6 @@
 {
   "id": 2009,
-  "path": "/chains/2009.json",
+  "path": "2009.json",
   "name": "CloudWalk Mainnet",
   "shortName": "cloudwalk_mainnet",
   "networkId": 2009,

@@ -1,6 +1,6 @@
 {
   "id": 420,
-  "path": "/chains/420.json",
+  "path": "420.json",
   "name": "Optimism Goerli Testnet",
   "shortName": "ogor",
   "networkId": 420,

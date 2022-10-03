@@ -1,6 +1,6 @@
 {
   "id": 3,
-  "path": "/chains/3.json",
+  "path": "3.json",
   "name": "Ropsten",
   "shortName": "rop",
   "networkId": 3,

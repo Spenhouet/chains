@@ -1,6 +1,6 @@
 {
   "id": 110000,
-  "path": "/chains/110000.json",
+  "path": "110000.json",
   "name": "QuarkChain Devnet Root",
   "shortName": "qkc-d-r",
   "networkId": 110000,

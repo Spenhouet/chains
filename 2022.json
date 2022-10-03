@@ -1,6 +1,6 @@
 {
   "id": 2022,
-  "path": "/chains/2022.json",
+  "path": "2022.json",
   "name": "Beresheet Testnet",
   "shortName": "edgt",
   "networkId": 2022,

@@ -1,6 +1,6 @@
 {
   "id": 1001,
-  "path": "/chains/1001.json",
+  "path": "1001.json",
   "name": "Klaytn Testnet Baobab",
   "shortName": "Baobab",
   "networkId": 1001,

@@ -1,6 +1,6 @@
 {
   "id": 100,
-  "path": "/chains/100.json",
+  "path": "100.json",
   "name": "Gnosis",
   "shortName": "gno",
   "networkId": 100,

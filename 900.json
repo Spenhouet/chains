@@ -1,6 +1,6 @@
 {
   "id": 900,
-  "path": "/chains/900.json",
+  "path": "900.json",
   "name": "Garizon Testnet Stage0",
   "shortName": "gar-test-s0",
   "networkId": 900,

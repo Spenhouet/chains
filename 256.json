@@ -1,6 +1,6 @@
 {
   "id": 256,
-  "path": "/chains/256.json",
+  "path": "256.json",
   "name": "Huobi ECO Chain Testnet",
   "shortName": "hecot",
   "networkId": 256,

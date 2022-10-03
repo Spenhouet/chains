@@ -1,6 +1,6 @@
 {
   "id": 9001,
-  "path": "/chains/9001.json",
+  "path": "9001.json",
   "name": "Evmos",
   "shortName": "evmos",
   "networkId": 9001,

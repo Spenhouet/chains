@@ -1,6 +1,6 @@
 {
   "id": 2222,
-  "path": "/chains/2222.json",
+  "path": "2222.json",
   "name": "Kava EVM",
   "shortName": "kava",
   "networkId": 2222,

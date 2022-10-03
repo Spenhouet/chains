@@ -1,6 +1,6 @@
 {
   "id": 200,
-  "path": "/chains/200.json",
+  "path": "200.json",
   "name": "Arbitrum on xDai",
   "shortName": "aox",
   "networkId": 200,

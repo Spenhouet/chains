@@ -1,6 +1,6 @@
 {
   "id": 80001,
-  "path": "/chains/80001.json",
+  "path": "80001.json",
   "name": "Mumbai",
   "shortName": "maticmum",
   "networkId": 80001,

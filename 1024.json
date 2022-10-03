@@ -1,6 +1,6 @@
 {
   "id": 1024,
-  "path": "/chains/1024.json",
+  "path": "1024.json",
   "name": "CLV Parachain",
   "shortName": "clv",
   "networkId": 1024,

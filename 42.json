@@ -1,6 +1,6 @@
 {
   "id": 42,
-  "path": "/chains/42.json",
+  "path": "42.json",
   "name": "Kovan",
   "shortName": "kov",
   "networkId": 42,

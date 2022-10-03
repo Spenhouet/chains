@@ -1,6 +1,6 @@
 {
   "id": 110001,
-  "path": "/chains/110001.json",
+  "path": "110001.json",
   "name": "QuarkChain Devnet Shard 0",
   "shortName": "qkc-d-s0",
   "networkId": 110001,

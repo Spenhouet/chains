@@ -1,6 +1,6 @@
 {
   "id": 60001,
-  "path": "/chains/60001.json",
+  "path": "60001.json",
   "name": "Thinkium Testnet Chain 1",
   "shortName": "TKM-test1",
   "networkId": 60001,

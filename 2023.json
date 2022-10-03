@@ -1,6 +1,6 @@
 {
   "id": 2023,
-  "path": "/chains/2023.json",
+  "path": "2023.json",
   "name": "Taycan Testnet",
   "shortName": "taycan-testnet",
   "networkId": 2023,

@@ -1,6 +1,6 @@
 {
   "id": 2203,
-  "path": "/chains/2203.json",
+  "path": "2203.json",
   "name": "Bitcoin EVM",
   "shortName": "eBTC",
   "networkId": 2203,

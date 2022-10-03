@@ -1,6 +1,6 @@
 {
   "id": 280,
-  "path": "/chains/280.json",
+  "path": "280.json",
   "name": "zkSync alpha testnet",
   "shortName": "zksync-goerli",
   "networkId": 280,

@@ -1,6 +1,6 @@
 {
   "id": 8888,
-  "path": "/chains/8888.json",
+  "path": "8888.json",
   "name": "Ambros Chain Testnet",
   "shortName": "ambrostestnet",
   "networkId": 8888,

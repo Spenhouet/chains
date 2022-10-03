@@ -1,6 +1,6 @@
 {
   "id": 15555,
-  "path": "/chains/15555.json",
+  "path": "15555.json",
   "name": "Trust EVM Testnet",
   "shortName": "TrustTestnet",
   "networkId": 15555,

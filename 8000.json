@@ -1,6 +1,6 @@
 {
   "id": 8000,
-  "path": "/chains/8000.json",
+  "path": "8000.json",
   "name": "Teleport",
   "shortName": "teleport",
   "networkId": 8000,
