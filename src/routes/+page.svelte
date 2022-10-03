@@ -19,15 +19,15 @@
 
 <nav class="sticky top-0 z-10 bg-gray-200 bg-opacity-75 backdrop-blur backdrop-filter">
 	<div
-		class="flex justify-between h-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 transition-all duration-500"
+		class="flex justify-between space-x-2 h-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 transition-all duration-500"
 	>
 		<a href={base} class="flex">
 			<div class="flex-shrink-0 flex items-center space-x-2">
 				<img class="block h-8 w-8" src="{base}/logo.svg" alt="Chains Logo" />
-				<div class="text-3xl uppercase">Chains</div>
+				<div class="text-3xl uppercase hidden sm:block">Chains</div>
 			</div>
 		</a>
-		<div class="flex-1 flex items-center justify-center px-2 lg:ml-6 lg:justify-end">
+		<div class="flex-1 flex items-center justify-center lg:ml-6 lg:justify-end">
 			<div class="w-full">
 				<Search bind:query />
 			</div>
@@ -51,7 +51,7 @@
 				chunk={15}
 				columns={[
 					{ id: 'id', title: 'Chain ID', class: 'w-[15vw]' },
-					{ id: 'name', title: 'Name', class: 'font-medium w-[30vw]' },
+					{ id: 'name', title: 'Name', class: 'font-medium w-[30vw] whitespace-pre-wrap' },
 					{
 						id: 'nativeCurrency',
 						title: 'Native Currency',
@@ -60,7 +60,7 @@
 					{
 						id: 'config',
 						title: 'Config',
-						class: 'text-right pr-4 sm:pr-6 lg:pr-8 w-[20vw]',
+						class: 'text-right w-[20vw]',
 						link: true
 					}
 				]}
@@ -75,7 +75,7 @@
 					'config-path': { text: chain.path, value: chain.path }
 				})}
 				filter={query}
-				class="-mx-4 sm:-mx-6 lg:-mx-8 bg-gray-50"
+				class="bg-gray-50"
 			/>
 		</div>
 	</div>

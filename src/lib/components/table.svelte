@@ -48,13 +48,6 @@
 	}, {});
 </script>
 
-<!-- divide-y divide-gray-300 -->
-<!-- class="sticky top-0 z-10 border-b border-gray-300 bg-gray-50 bg-opacity-75 backdrop-blur backdrop-filter py-3.5 pl-4 sm:pl-6 lg:pl-8 pr-1 text-left text-sm font-semibold text-gray-900 transition-all duration-500 {column.class}" -->
-
-<!-- <div class="mt-8 flex flex-col">
-	<div class="-my-2 -mx-4 sm:-mx-6 lg:-mx-8">
-		<div class="inline-block min-w-full py-2 align-middle">
-			<div class="shadow-sm ring-1 ring-black ring-opacity-5"> -->
 <div class={clazz}>
 	<table class="min-w-full divide-y divide-gray-300 border-separate table-fixed">
 		<thead class="bg-gray-50">
@@ -62,7 +55,7 @@
 				{#each columns as column}
 					<th
 						scope="col"
-						class="sticky top-16 z-10 border-gray-300 bg-gray-50 bg-opacity-75 backdrop-blur backdrop-filter py-3.5 pl-4 sm:pl-6 lg:pl-8 pr-1 text-left text-sm font-semibold text-gray-900 transition-all duration-500 {column.class}"
+						class="sticky top-16 z-10 border-gray-300 bg-gray-50 bg-opacity-75 backdrop-blur backdrop-filter py-3.5 text-left text-sm font-semibold text-gray-900 transition-all duration-500 {column.class}"
 					>
 						<div class="inline-flex">
 							{column.title}
@@ -76,7 +69,7 @@
 				<tr>
 					{#each columns as column}
 						<td
-							class="whitespace-nowrap py-4 pl-4 pr-1 text-sm text-gray-900 sm:pl-6 lg:pl-8 transition-all duration-500 {column.class}"
+							class="whitespace-nowrap py-4 text-sm text-gray-900 transition-all duration-500 overflow-ellipsis {column.class}"
 						>
 							{#if column.link}
 								<a
@@ -124,7 +117,7 @@
 					<tr class="animate-pulse blur">
 						{#each columns as column}
 							<td
-								class="whitespace-nowrap py-4 pl-4 pr-1 text-sm text-gray-900 sm:pl-6 lg:pl-8 transition-all duration-500 {column.class}"
+								class="whitespace-nowrap py-4 text-sm text-gray-900 transition-all duration-500 {column.class}"
 							>
 								{random(columnLengths[column.id].mean, columnLengths[column.id].std)}
 							</td>
