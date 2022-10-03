@@ -53,8 +53,6 @@
 		};
 	}
 
-	async function loadData() {}
-
 	async function loadChunk() {
 		const start = length;
 		const end = Math.min(length + chunk, data.length);
@@ -144,8 +142,8 @@
 			{/each}
 			{#if !isLoading}
 				<div
-					class="hiden"
-					use:inview={{ threshold: 0, rootMargin: '50px 0px 0px 0px' }}
+					class="w-0 h-0"
+					use:inview={{ rootMargin: '100px', unobserveOnEnter: true }}
 					on:enter={(event) => {
 						if (event.detail.inView) {
 							loadChunk();

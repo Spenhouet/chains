@@ -48,7 +48,7 @@
 		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 transition-all duration-500">
 			<Table
 				data={chains}
-				chunk={15}
+				chunk={20}
 				columns={[
 					{ id: 'id', title: 'Chain ID', class: 'w-[17vw]' },
 					{ id: 'name', title: 'Name', class: 'font-medium w-[30vw]' },
