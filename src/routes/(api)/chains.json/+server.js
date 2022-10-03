@@ -1,7 +1,5 @@
 import fs from 'fs';
-import { base } from '$app/paths';
 import { error } from '@sveltejs/kit';
-import axios from 'axios'
 import { jsonResponse } from '$lib/utils/response';
 import { readChain } from '../[id].json/+server';
 
