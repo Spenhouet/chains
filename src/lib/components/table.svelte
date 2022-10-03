@@ -65,7 +65,9 @@
 			</tr>
 		</thead>
 		<tbody class="divide-y divide-gray-200 bg-gray-50">
-			{#each filter ? rows.filter((row) => JSON.stringify(row).includes(filter)) : rows as row}
+			{#each filter ? rows.filter((row) => JSON.stringify(row)
+							.toLowerCase()
+							.includes(filter)) : rows as row}
 				<tr>
 					{#each columns as column}
 						<td
