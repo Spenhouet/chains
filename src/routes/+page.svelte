@@ -21,12 +21,12 @@
 	<div
 		class="flex justify-between h-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 transition-all duration-500"
 	>
-		<div class="flex">
+		<a href={base} class="flex">
 			<div class="flex-shrink-0 flex items-center space-x-2">
 				<img class="block h-8 w-8" src="{base}/logo.svg" alt="Chains Logo" />
 				<div class="text-3xl uppercase">Chains</div>
 			</div>
-		</div>
+		</a>
 		<div class="flex-1 flex items-center justify-center px-2 lg:ml-6 lg:justify-end">
 			<div class="w-full">
 				<Search bind:query />
