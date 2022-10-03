@@ -72,6 +72,10 @@
 		}
 		await Promise.all(promises);
 	}
+
+	$: visibleRows = filter
+		? rows.filter((row) => JSON.stringify(row).toLowerCase().includes(filter.toLowerCase()))
+		: rows;
 </script>
 
 <div class={clazz}>
@@ -91,9 +95,7 @@
 			</tr>
 		</thead>
 		<tbody class="divide-y divide-gray-200 bg-gray-50">
-			{#each filter ? rows.filter((row) => JSON.stringify(row)
-							.toLowerCase()
-							.includes(filter.toLowerCase())) : rows as row}
+			{#each visibleRows as row}
 				<tr class={row.placeholder ? 'animate-pulse blur' : ''}>
 					{#each columns as column}
 						<td
@@ -155,11 +157,11 @@
 			{/if}
 		</tbody>
 	</table>
-	{#if data.length == 0}
+	{#if visibleRows.length == 0}
 		<div class="py-4 max-w-3xl mx-auto text-center text-lg font-thin text-gray-500">
-			There are no chains recorded yet. You can help add some <a
+			No chain records found. You can help add them <a
 				href="https://github.com/ethereum-lists/chains"
-				class="underline hover:text-blue-700">here</a
+				class="text-indigo-600 hover:text-indigo-900">here</a
 			>!
 		</div>
 	{/if}
