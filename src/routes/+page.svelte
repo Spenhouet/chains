@@ -50,29 +50,27 @@
 				data={chains}
 				chunk={15}
 				columns={[
-					{ id: 'id', title: 'Chain ID', class: 'w-[15vw]' },
-					{ id: 'name', title: 'Name', class: 'font-medium w-[30vw] whitespace-pre-wrap' },
+					{ id: 'id', title: 'Chain ID', class: 'w-[17vw]' },
+					{ id: 'name', title: 'Name', class: 'font-medium w-[30vw]' },
 					{
 						id: 'nativeCurrency',
 						title: 'Native Currency',
-						class: 'hidden md:table-cell w-[35vw]'
+						class: 'hidden md:table-cell w-[33vw]'
 					},
 					{
 						id: 'config',
 						title: 'Config',
-						class: 'text-right w-[20vw]',
-						link: true
+						class: 'text-right w-[20vw]'
 					}
 				]}
 				mapping={(chain) => ({
-					id: { text: `${chain.id}`, value: `${chain.id}` },
+					id: { text: `${chain.id}`, value: chain.id },
 					name: { text: chain.name, value: chain.name },
 					nativeCurrency: {
 						text: `${chain.nativeCurrency.name} (${chain.nativeCurrency.symbol})`,
 						value: `${chain.nativeCurrency.name} (${chain.nativeCurrency.symbol})`
 					},
-					config: { text: 'Open config', value: chain.path },
-					'config-path': { text: chain.path, value: chain.path }
+					config: { text: 'Open config', value: chain.path, href: chain.path }
 				})}
 				filter={query}
 				class="bg-gray-50"

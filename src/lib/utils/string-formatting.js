@@ -81,5 +81,5 @@ export function combine(...criteria) {
  * @return {string}
  */
 export function random(length, extra = 1) {
-    return (Math.random() + 1).toString(36).substring(2).substring(0, length + Math.round(Math.random() * extra))
+    return (Math.random() + 1).toString(36).substring(2).substring(0, length + Math.ceil(Math.random() * extra))
 }
