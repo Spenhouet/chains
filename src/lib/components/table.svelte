@@ -103,7 +103,7 @@
 						>
 							{#if row[column.id].href}
 								<a
-									href={row[column.id].href}
+									href={`${base}/${row[column.id].href}`}
 									target="_blank"
 									class="text-indigo-600 hover:text-indigo-900"
 								>

@@ -81,7 +81,7 @@
 						text: `${chain.nativeCurrency.name} (${chain.nativeCurrency.symbol})`,
 						value: `${chain.nativeCurrency.name} (${chain.nativeCurrency.symbol})`
 					},
-					config: { text: chain.path, value: chain.path, href: `${base}/${chain.path}` }
+					config: { text: chain.path, value: chain.path, href: chain.path }
 				})}
 				filter={query}
 				class="bg-gray-50"
