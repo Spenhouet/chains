@@ -61,7 +61,7 @@
 				data={chains}
 				chunk={20}
 				columns={[
-					{ id: 'id', title: 'Chain ID', class: 'w-[17vw]' },
+					{ id: 'id', title: 'ID', class: 'hidden sm:table-cell w-[17vw]' },
 					{ id: 'name', title: 'Name', class: 'font-medium w-[30vw]' },
 					{
 						id: 'nativeCurrency',
