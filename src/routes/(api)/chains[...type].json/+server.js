@@ -1,12 +1,15 @@
 import fs from 'fs';
 import { error } from '@sveltejs/kit';
-import { jsonResponse } from '$lib/utils/response';
+import { jsonResponse, minJsonResponse } from '$lib/utils/response';
 import { readChain } from '../[id].json/+server';
 
 export const prerender = true;
 
-/** @returns {{id: number, path: string}[]} */
-export function readChains() {
+/** 
+ * @param {boolean} fullLoad
+ * @returns {{id: number, path: string}[]} 
+ */
+export function readChains(fullLoad = false) {
     const chainIds = fs.readdirSync(`./chains`, { withFileTypes: true })
         .filter(dirent => dirent.isDirectory())
         .map(dirent => +dirent.name);
@@ -16,8 +19,8 @@ export function readChains() {
     }
 
     const chains = chainIds.map((id) => {
-        const chain = readChain(id);
-        return {
+        const chain = readChain(id)
+        return fullLoad ? chain : {
             id,
             path: chain.path
         }
@@ -28,7 +31,10 @@ export function readChains() {
 
 /** @type {import('./$types').RequestHandler} */
 export async function GET({ params }) {
-    const chains = readChains().sort((a, b) => a.id - b.id);
+    const minJson = params.type.includes('.min')
+    const fullLoad = params.type.includes('-full')
 
-    return jsonResponse(chains);
+    const chains = readChains(fullLoad).sort((a, b) => a.id - b.id);
+
+    return minJson ? minJsonResponse(chains) : jsonResponse(chains);
 }

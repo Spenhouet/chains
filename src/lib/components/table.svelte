@@ -2,8 +2,8 @@
 	import { base } from '$app/paths';
 	import { inview } from 'svelte-inview';
 	import axios from 'axios';
-	import { random } from '$lib/utils/string-formatting';
 	import * as _ from 'lodash-es';
+	import { random } from '$lib/utils/string-formatting';
 
 	let clazz = '';
 	export { clazz as class };
@@ -65,7 +65,9 @@
 
 		let promises = [];
 		for (let i = start - 1; i < end; i++) {
-			const promise = axios.get(data[i].path).then(({ data }) => (rows[i] = mapping(data)));
+			const promise = axios
+				.get(`${base}/${data[i].path}`)
+				.then(({ data }) => (rows[i] = mapping(data)));
 			promises.push(promise);
 		}
 		await Promise.all(promises);

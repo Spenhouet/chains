@@ -39,8 +39,19 @@
 		<h1 class="text-3xl font-bold">Wagmi compatible chain configurations</h1>
 		<p class="mt-2">
 			Wagmi compatible chain configurations compiled from <a
-				class="underline hover:text-blue-700"
+				class="text-indigo-600 hover:text-indigo-900"
 				href="https://github.com/ethereum-lists/chains">ethereum-lists</a
+			>. Find the respective json configs below or via
+			<a class="text-indigo-600 hover:text-indigo-900" href="{base}/chains.json">chains.json</a>,
+			<a class="text-indigo-600 hover:text-indigo-900" href="{base}/chains.min.json"
+				>chains.min.json</a
+			>,
+			<a class="text-indigo-600 hover:text-indigo-900" href="{base}/chains-full.json"
+				>chains-full.json</a
+			>
+			or
+			<a class="text-indigo-600 hover:text-indigo-900" href="{base}/chains-full.min.json"
+				>chains-full.min.json</a
 			>.
 		</p>
 	</div>
@@ -70,7 +81,7 @@
 						text: `${chain.nativeCurrency.name} (${chain.nativeCurrency.symbol})`,
 						value: `${chain.nativeCurrency.name} (${chain.nativeCurrency.symbol})`
 					},
-					config: { text: 'Open config', value: chain.path, href: chain.path }
+					config: { text: chain.path, value: chain.path, href: `${base}/${chain.path}` }
 				})}
 				filter={query}
 				class="bg-gray-50"

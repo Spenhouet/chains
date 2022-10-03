@@ -21,7 +21,7 @@ export function readChain(id) {
 
     return {
         id,
-        path: `${base}/${id}.json`,
+        path: `${id}.json`,
         ...chain,
         icons: {} // TODO set icon paths
     }

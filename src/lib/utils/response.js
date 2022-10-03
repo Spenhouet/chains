@@ -7,3 +7,12 @@ export function jsonResponse(x) {
         }
     });
 }
+
+/** @param {object} x */
+export function minJsonResponse(x) {
+    return new Response(JSON.stringify(x), {
+        headers: {
+            'content-type': 'application/json; charset=utf-8',
+        }
+    });
+}

@@ -1,4 +1,4 @@
-import { readChains } from './(api)/chains.json/+server';
+import { readChains } from './(api)/chains[...type].json/+server';
 import { readChain } from './(api)/[id].json/+server';
 
 const PREFETCH = 20

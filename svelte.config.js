@@ -29,7 +29,10 @@ const config = {
 				'*',
 				'/',
 				...chainIds.map((id) => `/${id}.json`),
-				'/chains.json'
+				'/chains.json',
+				'/chains.min.json',
+				'/chains-full.json',
+				'/chains-full.min.json'
 			]
 		},
 	},
